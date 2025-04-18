@@ -55,9 +55,9 @@ class CollaborativeFiltering:
         return similarity_dataframe
   
 
-    def __predict_rating(self, item_similarity_matrix, utility_matrix, user_purchased_items, target_user, target_item, k=10):
+    def __predict_rating(self, item_similarity_matrix, utility_matrix, user_purchased_items, target_user, target_item, n_neighbour):
         similar_items = item_similarity_matrix[target_item].drop(index=target_item)
-        top_k_items = similar_items.sort_values(ascending=False).head(k)
+        top_k_items = similar_items.sort_values(ascending=False).head(n_neighbour)
         
         weighted_sum = 0
         similarity_sum = 0
@@ -84,17 +84,23 @@ class CollaborativeFiltering:
     def get_item_similarity_matrix(self):
         return self.item_similarity_matrix
     
-    def recommend_items(self, target_user, n_recommend_items=None):
+    def recommend_items(self, target_user, n_recommended_items=None, n_similar_neighbours = 10):
         user_ratings_row = self.utility_matrix.loc[target_user]
 
         user_unpurchased_items = user_ratings_row[user_ratings_row.isna()].index.tolist()
         user_purchased_items = user_ratings_row[~user_ratings_row.isna()].index.tolist()
         rating_predictions = {}
-        for item in user_unpurchased_items:
-            predicted_rating = self.__predict_rating(self.item_similarity_matrix, self.utility_matrix, user_purchased_items, target_user, item)
-            rating_predictions[item] = predicted_rating
+        for target_item in user_unpurchased_items:
+            predicted_rating = self.__predict_rating(self.item_similarity_matrix, 
+                                                     self.utility_matrix, 
+                                                     user_purchased_items, 
+                                                     target_user, 
+                                                     target_item,
+                                                     n_similar_neighbours,
+                                                     )
+            rating_predictions[target_item] = predicted_rating
         
         recommended_items = sorted(rating_predictions.items(), key=lambda x: x[1], reverse=True)
-        if not n_recommend_items:
+        if not n_recommended_items:
             return recommended_items
-        return recommended_items[:n_recommend_items]
+        return recommended_items[:n_recommended_items]
