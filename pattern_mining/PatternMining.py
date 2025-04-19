@@ -1,19 +1,21 @@
-
+# Required imports
 import pandas as pd
 import os
 from datetime import datetime
 from mlxtend.frequent_patterns import apriori, fpgrowth, association_rules
 
 class PatternMiningEngine:
+    # === Constructor ===
     def __init__(self, df_encoded):
-        self.df_encoded = df_encoded
-        self.min_support = 0.001
-        self.min_confidence = 0.001
-        self.top_n = 100
-        self.weights = (0.34, 0.06, 0.60)
-        self.algorithm = 'both'
+        self.df_encoded = df_encoded                     # Encoded transactional dataset (one-hot format)
+        self.min_support = 0.001                         # Minimum support threshold
+        self.min_confidence = 0.001                      # Minimum confidence threshold
+        self.top_n = 100                                 # Number of top rules to keep
+        self.weights = (0.34, 0.06, 0.60)                # Weights for Composite C4: (support, confidence, lift)
+        self.algorithm = 'both'                          # Algorithm: 'apriori', 'fp-growth', or 'both'
         print("Initialized PatternMiningEngine with default parameters.")
 
+    # === String Representation for Debugging ===
     def __str__(self):
         return (f"PatternMiningEngine(algorithm='{self.algorithm}', min_support={self.min_support}, "
                 f"min_confidence={self.min_confidence}, top_n={self.top_n}, weights={self.weights})")
@@ -21,6 +23,7 @@ class PatternMiningEngine:
     def __repr__(self):
         return self.__str__()
 
+    # === Equality Check for Instances ===
     def __eq__(self, other):
         if not isinstance(other, PatternMiningEngine):
             return NotImplemented
@@ -35,6 +38,7 @@ class PatternMiningEngine:
     def __hash__(self):
         return hash((self.min_support, self.min_confidence, self.top_n, self.weights, self.algorithm))
 
+    # === Setters ===
     def set_min_support(self, value):
         self.min_support = value
         print(f"min_support set to: {value}")
@@ -57,6 +61,7 @@ class PatternMiningEngine:
             self.algorithm = algorithm
             print(f"algorithm set to: {algorithm}")
 
+    # === Getters ===
     def get_min_support(self):
         return self.min_support
 
@@ -72,6 +77,7 @@ class PatternMiningEngine:
     def get_algorithm(self):
         return self.algorithm
 
+    # === Mine Frequent Itemsets ===
     def mine_frequent_itemsets(self):
         print("Mining frequent itemsets...")
         if self.algorithm in ['apriori', 'both']:
@@ -82,6 +88,7 @@ class PatternMiningEngine:
             self.frequent_fp = fpgrowth(self.df_encoded, min_support=self.min_support, use_colnames=True)
         print("Frequent itemset mining complete.")
 
+    # === Generate Association Rules ===
     def generate_rules(self):
         print("Generating association rules...")
         if hasattr(self, 'frequent_ap'):
@@ -92,17 +99,20 @@ class PatternMiningEngine:
             self.fpgrowth_rules = association_rules(self.frequent_fp, metric="confidence", min_threshold=self.min_confidence)
         print("Association rule generation complete.")
 
+    # === Score Rules using Composite C4 and Select Top N ===
     def add_c4_and_get_top_rules(self, rules_df, algorithm_name='Apriori'):
         print(f"Scoring rules with Composite C4 for {algorithm_name}...")
         df = rules_df.copy()
         w_supp, w_conf, w_lift = self.weights
         df['composite_c4'] = w_supp * df['support'] + w_conf * df['confidence'] + w_lift * df['lift']
         df['algorithm'] = algorithm_name
+        # Convert sets to comma-separated strings
         df['antecedents'] = df['antecedents'].apply(lambda x: ', '.join(sorted(map(str, list(x)))))
         df['consequents'] = df['consequents'].apply(lambda x: ', '.join(sorted(map(str, list(x)))))
         print(f"Top {self.top_n} rules selected.")
         return df.sort_values(by='composite_c4', ascending=False).head(self.top_n)
 
+    # === Save Rules to CSV with Backup ===
     def safe_export(self, df, filename):
         if os.path.exists(filename):
             timestamp = datetime.now().strftime("%Y%m%d_%H%M%S")
@@ -112,21 +122,27 @@ class PatternMiningEngine:
         df.to_csv(filename, index=False)
         print(f"Saved: {filename}")
 
+    # === Run Complete Pipeline ===
     def run(self):
         print("Starting pattern mining engine...")
-        self.mine_frequent_itemsets()
-        self.generate_rules()
+        self.mine_frequent_itemsets()   # Step 1: Find frequent itemsets
+        self.generate_rules()           # Step 2: Generate association rules
         result_frames = []
+
+        # Step 3: Apply Composite C4 and save top rules for each algorithm
         if hasattr(self, 'apriori_rules'):
             print("Processing Apriori rules...")
             top_apriori = self.add_c4_and_get_top_rules(self.apriori_rules, 'Apriori')
             self.safe_export(top_apriori, "decided_apriori.csv")
             result_frames.append(top_apriori)
+
         if hasattr(self, 'fpgrowth_rules'):
             print("Processing FP-Growth rules...")
             top_fpgrowth = self.add_c4_and_get_top_rules(self.fpgrowth_rules, 'FP-Growth')
             self.safe_export(top_fpgrowth, "decided_fpgrowth_rules_c4_lower_threshold.csv")
             result_frames.append(top_fpgrowth)
+
+        # Step 4: Combine and export
         if len(result_frames) == 2:
             print("Combining Apriori and FP-Growth results...")
             combined = pd.concat(result_frames, ignore_index=True)
