@@ -1,0 +1,1257 @@
+algorithm,antecedents,consequents,support,confidence,lift,recency_score,composite_score_with_recency
+Apriori,frozenset({'cat food'}),frozenset({'fruit/vegetable juice'}),0.0011,0.0756,2.0598,1.0,0.9213
+FP-Growth,frozenset({'cat food'}),frozenset({'fruit/vegetable juice'}),0.0011,0.0756,2.0598,1.0,0.9213
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'cat food'}),0.0011,0.0293,2.0598,1.0,0.9066
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'cat food'}),0.0011,0.0293,2.0598,1.0,0.9066
+FP-Growth,frozenset({'candy'}),frozenset({'domestic eggs'}),0.0011,0.0672,1.6914,0.9961,0.7251
+Apriori,frozenset({'candy'}),frozenset({'domestic eggs'}),0.0011,0.0672,1.6914,0.9961,0.7251
+FP-Growth,frozenset({'frankfurter'}),frozenset({'whole milk'}),0.002,0.1667,1.2773,1.0,0.6011
+Apriori,frozenset({'frankfurter'}),frozenset({'whole milk'}),0.002,0.1667,1.2773,1.0,0.6011
+FP-Growth,frozenset({'hamburger meat'}),frozenset({'bottled beer'}),0.0011,0.0625,1.5415,1.0,0.6821
+Apriori,frozenset({'hamburger meat'}),frozenset({'bottled beer'}),0.0011,0.0625,1.5415,1.0,0.6821
+Apriori,frozenset({'bottled beer'}),frozenset({'whole milk'}),0.0054,0.1327,1.0173,1.0,0.4931
+FP-Growth,frozenset({'bottled beer'}),frozenset({'whole milk'}),0.0054,0.1327,1.0173,1.0,0.4931
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'candy'}),0.0011,0.0271,1.6914,0.9961,0.7125
+Apriori,frozenset({'domestic eggs'}),frozenset({'candy'}),0.0011,0.0271,1.6914,0.9961,0.7125
+Apriori,frozenset({'bottled beer'}),frozenset({'hamburger meat'}),0.0011,0.0265,1.5415,1.0,0.6708
+FP-Growth,frozenset({'bottled beer'}),frozenset({'hamburger meat'}),0.0011,0.0265,1.5415,1.0,0.6708
+FP-Growth,frozenset({'soda'}),frozenset({'whole milk'}),0.0091,0.0961,0.7363,1.0,0.3769
+Apriori,frozenset({'soda'}),frozenset({'whole milk'}),0.0091,0.0961,0.7363,1.0,0.3769
+FP-Growth,frozenset({'napkins'}),frozenset({'pastry'}),0.002,0.0813,1.6388,0.9895,0.6675
+Apriori,frozenset({'napkins'}),frozenset({'pastry'}),0.002,0.0813,1.6388,0.9895,0.6675
+Apriori,frozenset({'whole milk'}),frozenset({'soda'}),0.0091,0.0697,0.7363,1.0,0.3685
+FP-Growth,frozenset({'whole milk'}),frozenset({'soda'}),0.0091,0.0697,0.7363,1.0,0.3685
+FP-Growth,frozenset({'berries'}),frozenset({'pastry'}),0.0012,0.0735,1.4814,0.9961,0.6326
+Apriori,frozenset({'berries'}),frozenset({'pastry'}),0.0012,0.0735,1.4814,0.9961,0.6326
+FP-Growth,frozenset({'other vegetables'}),frozenset({'whole milk'}),0.0092,0.0863,0.6615,1.0,0.3406
+Apriori,frozenset({'other vegetables'}),frozenset({'whole milk'}),0.0092,0.0863,0.6615,1.0,0.3406
+FP-Growth,frozenset({'pastry'}),frozenset({'napkins'}),0.002,0.041,1.6388,0.9895,0.6547
+Apriori,frozenset({'pastry'}),frozenset({'napkins'}),0.002,0.041,1.6388,0.9895,0.6547
+Apriori,frozenset({'canned beer'}),frozenset({'brown bread'}),0.0018,0.0524,1.3051,1.0,0.5762
+FP-Growth,frozenset({'canned beer'}),frozenset({'brown bread'}),0.0018,0.0524,1.3051,1.0,0.5762
+Apriori,frozenset({'whole milk'}),frozenset({'other vegetables'}),0.0092,0.0706,0.6615,1.0,0.3356
+FP-Growth,frozenset({'whole milk'}),frozenset({'other vegetables'}),0.0092,0.0706,0.6615,1.0,0.3356
+FP-Growth,frozenset({'brown bread'}),frozenset({'canned beer'}),0.0018,0.0446,1.3051,1.0,0.5737
+Apriori,frozenset({'brown bread'}),frozenset({'canned beer'}),0.0018,0.0446,1.3051,1.0,0.5737
+Apriori,frozenset({'whole milk'}),frozenset({'bottled beer'}),0.0054,0.0412,1.0173,1.0,0.4642
+FP-Growth,frozenset({'whole milk'}),frozenset({'bottled beer'}),0.0054,0.0412,1.0173,1.0,0.4642
+Apriori,frozenset({'processed cheese'}),frozenset({'rolls/buns'}),0.0014,0.125,1.2267,0.9974,0.5436
+FP-Growth,frozenset({'processed cheese'}),frozenset({'rolls/buns'}),0.0014,0.125,1.2267,0.9974,0.5436
+Apriori,frozenset({'pastry'}),frozenset({'berries'}),0.0012,0.0241,1.4814,0.9961,0.617
+FP-Growth,frozenset({'pastry'}),frozenset({'berries'}),0.0012,0.0241,1.4814,0.9961,0.617
+FP-Growth,frozenset({'soda'}),frozenset({'other vegetables'}),0.0074,0.0784,0.7347,1.0,0.3602
+Apriori,frozenset({'soda'}),frozenset({'other vegetables'}),0.0074,0.0784,0.7347,1.0,0.3602
+FP-Growth,frozenset({'curd'}),frozenset({'whipped/sour cream'}),0.0018,0.0595,1.3415,0.9961,0.5684
+Apriori,frozenset({'curd'}),frozenset({'whipped/sour cream'}),0.0018,0.0595,1.3415,0.9961,0.5684
+Apriori,frozenset({'pip fruit'}),frozenset({'rolls/buns'}),0.0039,0.1051,1.0313,0.9974,0.4642
+FP-Growth,frozenset({'pip fruit'}),frozenset({'rolls/buns'}),0.0039,0.1051,1.0313,0.9974,0.4642
+FP-Growth,frozenset({'other vegetables'}),frozenset({'soda'}),0.0074,0.0695,0.7347,1.0,0.3574
+Apriori,frozenset({'other vegetables'}),frozenset({'soda'}),0.0074,0.0695,0.7347,1.0,0.3574
+Apriori,frozenset({'whole milk'}),frozenset({'frankfurter'}),0.002,0.0156,1.2773,1.0,0.5534
+FP-Growth,frozenset({'whole milk'}),frozenset({'frankfurter'}),0.002,0.0156,1.2773,1.0,0.5534
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'rolls/buns'}),0.0037,0.101,0.9909,0.9987,0.452
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'rolls/buns'}),0.0037,0.101,0.9909,0.9987,0.452
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'curd'}),0.0018,0.0404,1.3415,0.9961,0.5624
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'curd'}),0.0018,0.0404,1.3415,0.9961,0.5624
+Apriori,frozenset({'hamburger meat'}),frozenset({'pastry'}),0.0011,0.0625,1.2592,0.9987,0.5453
+FP-Growth,frozenset({'hamburger meat'}),frozenset({'pastry'}),0.0011,0.0625,1.2592,0.9987,0.5453
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'whole milk'}),0.0083,0.081,0.6206,0.9987,0.3057
+Apriori,frozenset({'rolls/buns'}),frozenset({'whole milk'}),0.0083,0.081,0.6206,0.9987,0.3057
+Apriori,frozenset({'red/blush wine'}),frozenset({'soda'}),0.0012,0.1075,1.1366,0.9987,0.5046
+FP-Growth,frozenset({'red/blush wine'}),frozenset({'soda'}),0.0012,0.1075,1.1366,0.9987,0.5046
+FP-Growth,frozenset({'candy'}),frozenset({'whole milk'}),0.0022,0.1343,1.0294,0.9974,0.4616
+Apriori,frozenset({'candy'}),frozenset({'whole milk'}),0.0022,0.1343,1.0294,0.9974,0.4616
+Apriori,frozenset({'yogurt'}),frozenset({'other vegetables'}),0.0063,0.0807,0.7561,0.9987,0.3553
+FP-Growth,frozenset({'yogurt'}),frozenset({'other vegetables'}),0.0063,0.0807,0.7561,0.9987,0.3553
+FP-Growth,frozenset({'seasonal products'}),frozenset({'rolls/buns'}),0.0011,0.1385,1.3588,0.9882,0.5438
+Apriori,frozenset({'seasonal products'}),frozenset({'rolls/buns'}),0.0011,0.1385,1.3588,0.9882,0.5438
+FP-Growth,frozenset({'whole milk'}),frozenset({'rolls/buns'}),0.0083,0.0632,0.6206,0.9987,0.3001
+Apriori,frozenset({'whole milk'}),frozenset({'rolls/buns'}),0.0083,0.0632,0.6206,0.9987,0.3001
+Apriori,frozenset({'detergent'}),frozenset({'rolls/buns'}),0.0012,0.1408,1.3822,0.9869,0.5471
+FP-Growth,frozenset({'detergent'}),frozenset({'rolls/buns'}),0.0012,0.1408,1.3822,0.9869,0.5471
+Apriori,frozenset({'pork'}),frozenset({'yogurt'}),0.0017,0.0892,1.1348,0.9974,0.4921
+FP-Growth,frozenset({'pork'}),frozenset({'yogurt'}),0.0017,0.0892,1.1348,0.9974,0.4921
+Apriori,frozenset({'cat food'}),frozenset({'whole milk'}),0.0018,0.1261,0.966,1.0,0.4456
+FP-Growth,frozenset({'cat food'}),frozenset({'whole milk'}),0.0018,0.1261,0.966,1.0,0.4456
+Apriori,frozenset({'sliced cheese'}),frozenset({'root vegetables'}),0.0011,0.0732,1.2114,0.9974,0.5182
+FP-Growth,frozenset({'sliced cheese'}),frozenset({'root vegetables'}),0.0011,0.0732,1.2114,0.9974,0.5182
+FP-Growth,frozenset({'shopping bags'}),frozenset({'root vegetables'}),0.0032,0.0612,1.0137,0.9987,0.4468
+Apriori,frozenset({'shopping bags'}),frozenset({'root vegetables'}),0.0032,0.0612,1.0137,0.9987,0.4468
+Apriori,frozenset({'newspapers'}),frozenset({'whole milk'}),0.0044,0.1069,0.8195,0.9987,0.3805
+FP-Growth,frozenset({'newspapers'}),frozenset({'whole milk'}),0.0044,0.1069,0.8195,0.9987,0.3805
+Apriori,frozenset({'yogurt'}),frozenset({'whole milk'}),0.0068,0.0868,0.6649,0.9987,0.3187
+FP-Growth,frozenset({'yogurt'}),frozenset({'whole milk'}),0.0068,0.0868,0.6649,0.9987,0.3187
+FP-Growth,frozenset({'other vegetables'}),frozenset({'yogurt'}),0.0063,0.0594,0.7561,0.9987,0.3485
+Apriori,frozenset({'other vegetables'}),frozenset({'yogurt'}),0.0063,0.0594,0.7561,0.9987,0.3485
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'pip fruit'}),0.0039,0.0387,1.0313,0.9974,0.4433
+Apriori,frozenset({'rolls/buns'}),frozenset({'pip fruit'}),0.0039,0.0387,1.0313,0.9974,0.4433
+FP-Growth,frozenset({'bottled beer'}),frozenset({'bottled water'}),0.0025,0.0619,1.0196,1.0,0.4541
+Apriori,frozenset({'bottled beer'}),frozenset({'bottled water'}),0.0025,0.0619,1.0196,1.0,0.4541
+FP-Growth,frozenset({'pastry'}),frozenset({'hamburger meat'}),0.0011,0.0217,1.2592,0.9987,0.5324
+Apriori,frozenset({'pastry'}),frozenset({'hamburger meat'}),0.0011,0.0217,1.2592,0.9987,0.5324
+Apriori,frozenset({'bottled beer'}),frozenset({'other vegetables'}),0.0037,0.0914,0.8571,1.0,0.3971
+FP-Growth,frozenset({'bottled beer'}),frozenset({'other vegetables'}),0.0037,0.0914,0.8571,1.0,0.3971
+FP-Growth,frozenset({'root vegetables'}),frozenset({'shopping bags'}),0.0032,0.0535,1.0137,0.9987,0.4443
+Apriori,frozenset({'root vegetables'}),frozenset({'shopping bags'}),0.0032,0.0535,1.0137,0.9987,0.4443
+FP-Growth,frozenset({'hamburger meat'}),frozenset({'rolls/buns'}),0.0018,0.1042,1.0222,0.9987,0.4554
+Apriori,frozenset({'hamburger meat'}),frozenset({'rolls/buns'}),0.0018,0.1042,1.0222,0.9987,0.4554
+Apriori,frozenset({'sugar'}),frozenset({'bottled water'}),0.0016,0.0802,1.3208,0.9908,0.5288
+FP-Growth,frozenset({'sugar'}),frozenset({'bottled water'}),0.0016,0.0802,1.3208,0.9908,0.5288
+FP-Growth,frozenset({'pot plants'}),frozenset({'yogurt'}),0.0011,0.1286,1.6362,0.9777,0.5959
+Apriori,frozenset({'pot plants'}),frozenset({'yogurt'}),0.0011,0.1286,1.6362,0.9777,0.5959
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'fruit/vegetable juice'}),0.0037,0.0364,0.9909,0.9987,0.4316
+Apriori,frozenset({'rolls/buns'}),frozenset({'fruit/vegetable juice'}),0.0037,0.0364,0.9909,0.9987,0.4316
+FP-Growth,frozenset({'root vegetables'}),frozenset({'soda'}),0.0045,0.0752,0.7954,1.0,0.3691
+Apriori,frozenset({'root vegetables'}),frozenset({'soda'}),0.0045,0.0752,0.7954,1.0,0.3691
+FP-Growth,frozenset({'bottled water'}),frozenset({'bottled beer'}),0.0025,0.0413,1.0196,1.0,0.4476
+Apriori,frozenset({'bottled water'}),frozenset({'bottled beer'}),0.0025,0.0413,1.0196,1.0,0.4476
+Apriori,frozenset({'rolls/buns'}),frozenset({'other vegetables'}),0.0069,0.0681,0.6381,0.9987,0.3014
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'other vegetables'}),0.0069,0.0681,0.6381,0.9987,0.3014
+Apriori,frozenset({'other vegetables'}),frozenset({'rolls/buns'}),0.0069,0.065,0.6381,0.9987,0.3005
+FP-Growth,frozenset({'other vegetables'}),frozenset({'rolls/buns'}),0.0069,0.065,0.6381,0.9987,0.3005
+Apriori,frozenset({'sausage'}),frozenset({'yogurt'}),0.002,0.0791,1.0062,0.9987,0.4417
+FP-Growth,frozenset({'sausage'}),frozenset({'yogurt'}),0.002,0.0791,1.0062,0.9987,0.4417
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'processed cheese'}),0.0014,0.0141,1.2267,0.9974,0.5086
+Apriori,frozenset({'rolls/buns'}),frozenset({'processed cheese'}),0.0014,0.0141,1.2267,0.9974,0.5086
+FP-Growth,frozenset({'waffles'}),frozenset({'whole milk'}),0.0025,0.1235,0.9467,0.9961,0.414
+Apriori,frozenset({'waffles'}),frozenset({'whole milk'}),0.0025,0.1235,0.9467,0.9961,0.414
+Apriori,frozenset({'whole milk'}),frozenset({'yogurt'}),0.0068,0.0522,0.6649,0.9987,0.3078
+FP-Growth,frozenset({'whole milk'}),frozenset({'yogurt'}),0.0068,0.0522,0.6649,0.9987,0.3078
+FP-Growth,frozenset({'specialty chocolate'}),frozenset({'soda'}),0.0016,0.0949,1.003,0.9987,0.4423
+Apriori,frozenset({'specialty chocolate'}),frozenset({'soda'}),0.0016,0.0949,1.003,0.9987,0.4423
+FP-Growth,frozenset({'brown bread'}),frozenset({'whole milk'}),0.0039,0.0982,0.7527,1.0,0.3533
+Apriori,frozenset({'brown bread'}),frozenset({'whole milk'}),0.0039,0.0982,0.7527,1.0,0.3533
+Apriori,frozenset({'chewing gum'}),frozenset({'yogurt'}),0.0011,0.0882,1.1229,0.9961,0.4739
+FP-Growth,frozenset({'chewing gum'}),frozenset({'yogurt'}),0.0011,0.0882,1.1229,0.9961,0.4739
+FP-Growth,frozenset({'white bread'}),frozenset({'canned beer'}),0.0011,0.0404,1.1799,0.9974,0.4935
+Apriori,frozenset({'white bread'}),frozenset({'canned beer'}),0.0011,0.0404,1.1799,0.9974,0.4935
+Apriori,frozenset({'sausage'}),frozenset({'whole milk'}),0.0028,0.107,0.8198,1.0,0.3792
+FP-Growth,frozenset({'sausage'}),frozenset({'whole milk'}),0.0028,0.107,0.8198,1.0,0.3792
+FP-Growth,frozenset({'soda'}),frozenset({'root vegetables'}),0.0045,0.048,0.7954,1.0,0.3605
+Apriori,frozenset({'soda'}),frozenset({'root vegetables'}),0.0045,0.048,0.7954,1.0,0.3605
+Apriori,frozenset({'chewing gum'}),frozenset({'other vegetables'}),0.0013,0.1078,1.0108,0.9974,0.4396
+FP-Growth,frozenset({'chewing gum'}),frozenset({'other vegetables'}),0.0013,0.1078,1.0108,0.9974,0.4396
+FP-Growth,frozenset({'newspapers'}),frozenset({'shopping bags'}),0.0023,0.0549,1.0411,0.9974,0.4425
+Apriori,frozenset({'newspapers'}),frozenset({'shopping bags'}),0.0023,0.0549,1.0411,0.9974,0.4425
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'bottled beer'}),0.0016,0.0423,1.0444,1.0,0.4533
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'bottled beer'}),0.0016,0.0423,1.0444,1.0,0.4533
+Apriori,frozenset({'yogurt'}),frozenset({'rolls/buns'}),0.0057,0.0731,0.717,0.9974,0.3226
+FP-Growth,frozenset({'yogurt'}),frozenset({'rolls/buns'}),0.0057,0.0731,0.717,0.9974,0.3226
+FP-Growth,frozenset({'root vegetables'}),frozenset({'sliced cheese'}),0.0011,0.0178,1.2114,0.9974,0.5007
+Apriori,frozenset({'root vegetables'}),frozenset({'sliced cheese'}),0.0011,0.0178,1.2114,0.9974,0.5007
+Apriori,frozenset({'canned beer'}),frozenset({'white bread'}),0.0011,0.0315,1.1799,0.9974,0.4907
+FP-Growth,frozenset({'canned beer'}),frozenset({'white bread'}),0.0011,0.0315,1.1799,0.9974,0.4907
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'newspapers'}),0.0018,0.0452,1.0918,0.9974,0.4595
+Apriori,frozenset({'domestic eggs'}),frozenset({'newspapers'}),0.0018,0.0452,1.0918,0.9974,0.4595
+FP-Growth,frozenset({'canned beer'}),frozenset({'yogurt'}),0.0025,0.0734,0.9344,0.9987,0.4103
+Apriori,frozenset({'canned beer'}),frozenset({'yogurt'}),0.0025,0.0734,0.9344,0.9987,0.4103
+Apriori,frozenset({'domestic eggs'}),frozenset({'whole milk'}),0.0039,0.0994,0.7617,0.9987,0.349
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'whole milk'}),0.0039,0.0994,0.7617,0.9987,0.349
+Apriori,frozenset({'bottled beer'}),frozenset({'fruit/vegetable juice'}),0.0016,0.0383,1.0444,1.0,0.452
+FP-Growth,frozenset({'bottled beer'}),frozenset({'fruit/vegetable juice'}),0.0016,0.0383,1.0444,1.0,0.452
+Apriori,frozenset({'newspapers'}),frozenset({'domestic eggs'}),0.0018,0.0434,1.0918,0.9974,0.4589
+FP-Growth,frozenset({'newspapers'}),frozenset({'domestic eggs'}),0.0018,0.0434,1.0918,0.9974,0.4589
+FP-Growth,frozenset({'bottled beer'}),frozenset({'pastry'}),0.002,0.0501,1.0103,0.9987,0.4344
+Apriori,frozenset({'bottled beer'}),frozenset({'pastry'}),0.002,0.0501,1.0103,0.9987,0.4344
+Apriori,frozenset({'shopping bags'}),frozenset({'newspapers'}),0.0023,0.0431,1.0411,0.9974,0.4388
+FP-Growth,frozenset({'shopping bags'}),frozenset({'newspapers'}),0.0023,0.0431,1.0411,0.9974,0.4388
+Apriori,frozenset({'yogurt'}),frozenset({'pork'}),0.0017,0.0213,1.1348,0.9974,0.4707
+FP-Growth,frozenset({'yogurt'}),frozenset({'pork'}),0.0017,0.0213,1.1348,0.9974,0.4707
+FP-Growth,frozenset({'chocolate'}),frozenset({'soda'}),0.0022,0.09,0.9513,0.9974,0.4121
+Apriori,frozenset({'chocolate'}),frozenset({'soda'}),0.0022,0.09,0.9513,0.9974,0.4121
+Apriori,frozenset({'other vegetables'}),frozenset({'bottled beer'}),0.0037,0.0348,0.8571,1.0,0.3792
+FP-Growth,frozenset({'other vegetables'}),frozenset({'bottled beer'}),0.0037,0.0348,0.8571,1.0,0.3792
+Apriori,frozenset({'shopping bags'}),frozenset({'soda'}),0.0039,0.0748,0.791,0.9987,0.3545
+FP-Growth,frozenset({'shopping bags'}),frozenset({'soda'}),0.0039,0.0748,0.791,0.9987,0.3545
+Apriori,frozenset({'bottled water'}),frozenset({'sugar'}),0.0016,0.0256,1.3208,0.9908,0.5115
+FP-Growth,frozenset({'bottled water'}),frozenset({'sugar'}),0.0016,0.0256,1.3208,0.9908,0.5115
+Apriori,frozenset({'rolls/buns'}),frozenset({'yogurt'}),0.0057,0.0563,0.717,0.9974,0.3173
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'yogurt'}),0.0057,0.0563,0.717,0.9974,0.3173
+FP-Growth,frozenset({'UHT-milk'}),frozenset({'other vegetables'}),0.0022,0.1084,1.0164,0.9935,0.421
+Apriori,frozenset({'UHT-milk'}),frozenset({'other vegetables'}),0.0022,0.1084,1.0164,0.9935,0.421
+FP-Growth,frozenset({'white bread'}),frozenset({'bottled water'}),0.0017,0.0628,1.0333,0.9974,0.4378
+Apriori,frozenset({'white bread'}),frozenset({'bottled water'}),0.0017,0.0628,1.0333,0.9974,0.4378
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'soda'}),0.0036,0.0735,0.7772,1.0,0.3545
+Apriori,frozenset({'tropical fruit'}),frozenset({'soda'}),0.0036,0.0735,0.7772,1.0,0.3545
+FP-Growth,frozenset({'pastry'}),frozenset({'bottled beer'}),0.002,0.041,1.0103,0.9987,0.4315
+Apriori,frozenset({'pastry'}),frozenset({'bottled beer'}),0.002,0.041,1.0103,0.9987,0.4315
+FP-Growth,frozenset({'soda'}),frozenset({'red/blush wine'}),0.0012,0.0126,1.1366,0.9987,0.4747
+Apriori,frozenset({'soda'}),frozenset({'red/blush wine'}),0.0012,0.0126,1.1366,0.9987,0.4747
+Apriori,frozenset({'frankfurter'}),frozenset({'other vegetables'}),0.0012,0.098,0.919,1.0,0.4118
+FP-Growth,frozenset({'frankfurter'}),frozenset({'other vegetables'}),0.0012,0.098,0.919,1.0,0.4118
+FP-Growth,frozenset({'whole milk'}),frozenset({'newspapers'}),0.0044,0.0339,0.8195,0.9987,0.3575
+Apriori,frozenset({'whole milk'}),frozenset({'newspapers'}),0.0044,0.0339,0.8195,0.9987,0.3575
+Apriori,frozenset({'pip fruit'}),frozenset({'pastry'}),0.0019,0.051,1.0266,0.9974,0.4325
+FP-Growth,frozenset({'pip fruit'}),frozenset({'pastry'}),0.0019,0.051,1.0266,0.9974,0.4325
+Apriori,frozenset({'specialty bar'}),frozenset({'soda'}),0.0012,0.0877,0.9272,1.0,0.4123
+FP-Growth,frozenset({'specialty bar'}),frozenset({'soda'}),0.0012,0.0877,0.9272,1.0,0.4123
+Apriori,frozenset({'beef'}),frozenset({'newspapers'}),0.0011,0.0469,1.1327,0.9961,0.4654
+FP-Growth,frozenset({'beef'}),frozenset({'newspapers'}),0.0011,0.0469,1.1327,0.9961,0.4654
+Apriori,frozenset({'frozen vegetables'}),frozenset({'bottled beer'}),0.0013,0.0478,1.1796,0.9935,0.4707
+FP-Growth,frozenset({'frozen vegetables'}),frozenset({'bottled beer'}),0.0013,0.0478,1.1796,0.9935,0.4707
+Apriori,frozenset({'yogurt'}),frozenset({'sausage'}),0.002,0.0259,1.0062,0.9987,0.4249
+FP-Growth,frozenset({'yogurt'}),frozenset({'sausage'}),0.002,0.0259,1.0062,0.9987,0.4249
+FP-Growth,frozenset({'pastry'}),frozenset({'pip fruit'}),0.0019,0.0386,1.0266,0.9974,0.4286
+Apriori,frozenset({'pastry'}),frozenset({'pip fruit'}),0.0019,0.0386,1.0266,0.9974,0.4286
+FP-Growth,frozenset({'canned beer'}),frozenset({'whole milk'}),0.0032,0.0944,0.7235,1.0,0.3345
+Apriori,frozenset({'canned beer'}),frozenset({'whole milk'}),0.0032,0.0944,0.7235,1.0,0.3345
+FP-Growth,frozenset({'bottled beer'}),frozenset({'newspapers'}),0.0017,0.0413,0.998,0.9987,0.4238
+Apriori,frozenset({'bottled beer'}),frozenset({'newspapers'}),0.0017,0.0413,0.998,0.9987,0.4238
+Apriori,frozenset({'newspapers'}),frozenset({'bottled beer'}),0.0017,0.0405,0.998,0.9987,0.4235
+FP-Growth,frozenset({'newspapers'}),frozenset({'bottled beer'}),0.0017,0.0405,0.998,0.9987,0.4235
+Apriori,frozenset({'ice cream'}),frozenset({'whole milk'}),0.0016,0.1238,0.9488,0.9948,0.4004
+FP-Growth,frozenset({'ice cream'}),frozenset({'whole milk'}),0.0016,0.1238,0.9488,0.9948,0.4004
+FP-Growth,frozenset({'brown bread'}),frozenset({'pastry'}),0.0019,0.0476,0.9594,0.9987,0.4098
+Apriori,frozenset({'brown bread'}),frozenset({'pastry'}),0.0019,0.0476,0.9594,0.9987,0.4098
+Apriori,frozenset({'shopping bags'}),frozenset({'other vegetables'}),0.0041,0.0771,0.7227,0.9987,0.325
+FP-Growth,frozenset({'shopping bags'}),frozenset({'other vegetables'}),0.0041,0.0771,0.7227,0.9987,0.325
+Apriori,frozenset({'specialty chocolate'}),frozenset({'other vegetables'}),0.0016,0.0949,0.8894,0.9987,0.3908
+FP-Growth,frozenset({'specialty chocolate'}),frozenset({'other vegetables'}),0.0016,0.0949,0.8894,0.9987,0.3908
+Apriori,frozenset({'shopping bags'}),frozenset({'whole milk'}),0.0045,0.0862,0.6604,0.9987,0.3025
+FP-Growth,frozenset({'shopping bags'}),frozenset({'whole milk'}),0.0045,0.0862,0.6604,0.9987,0.3025
+FP-Growth,frozenset({'shopping bags'}),frozenset({'rolls/buns'}),0.0041,0.0771,0.7566,0.9974,0.3315
+Apriori,frozenset({'shopping bags'}),frozenset({'rolls/buns'}),0.0041,0.0771,0.7566,0.9974,0.3315
+FP-Growth,frozenset({'hard cheese'}),frozenset({'yogurt'}),0.0011,0.0783,0.9959,0.9974,0.4221
+Apriori,frozenset({'hard cheese'}),frozenset({'yogurt'}),0.0011,0.0783,0.9959,0.9974,0.4221
+FP-Growth,frozenset({'yogurt'}),frozenset({'canned beer'}),0.0025,0.032,0.9344,0.9987,0.3972
+Apriori,frozenset({'yogurt'}),frozenset({'canned beer'}),0.0025,0.032,0.9344,0.9987,0.3972
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'hamburger meat'}),0.0018,0.0176,1.0222,0.9987,0.4281
+Apriori,frozenset({'rolls/buns'}),frozenset({'hamburger meat'}),0.0018,0.0176,1.0222,0.9987,0.4281
+Apriori,frozenset({'salty snack'}),frozenset({'rolls/buns'}),0.002,0.1037,1.0172,0.9921,0.4103
+FP-Growth,frozenset({'salty snack'}),frozenset({'rolls/buns'}),0.002,0.1037,1.0172,0.9921,0.4103
+FP-Growth,frozenset({'salty snack'}),frozenset({'root vegetables'}),0.0013,0.0671,1.1105,0.9935,0.4455
+Apriori,frozenset({'salty snack'}),frozenset({'root vegetables'}),0.0013,0.0671,1.1105,0.9935,0.4455
+FP-Growth,frozenset({'pip fruit'}),frozenset({'soda'}),0.0029,0.0764,0.8079,0.9987,0.3561
+Apriori,frozenset({'pip fruit'}),frozenset({'soda'}),0.0029,0.0764,0.8079,0.9987,0.3561
+Apriori,frozenset({'whole milk'}),frozenset({'candy'}),0.0022,0.0165,1.0294,0.9974,0.4244
+FP-Growth,frozenset({'whole milk'}),frozenset({'candy'}),0.0022,0.0165,1.0294,0.9974,0.4244
+Apriori,frozenset({'soda'}),frozenset({'shopping bags'}),0.0039,0.0417,0.791,0.9987,0.344
+FP-Growth,frozenset({'soda'}),frozenset({'shopping bags'}),0.0039,0.0417,0.791,0.9987,0.344
+FP-Growth,frozenset({'bottled beer'}),frozenset({'frozen vegetables'}),0.0013,0.0324,1.1796,0.9935,0.4659
+Apriori,frozenset({'bottled beer'}),frozenset({'frozen vegetables'}),0.0013,0.0324,1.1796,0.9935,0.4659
+Apriori,frozenset({'newspapers'}),frozenset({'beef'}),0.0011,0.026,1.1327,0.9961,0.4588
+FP-Growth,frozenset({'newspapers'}),frozenset({'beef'}),0.0011,0.026,1.1327,0.9961,0.4588
+Apriori,frozenset({'newspapers'}),frozenset({'rolls/buns'}),0.0033,0.0809,0.7941,0.9974,0.3454
+FP-Growth,frozenset({'newspapers'}),frozenset({'rolls/buns'}),0.0033,0.0809,0.7941,0.9974,0.3454
+Apriori,frozenset({'sliced cheese'}),frozenset({'other vegetables'}),0.0014,0.0976,0.9145,0.9974,0.3934
+FP-Growth,frozenset({'sliced cheese'}),frozenset({'other vegetables'}),0.0014,0.0976,0.9145,0.9974,0.3934
+FP-Growth,frozenset({'pastry'}),frozenset({'brown bread'}),0.0019,0.0386,0.9594,0.9987,0.4069
+Apriori,frozenset({'pastry'}),frozenset({'brown bread'}),0.0019,0.0386,0.9594,0.9987,0.4069
+Apriori,frozenset({'coffee'}),frozenset({'shopping bags'}),0.0016,0.0508,0.9628,0.9987,0.4101
+FP-Growth,frozenset({'coffee'}),frozenset({'shopping bags'}),0.0016,0.0508,0.9628,0.9987,0.4101
+Apriori,frozenset({'citrus fruit'}),frozenset({'whipped/sour cream'}),0.0016,0.045,1.0137,0.9974,0.4226
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'whipped/sour cream'}),0.0016,0.045,1.0137,0.9974,0.4226
+FP-Growth,frozenset({'napkins'}),frozenset({'citrus fruit'}),0.0011,0.0431,1.2458,0.9908,0.4801
+Apriori,frozenset({'napkins'}),frozenset({'citrus fruit'}),0.0011,0.0431,1.2458,0.9908,0.4801
+Apriori,frozenset({'bottled water'}),frozenset({'white bread'}),0.0017,0.0276,1.0333,0.9974,0.4267
+FP-Growth,frozenset({'bottled water'}),frozenset({'white bread'}),0.0017,0.0276,1.0333,0.9974,0.4267
+FP-Growth,frozenset({'soda'}),frozenset({'tropical fruit'}),0.0036,0.0379,0.7772,1.0,0.3432
+Apriori,frozenset({'soda'}),frozenset({'tropical fruit'}),0.0036,0.0379,0.7772,1.0,0.3432
+Apriori,frozenset({'chewing gum'}),frozenset({'rolls/buns'}),0.0012,0.098,0.9621,0.9961,0.4049
+FP-Growth,frozenset({'chewing gum'}),frozenset({'rolls/buns'}),0.0012,0.098,0.9621,0.9961,0.4049
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'brown bread'}),0.0016,0.0392,0.9744,0.9987,0.4117
+Apriori,frozenset({'domestic eggs'}),frozenset({'brown bread'}),0.0016,0.0392,0.9744,0.9987,0.4117
+Apriori,frozenset({'brown bread'}),frozenset({'domestic eggs'}),0.0016,0.0387,0.9744,0.9987,0.4116
+FP-Growth,frozenset({'brown bread'}),frozenset({'domestic eggs'}),0.0016,0.0387,0.9744,0.9987,0.4116
+FP-Growth,frozenset({'whole milk'}),frozenset({'cat food'}),0.0018,0.0137,0.966,1.0,0.4102
+Apriori,frozenset({'whole milk'}),frozenset({'cat food'}),0.0018,0.0137,0.966,1.0,0.4102
+FP-Growth,frozenset({'whole milk'}),frozenset({'brown bread'}),0.0039,0.0302,0.7527,1.0,0.3319
+Apriori,frozenset({'whole milk'}),frozenset({'brown bread'}),0.0039,0.0302,0.7527,1.0,0.3319
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'citrus fruit'}),0.0016,0.035,1.0137,0.9974,0.4194
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'citrus fruit'}),0.0016,0.035,1.0137,0.9974,0.4194
+FP-Growth,frozenset({'shopping bags'}),frozenset({'yogurt'}),0.0033,0.0635,0.808,0.9974,0.3461
+Apriori,frozenset({'shopping bags'}),frozenset({'yogurt'}),0.0033,0.0635,0.808,0.9974,0.3461
+Apriori,frozenset({'chocolate'}),frozenset({'rolls/buns'}),0.0022,0.09,0.8832,0.9961,0.3724
+FP-Growth,frozenset({'chocolate'}),frozenset({'rolls/buns'}),0.0022,0.09,0.8832,0.9961,0.3724
+Apriori,frozenset({'curd'}),frozenset({'bottled water'}),0.0017,0.0556,0.9144,0.9987,0.3904
+FP-Growth,frozenset({'curd'}),frozenset({'bottled water'}),0.0017,0.0556,0.9144,0.9987,0.3904
+FP-Growth,frozenset({'beverages'}),frozenset({'other vegetables'}),0.0013,0.0924,0.8664,0.9987,0.3781
+Apriori,frozenset({'beverages'}),frozenset({'other vegetables'}),0.0013,0.0924,0.8664,0.9987,0.3781
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'napkins'}),0.0011,0.0311,1.2458,0.9908,0.4764
+Apriori,frozenset({'citrus fruit'}),frozenset({'napkins'}),0.0011,0.0311,1.2458,0.9908,0.4764
+Apriori,frozenset({'soda'}),frozenset({'specialty chocolate'}),0.0016,0.0164,1.003,0.9987,0.4175
+FP-Growth,frozenset({'soda'}),frozenset({'specialty chocolate'}),0.0016,0.0164,1.003,0.9987,0.4175
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'soda'}),0.0025,0.0727,0.7681,1.0,0.3434
+Apriori,frozenset({'citrus fruit'}),frozenset({'soda'}),0.0025,0.0727,0.7681,1.0,0.3434
+Apriori,frozenset({'curd'}),frozenset({'whole milk'}),0.0029,0.0952,0.7299,0.9987,0.3266
+FP-Growth,frozenset({'curd'}),frozenset({'whole milk'}),0.0029,0.0952,0.7299,0.9987,0.3266
+FP-Growth,frozenset({'canned beer'}),frozenset({'fruit/vegetable juice'}),0.0012,0.035,0.9523,1.0,0.407
+Apriori,frozenset({'canned beer'}),frozenset({'fruit/vegetable juice'}),0.0012,0.035,0.9523,1.0,0.407
+Apriori,frozenset({'yogurt'}),frozenset({'chewing gum'}),0.0011,0.0137,1.1229,0.9961,0.4504
+FP-Growth,frozenset({'yogurt'}),frozenset({'chewing gum'}),0.0011,0.0137,1.1229,0.9961,0.4504
+FP-Growth,frozenset({'beverages'}),frozenset({'soda'}),0.0012,0.084,0.8882,0.9987,0.3846
+Apriori,frozenset({'beverages'}),frozenset({'soda'}),0.0012,0.084,0.8882,0.9987,0.3846
+Apriori,frozenset({'curd'}),frozenset({'other vegetables'}),0.0025,0.0833,0.7811,0.9987,0.3439
+FP-Growth,frozenset({'curd'}),frozenset({'other vegetables'}),0.0025,0.0833,0.7811,0.9987,0.3439
+Apriori,frozenset({'rolls/buns'}),frozenset({'seasonal products'}),0.0011,0.0106,1.3588,0.9882,0.5035
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'seasonal products'}),0.0011,0.0106,1.3588,0.9882,0.5035
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'canned beer'}),0.0012,0.0326,0.9523,1.0,0.4062
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'canned beer'}),0.0012,0.0326,0.9523,1.0,0.4062
+FP-Growth,frozenset({'UHT-milk'}),frozenset({'tropical fruit'}),0.0011,0.0542,1.111,0.9935,0.4402
+Apriori,frozenset({'UHT-milk'}),frozenset({'tropical fruit'}),0.0011,0.0542,1.111,0.9935,0.4402
+Apriori,frozenset({'rolls/buns'}),frozenset({'detergent'}),0.0012,0.0117,1.3822,0.9869,0.5063
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'detergent'}),0.0012,0.0117,1.3822,0.9869,0.5063
+Apriori,frozenset({'shopping bags'}),frozenset({'coffee'}),0.0016,0.0295,0.9628,0.9987,0.4034
+FP-Growth,frozenset({'shopping bags'}),frozenset({'coffee'}),0.0016,0.0295,0.9628,0.9987,0.4034
+Apriori,frozenset({'bottled water'}),frozenset({'soda'}),0.0038,0.063,0.6658,1.0,0.3021
+FP-Growth,frozenset({'bottled water'}),frozenset({'soda'}),0.0038,0.063,0.6658,1.0,0.3021
+FP-Growth,frozenset({'whole milk'}),frozenset({'domestic eggs'}),0.0039,0.0302,0.7617,0.9987,0.3272
+Apriori,frozenset({'whole milk'}),frozenset({'domestic eggs'}),0.0039,0.0302,0.7617,0.9987,0.3272
+Apriori,frozenset({'citrus fruit'}),frozenset({'domestic eggs'}),0.0013,0.0381,0.9586,0.9987,0.4027
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'domestic eggs'}),0.0013,0.0381,0.9586,0.9987,0.4027
+FP-Growth,frozenset({'pastry'}),frozenset({'bottled water'}),0.0025,0.0506,0.8328,0.9987,0.357
+Apriori,frozenset({'pastry'}),frozenset({'bottled water'}),0.0025,0.0506,0.8328,0.9987,0.357
+FP-Growth,frozenset({'butter'}),frozenset({'whole milk'}),0.0031,0.0912,0.6991,0.9987,0.3129
+Apriori,frozenset({'butter'}),frozenset({'whole milk'}),0.0031,0.0912,0.6991,0.9987,0.3129
+FP-Growth,frozenset({'specialty bar'}),frozenset({'rolls/buns'}),0.0012,0.0877,0.8608,0.9987,0.3733
+Apriori,frozenset({'specialty bar'}),frozenset({'rolls/buns'}),0.0012,0.0877,0.8608,0.9987,0.3733
+Apriori,frozenset({'bottled water'}),frozenset({'whole milk'}),0.0045,0.0748,0.5733,1.0,0.2683
+FP-Growth,frozenset({'bottled water'}),frozenset({'whole milk'}),0.0045,0.0748,0.5733,1.0,0.2683
+FP-Growth,frozenset({'white bread'}),frozenset({'brown bread'}),0.0011,0.0404,1.0043,0.9974,0.4139
+Apriori,frozenset({'white bread'}),frozenset({'brown bread'}),0.0011,0.0404,1.0043,0.9974,0.4139
+FP-Growth,frozenset({'soda'}),frozenset({'chocolate'}),0.0022,0.0228,0.9513,0.9974,0.3909
+Apriori,frozenset({'soda'}),frozenset({'chocolate'}),0.0022,0.0228,0.9513,0.9974,0.3909
+Apriori,frozenset({'domestic eggs'}),frozenset({'citrus fruit'}),0.0013,0.0331,0.9586,0.9987,0.4012
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'citrus fruit'}),0.0013,0.0331,0.9586,0.9987,0.4012
+Apriori,frozenset({'other vegetables'}),frozenset({'shopping bags'}),0.0041,0.0381,0.7227,0.9987,0.3127
+FP-Growth,frozenset({'other vegetables'}),frozenset({'shopping bags'}),0.0041,0.0381,0.7227,0.9987,0.3127
+Apriori,frozenset({'rolls/buns'}),frozenset({'shopping bags'}),0.0041,0.0399,0.7566,0.9974,0.3198
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'shopping bags'}),0.0041,0.0399,0.7566,0.9974,0.3198
+Apriori,frozenset({'yogurt'}),frozenset({'shopping bags'}),0.0033,0.0426,0.808,0.9974,0.3396
+FP-Growth,frozenset({'yogurt'}),frozenset({'shopping bags'}),0.0033,0.0426,0.808,0.9974,0.3396
+Apriori,frozenset({'brown bread'}),frozenset({'yogurt'}),0.0025,0.0625,0.7954,0.9987,0.3438
+FP-Growth,frozenset({'brown bread'}),frozenset({'yogurt'}),0.0025,0.0625,0.7954,0.9987,0.3438
+FP-Growth,frozenset({'yogurt'}),frozenset({'pot plants'}),0.0011,0.0137,1.6362,0.9777,0.5597
+Apriori,frozenset({'yogurt'}),frozenset({'pot plants'}),0.0011,0.0137,1.6362,0.9777,0.5597
+FP-Growth,frozenset({'brown bread'}),frozenset({'soda'}),0.0028,0.0685,0.7236,1.0,0.3234
+Apriori,frozenset({'brown bread'}),frozenset({'soda'}),0.0028,0.0685,0.7236,1.0,0.3234
+FP-Growth,frozenset({'brown bread'}),frozenset({'rolls/buns'}),0.003,0.0744,0.7302,0.9987,0.3209
+Apriori,frozenset({'brown bread'}),frozenset({'rolls/buns'}),0.003,0.0744,0.7302,0.9987,0.3209
+Apriori,frozenset({'bottled water'}),frozenset({'rolls/buns'}),0.0041,0.0669,0.6568,0.9987,0.2919
+FP-Growth,frozenset({'bottled water'}),frozenset({'rolls/buns'}),0.0041,0.0669,0.6568,0.9987,0.2919
+Apriori,frozenset({'whole milk'}),frozenset({'sausage'}),0.0028,0.0211,0.8198,1.0,0.3521
+FP-Growth,frozenset({'whole milk'}),frozenset({'sausage'}),0.0028,0.0211,0.8198,1.0,0.3521
+FP-Growth,frozenset({'butter'}),frozenset({'fruit/vegetable juice'}),0.0012,0.0351,0.9556,0.9987,0.3997
+Apriori,frozenset({'butter'}),frozenset({'fruit/vegetable juice'}),0.0012,0.0351,0.9556,0.9987,0.3997
+Apriori,frozenset({'bottled water'}),frozenset({'pastry'}),0.0025,0.0413,0.8328,0.9987,0.3541
+FP-Growth,frozenset({'bottled water'}),frozenset({'pastry'}),0.0025,0.0413,0.8328,0.9987,0.3541
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'tropical fruit'}),0.0016,0.0423,0.8678,1.0,0.3732
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'tropical fruit'}),0.0016,0.0423,0.8678,1.0,0.3732
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'butter'}),0.0012,0.0326,0.9556,0.9987,0.3989
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'butter'}),0.0012,0.0326,0.9556,0.9987,0.3989
+FP-Growth,frozenset({'margarine'}),frozenset({'rolls/buns'}),0.0029,0.0811,0.7957,0.9961,0.3343
+Apriori,frozenset({'margarine'}),frozenset({'rolls/buns'}),0.0029,0.0811,0.7957,0.9961,0.3343
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'rolls/buns'}),0.0026,0.0761,0.747,0.9987,0.3269
+Apriori,frozenset({'citrus fruit'}),frozenset({'rolls/buns'}),0.0026,0.0761,0.747,0.9987,0.3269
+Apriori,frozenset({'newspapers'}),frozenset({'yogurt'}),0.0026,0.0636,0.8092,0.9974,0.3423
+FP-Growth,frozenset({'newspapers'}),frozenset({'yogurt'}),0.0026,0.0636,0.8092,0.9974,0.3423
+FP-Growth,frozenset({'waffles'}),frozenset({'root vegetables'}),0.0012,0.0588,0.9739,0.9961,0.3978
+Apriori,frozenset({'waffles'}),frozenset({'root vegetables'}),0.0012,0.0588,0.9739,0.9961,0.3978
+FP-Growth,frozenset({'coffee'}),frozenset({'margarine'}),0.0011,0.0352,0.993,0.9974,0.4071
+Apriori,frozenset({'coffee'}),frozenset({'margarine'}),0.0011,0.0352,0.993,0.9974,0.4071
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'whole milk'}),0.0038,0.0784,0.6011,1.0,0.2776
+Apriori,frozenset({'tropical fruit'}),frozenset({'whole milk'}),0.0038,0.0784,0.6011,1.0,0.2776
+FP-Growth,frozenset({'whole milk'}),frozenset({'waffles'}),0.0025,0.0192,0.9467,0.9961,0.3811
+Apriori,frozenset({'whole milk'}),frozenset({'waffles'}),0.0025,0.0192,0.9467,0.9961,0.3811
+FP-Growth,frozenset({'hamburger meat'}),frozenset({'other vegetables'}),0.0014,0.0833,0.7811,1.0,0.3461
+Apriori,frozenset({'hamburger meat'}),frozenset({'other vegetables'}),0.0014,0.0833,0.7811,1.0,0.3461
+Apriori,frozenset({'brown bread'}),frozenset({'white bread'}),0.0011,0.0268,1.0043,0.9974,0.4096
+FP-Growth,frozenset({'brown bread'}),frozenset({'white bread'}),0.0011,0.0268,1.0043,0.9974,0.4096
+Apriori,frozenset({'sugar'}),frozenset({'tropical fruit'}),0.0011,0.0556,1.1385,0.9908,0.4354
+FP-Growth,frozenset({'sugar'}),frozenset({'tropical fruit'}),0.0011,0.0556,1.1385,0.9908,0.4354
+Apriori,frozenset({'bottled water'}),frozenset({'curd'}),0.0017,0.0276,0.9144,0.9987,0.3816
+FP-Growth,frozenset({'bottled water'}),frozenset({'curd'}),0.0017,0.0276,0.9144,0.9987,0.3816
+Apriori,frozenset({'ham'}),frozenset({'whole milk'}),0.0011,0.1047,0.802,0.9987,0.3513
+FP-Growth,frozenset({'ham'}),frozenset({'whole milk'}),0.0011,0.1047,0.802,0.9987,0.3513
+Apriori,frozenset({'root vegetables'}),frozenset({'salty snack'}),0.0013,0.0218,1.1105,0.9935,0.4312
+FP-Growth,frozenset({'root vegetables'}),frozenset({'salty snack'}),0.0013,0.0218,1.1105,0.9935,0.4312
+Apriori,frozenset({'margarine'}),frozenset({'coffee'}),0.0011,0.0304,0.993,0.9974,0.4056
+FP-Growth,frozenset({'margarine'}),frozenset({'coffee'}),0.0011,0.0304,0.993,0.9974,0.4056
+FP-Growth,frozenset({'soda'}),frozenset({'pip fruit'}),0.0029,0.0303,0.8079,0.9987,0.3415
+Apriori,frozenset({'soda'}),frozenset({'pip fruit'}),0.0029,0.0303,0.8079,0.9987,0.3415
+FP-Growth,frozenset({'candy'}),frozenset({'rolls/buns'}),0.0014,0.0896,0.8788,0.9961,0.3659
+Apriori,frozenset({'candy'}),frozenset({'rolls/buns'}),0.0014,0.0896,0.8788,0.9961,0.3659
+Apriori,frozenset({'other vegetables'}),frozenset({'chewing gum'}),0.0013,0.0123,1.0108,0.9974,0.4095
+FP-Growth,frozenset({'other vegetables'}),frozenset({'chewing gum'}),0.0013,0.0123,1.0108,0.9974,0.4095
+Apriori,frozenset({'oil'}),frozenset({'soda'}),0.0013,0.088,0.9302,0.9948,0.3791
+FP-Growth,frozenset({'oil'}),frozenset({'soda'}),0.0013,0.088,0.9302,0.9948,0.3791
+Apriori,frozenset({'whole milk'}),frozenset({'shopping bags'}),0.0045,0.0348,0.6604,0.9987,0.2863
+FP-Growth,frozenset({'whole milk'}),frozenset({'shopping bags'}),0.0045,0.0348,0.6604,0.9987,0.2863
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'yogurt'}),0.0023,0.0619,0.7876,0.9987,0.3386
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'yogurt'}),0.0023,0.0619,0.7876,0.9987,0.3386
+FP-Growth,frozenset({'soda'}),frozenset({'bottled water'}),0.0038,0.0405,0.6658,1.0,0.295
+Apriori,frozenset({'soda'}),frozenset({'bottled water'}),0.0038,0.0405,0.6658,1.0,0.295
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'rolls/buns'}),0.003,0.0753,0.739,0.9974,0.3164
+Apriori,frozenset({'domestic eggs'}),frozenset({'rolls/buns'}),0.003,0.0753,0.739,0.9974,0.3164
+Apriori,frozenset({'tropical fruit'}),frozenset({'fruit/vegetable juice'}),0.0016,0.0319,0.8678,1.0,0.3699
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'fruit/vegetable juice'}),0.0016,0.0319,0.8678,1.0,0.3699
+Apriori,frozenset({'cat food'}),frozenset({'rolls/buns'}),0.0012,0.084,0.8247,0.9987,0.3558
+FP-Growth,frozenset({'cat food'}),frozenset({'rolls/buns'}),0.0012,0.084,0.8247,0.9987,0.3558
+Apriori,frozenset({'rolls/buns'}),frozenset({'newspapers'}),0.0033,0.0329,0.7941,0.9974,0.3302
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'newspapers'}),0.0033,0.0329,0.7941,0.9974,0.3302
+Apriori,frozenset({'pastry'}),frozenset({'root vegetables'}),0.0024,0.0482,0.7979,0.9987,0.3397
+FP-Growth,frozenset({'pastry'}),frozenset({'root vegetables'}),0.0024,0.0482,0.7979,0.9987,0.3397
+Apriori,frozenset({'brown bread'}),frozenset({'other vegetables'}),0.0029,0.0714,0.6695,1.0,0.3006
+FP-Growth,frozenset({'brown bread'}),frozenset({'other vegetables'}),0.0029,0.0714,0.6695,1.0,0.3006
+Apriori,frozenset({'soda'}),frozenset({'rolls/buns'}),0.0053,0.0556,0.5459,0.9987,0.2454
+FP-Growth,frozenset({'soda'}),frozenset({'rolls/buns'}),0.0053,0.0556,0.5459,0.9987,0.2454
+FP-Growth,frozenset({'soda'}),frozenset({'specialty bar'}),0.0012,0.0126,0.9272,1.0,0.3886
+Apriori,frozenset({'soda'}),frozenset({'specialty bar'}),0.0012,0.0126,0.9272,1.0,0.3886
+Apriori,frozenset({'tropical fruit'}),frozenset({'UHT-milk'}),0.0011,0.0221,1.111,0.9935,0.43
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'UHT-milk'}),0.0011,0.0221,1.111,0.9935,0.43
+FP-Growth,frozenset({'sliced cheese'}),frozenset({'soda'}),0.0012,0.0813,0.8594,0.9974,0.3618
+Apriori,frozenset({'sliced cheese'}),frozenset({'soda'}),0.0012,0.0813,0.8594,0.9974,0.3618
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'bottled water'}),0.0023,0.0466,0.7665,1.0,0.333
+Apriori,frozenset({'tropical fruit'}),frozenset({'bottled water'}),0.0023,0.0466,0.7665,1.0,0.333
+FP-Growth,frozenset({'frozen meals'}),frozenset({'other vegetables'}),0.0013,0.0887,0.8315,0.9974,0.3523
+Apriori,frozenset({'frozen meals'}),frozenset({'other vegetables'}),0.0013,0.0887,0.8315,0.9974,0.3523
+Apriori,frozenset({'canned beer'}),frozenset({'other vegetables'}),0.0025,0.0734,0.6883,1.0,0.3075
+FP-Growth,frozenset({'canned beer'}),frozenset({'other vegetables'}),0.0025,0.0734,0.6883,1.0,0.3075
+Apriori,frozenset({'butter'}),frozenset({'soda'}),0.0024,0.0702,0.7418,0.9987,0.3212
+FP-Growth,frozenset({'butter'}),frozenset({'soda'}),0.0024,0.0702,0.7418,0.9987,0.3212
+Apriori,frozenset({'rolls/buns'}),frozenset({'soda'}),0.0053,0.0516,0.5459,0.9987,0.2441
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'soda'}),0.0053,0.0516,0.5459,0.9987,0.2441
+FP-Growth,frozenset({'butter'}),frozenset({'newspapers'}),0.0013,0.0386,0.9327,0.9974,0.3823
+Apriori,frozenset({'butter'}),frozenset({'newspapers'}),0.0013,0.0386,0.9327,0.9974,0.3823
+FP-Growth,frozenset({'frozen vegetables'}),frozenset({'fruit/vegetable juice'}),0.0011,0.0391,1.0657,0.9935,0.4149
+Apriori,frozenset({'frozen vegetables'}),frozenset({'fruit/vegetable juice'}),0.0011,0.0391,1.0657,0.9935,0.4149
+FP-Growth,frozenset({'curd'}),frozenset({'soda'}),0.0022,0.0714,0.755,0.9987,0.3261
+Apriori,frozenset({'curd'}),frozenset({'soda'}),0.0022,0.0714,0.755,0.9987,0.3261
+Apriori,frozenset({'other vegetables'}),frozenset({'frankfurter'}),0.0012,0.0112,0.919,1.0,0.3844
+FP-Growth,frozenset({'other vegetables'}),frozenset({'frankfurter'}),0.0012,0.0112,0.919,1.0,0.3844
+FP-Growth,frozenset({'other vegetables'}),frozenset({'UHT-milk'}),0.0022,0.0202,1.0164,0.9935,0.3931
+Apriori,frozenset({'other vegetables'}),frozenset({'UHT-milk'}),0.0022,0.0202,1.0164,0.9935,0.3931
+Apriori,frozenset({'whole milk'}),frozenset({'canned beer'}),0.0032,0.0247,0.7235,1.0,0.3125
+FP-Growth,frozenset({'whole milk'}),frozenset({'canned beer'}),0.0032,0.0247,0.7235,1.0,0.3125
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'whole milk'}),0.003,0.0814,0.6241,1.0,0.2838
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'whole milk'}),0.003,0.0814,0.6241,1.0,0.2838
+Apriori,frozenset({'root vegetables'}),frozenset({'pastry'}),0.0024,0.0396,0.7979,0.9987,0.337
+FP-Growth,frozenset({'root vegetables'}),frozenset({'pastry'}),0.0024,0.0396,0.7979,0.9987,0.337
+FP-Growth,frozenset({'coffee'}),frozenset({'brown bread'}),0.0011,0.0352,0.8748,1.0,0.3712
+Apriori,frozenset({'coffee'}),frozenset({'brown bread'}),0.0011,0.0352,0.8748,1.0,0.3712
+Apriori,frozenset({'yogurt'}),frozenset({'hard cheese'}),0.0011,0.0137,0.9959,0.9974,0.4017
+FP-Growth,frozenset({'yogurt'}),frozenset({'hard cheese'}),0.0011,0.0137,0.9959,0.9974,0.4017
+Apriori,frozenset({'yogurt'}),frozenset({'soda'}),0.0044,0.0563,0.5953,0.9987,0.2629
+FP-Growth,frozenset({'yogurt'}),frozenset({'soda'}),0.0044,0.0563,0.5953,0.9987,0.2629
+FP-Growth,frozenset({'bottled water'}),frozenset({'other vegetables'}),0.0038,0.063,0.5904,1.0,0.2679
+Apriori,frozenset({'bottled water'}),frozenset({'other vegetables'}),0.0038,0.063,0.5904,1.0,0.2679
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'bottled water'}),0.0041,0.0399,0.6568,0.9987,0.2834
+Apriori,frozenset({'rolls/buns'}),frozenset({'bottled water'}),0.0041,0.0399,0.6568,0.9987,0.2834
+FP-Growth,frozenset({'margarine'}),frozenset({'whole milk'}),0.0031,0.0878,0.6732,0.9974,0.2912
+Apriori,frozenset({'margarine'}),frozenset({'whole milk'}),0.0031,0.0878,0.6732,0.9974,0.2912
+Apriori,frozenset({'citrus fruit'}),frozenset({'brown bread'}),0.0012,0.0346,0.861,1.0,0.3655
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'brown bread'}),0.0012,0.0346,0.861,1.0,0.3655
+FP-Growth,frozenset({'white bread'}),frozenset({'newspapers'}),0.0011,0.0404,0.9753,0.9961,0.3919
+Apriori,frozenset({'white bread'}),frozenset({'newspapers'}),0.0011,0.0404,0.9753,0.9961,0.3919
+Apriori,frozenset({'bottled water'}),frozenset({'tropical fruit'}),0.0023,0.0374,0.7665,1.0,0.3301
+FP-Growth,frozenset({'bottled water'}),frozenset({'tropical fruit'}),0.0023,0.0374,0.7665,1.0,0.3301
+FP-Growth,frozenset({'newspapers'}),frozenset({'butter'}),0.0013,0.0318,0.9327,0.9974,0.3802
+Apriori,frozenset({'newspapers'}),frozenset({'butter'}),0.0013,0.0318,0.9327,0.9974,0.3802
+Apriori,frozenset({'soda'}),frozenset({'citrus fruit'}),0.0025,0.0265,0.7681,1.0,0.3289
+FP-Growth,frozenset({'soda'}),frozenset({'citrus fruit'}),0.0025,0.0265,0.7681,1.0,0.3289
+FP-Growth,frozenset({'yogurt'}),frozenset({'brown bread'}),0.0025,0.032,0.7954,0.9987,0.3341
+Apriori,frozenset({'yogurt'}),frozenset({'brown bread'}),0.0025,0.032,0.7954,0.9987,0.3341
+FP-Growth,frozenset({'margarine'}),frozenset({'soda'}),0.0025,0.0709,0.7499,0.9974,0.317
+Apriori,frozenset({'margarine'}),frozenset({'soda'}),0.0025,0.0709,0.7499,0.9974,0.317
+Apriori,frozenset({'pastry'}),frozenset({'whole milk'}),0.0038,0.0771,0.5909,0.9987,0.2638
+FP-Growth,frozenset({'pastry'}),frozenset({'whole milk'}),0.0038,0.0771,0.5909,0.9987,0.2638
+FP-Growth,frozenset({'pip fruit'}),frozenset({'whole milk'}),0.0031,0.0828,0.6346,0.9987,0.2809
+Apriori,frozenset({'pip fruit'}),frozenset({'whole milk'}),0.0031,0.0828,0.6346,0.9987,0.2809
+Apriori,frozenset({'tropical fruit'}),frozenset({'other vegetables'}),0.0032,0.0662,0.6203,1.0,0.2788
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'other vegetables'}),0.0032,0.0662,0.6203,1.0,0.2788
+FP-Growth,frozenset({'brown bread'}),frozenset({'citrus fruit'}),0.0012,0.0298,0.861,1.0,0.364
+Apriori,frozenset({'brown bread'}),frozenset({'citrus fruit'}),0.0012,0.0298,0.861,1.0,0.364
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'frozen vegetables'}),0.0011,0.0293,1.0657,0.9935,0.4118
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'frozen vegetables'}),0.0011,0.0293,1.0657,0.9935,0.4118
+Apriori,frozenset({'brown bread'}),frozenset({'coffee'}),0.0011,0.0268,0.8748,1.0,0.3685
+FP-Growth,frozenset({'brown bread'}),frozenset({'coffee'}),0.0011,0.0268,0.8748,1.0,0.3685
+FP-Growth,frozenset({'whole milk'}),frozenset({'bottled water'}),0.0045,0.0348,0.5733,1.0,0.2557
+Apriori,frozenset({'whole milk'}),frozenset({'bottled water'}),0.0045,0.0348,0.5733,1.0,0.2557
+Apriori,frozenset({'yogurt'}),frozenset({'newspapers'}),0.0026,0.0335,0.8092,0.9974,0.3328
+FP-Growth,frozenset({'yogurt'}),frozenset({'newspapers'}),0.0026,0.0335,0.8092,0.9974,0.3328
+FP-Growth,frozenset({'soda'}),frozenset({'yogurt'}),0.0044,0.0468,0.5953,0.9987,0.2598
+Apriori,frozenset({'soda'}),frozenset({'yogurt'}),0.0044,0.0468,0.5953,0.9987,0.2598
+FP-Growth,frozenset({'bottled water'}),frozenset({'yogurt'}),0.0032,0.0531,0.6764,0.9987,0.2913
+Apriori,frozenset({'bottled water'}),frozenset({'yogurt'}),0.0032,0.0531,0.6764,0.9987,0.2913
+FP-Growth,frozenset({'long life bakery product'}),frozenset({'tropical fruit'}),0.0011,0.0529,1.0849,0.9908,0.4103
+Apriori,frozenset({'long life bakery product'}),frozenset({'tropical fruit'}),0.0011,0.0529,1.0849,0.9908,0.4103
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'bottled water'}),0.0019,0.0482,0.7932,0.9987,0.3346
+Apriori,frozenset({'domestic eggs'}),frozenset({'bottled water'}),0.0019,0.0482,0.7932,0.9987,0.3346
+Apriori,frozenset({'soda'}),frozenset({'brown bread'}),0.0028,0.0291,0.7236,1.0,0.311
+FP-Growth,frozenset({'soda'}),frozenset({'brown bread'}),0.0028,0.0291,0.7236,1.0,0.311
+Apriori,frozenset({'other vegetables'}),frozenset({'specialty chocolate'}),0.0016,0.0146,0.8894,0.9987,0.3654
+FP-Growth,frozenset({'other vegetables'}),frozenset({'specialty chocolate'}),0.0016,0.0146,0.8894,0.9987,0.3654
+Apriori,frozenset({'coffee'}),frozenset({'soda'}),0.002,0.0664,0.7019,1.0,0.3085
+FP-Growth,frozenset({'coffee'}),frozenset({'soda'}),0.002,0.0664,0.7019,1.0,0.3085
+Apriori,frozenset({'frozen vegetables'}),frozenset({'whole milk'}),0.0028,0.1,0.7664,0.9935,0.3086
+FP-Growth,frozenset({'frozen vegetables'}),frozenset({'whole milk'}),0.0028,0.1,0.7664,0.9935,0.3086
+Apriori,frozenset({'pickled vegetables'}),frozenset({'whole milk'}),0.0011,0.0978,0.7497,0.9987,0.3254
+FP-Growth,frozenset({'pickled vegetables'}),frozenset({'whole milk'}),0.0011,0.0978,0.7497,0.9987,0.3254
+FP-Growth,frozenset({'newspapers'}),frozenset({'white bread'}),0.0011,0.026,0.9753,0.9961,0.3874
+Apriori,frozenset({'newspapers'}),frozenset({'white bread'}),0.0011,0.026,0.9753,0.9961,0.3874
+Apriori,frozenset({'curd'}),frozenset({'pastry'}),0.0013,0.0437,0.8794,0.9974,0.3598
+FP-Growth,frozenset({'curd'}),frozenset({'pastry'}),0.0013,0.0437,0.8794,0.9974,0.3598
+Apriori,frozenset({'tropical fruit'}),frozenset({'sugar'}),0.0011,0.0221,1.1385,0.9908,0.4248
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'sugar'}),0.0011,0.0221,1.1385,0.9908,0.4248
+FP-Growth,frozenset({'frozen vegetables'}),frozenset({'other vegetables'}),0.0024,0.087,0.8151,0.9935,0.3244
+Apriori,frozenset({'frozen vegetables'}),frozenset({'other vegetables'}),0.0024,0.087,0.8151,0.9935,0.3244
+FP-Growth,frozenset({'frozen vegetables'}),frozenset({'rolls/buns'}),0.0024,0.087,0.8533,0.9921,0.3329
+Apriori,frozenset({'frozen vegetables'}),frozenset({'rolls/buns'}),0.0024,0.087,0.8533,0.9921,0.3329
+FP-Growth,frozenset({'root vegetables'}),frozenset({'waffles'}),0.0012,0.0198,0.9739,0.9961,0.3855
+Apriori,frozenset({'root vegetables'}),frozenset({'waffles'}),0.0012,0.0198,0.9739,0.9961,0.3855
+Apriori,frozenset({'rolls/buns'}),frozenset({'brown bread'}),0.003,0.0293,0.7302,0.9987,0.3067
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'brown bread'}),0.003,0.0293,0.7302,0.9987,0.3067
+Apriori,frozenset({'other vegetables'}),frozenset({'curd'}),0.0025,0.0235,0.7811,0.9987,0.325
+FP-Growth,frozenset({'other vegetables'}),frozenset({'curd'}),0.0025,0.0235,0.7811,0.9987,0.325
+Apriori,frozenset({'yogurt'}),frozenset({'fruit/vegetable juice'}),0.0023,0.0289,0.7876,0.9987,0.3282
+FP-Growth,frozenset({'yogurt'}),frozenset({'fruit/vegetable juice'}),0.0023,0.0289,0.7876,0.9987,0.3282
+Apriori,frozenset({'white bread'}),frozenset({'whole milk'}),0.0024,0.0897,0.6873,0.9974,0.2938
+FP-Growth,frozenset({'white bread'}),frozenset({'whole milk'}),0.0024,0.0897,0.6873,0.9974,0.2938
+Apriori,frozenset({'rolls/buns'}),frozenset({'salty snack'}),0.002,0.02,1.0172,0.9921,0.3839
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'salty snack'}),0.002,0.02,1.0172,0.9921,0.3839
+FP-Growth,frozenset({'sliced cheese'}),frozenset({'whole milk'}),0.0014,0.0976,0.7477,0.9974,0.3178
+Apriori,frozenset({'sliced cheese'}),frozenset({'whole milk'}),0.0014,0.0976,0.7477,0.9974,0.3178
+FP-Growth,frozenset({'root vegetables'}),frozenset({'whole milk'}),0.0041,0.0673,0.516,1.0,0.237
+Apriori,frozenset({'root vegetables'}),frozenset({'whole milk'}),0.0041,0.0673,0.516,1.0,0.237
+FP-Growth,frozenset({'yogurt'}),frozenset({'bottled water'}),0.0032,0.0411,0.6764,0.9987,0.2875
+Apriori,frozenset({'yogurt'}),frozenset({'bottled water'}),0.0032,0.0411,0.6764,0.9987,0.2875
+FP-Growth,frozenset({'frozen vegetables'}),frozenset({'root vegetables'}),0.0016,0.0565,0.9358,0.9935,0.3644
+Apriori,frozenset({'frozen vegetables'}),frozenset({'root vegetables'}),0.0016,0.0565,0.9358,0.9935,0.3644
+Apriori,frozenset({'rolls/buns'}),frozenset({'chocolate'}),0.0022,0.0211,0.8832,0.9961,0.3507
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'chocolate'}),0.0022,0.0211,0.8832,0.9961,0.3507
+FP-Growth,frozenset({'other vegetables'}),frozenset({'sliced cheese'}),0.0014,0.0135,0.9145,0.9974,0.3669
+Apriori,frozenset({'other vegetables'}),frozenset({'sliced cheese'}),0.0014,0.0135,0.9145,0.9974,0.3669
+Apriori,frozenset({'other vegetables'}),frozenset({'bottled water'}),0.0038,0.0359,0.5904,1.0,0.2594
+FP-Growth,frozenset({'other vegetables'}),frozenset({'bottled water'}),0.0038,0.0359,0.5904,1.0,0.2594
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'citrus fruit'}),0.0026,0.0258,0.747,0.9987,0.311
+Apriori,frozenset({'rolls/buns'}),frozenset({'citrus fruit'}),0.0026,0.0258,0.747,0.9987,0.311
+FP-Growth,frozenset({'bottled water'}),frozenset({'domestic eggs'}),0.0019,0.0315,0.7932,0.9987,0.3293
+Apriori,frozenset({'bottled water'}),frozenset({'domestic eggs'}),0.0019,0.0315,0.7932,0.9987,0.3293
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'soda'}),0.0029,0.0647,0.6838,0.9974,0.2873
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'soda'}),0.0029,0.0647,0.6838,0.9974,0.2873
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'yogurt'}),0.0026,0.0539,0.6862,0.9987,0.2923
+Apriori,frozenset({'tropical fruit'}),frozenset({'yogurt'}),0.0026,0.0539,0.6862,0.9987,0.2923
+Apriori,frozenset({'whole milk'}),frozenset({'tropical fruit'}),0.0038,0.0293,0.6011,1.0,0.2621
+FP-Growth,frozenset({'whole milk'}),frozenset({'tropical fruit'}),0.0038,0.0293,0.6011,1.0,0.2621
+FP-Growth,frozenset({'soda'}),frozenset({'beverages'}),0.0012,0.0126,0.8882,0.9987,0.3621
+Apriori,frozenset({'soda'}),frozenset({'beverages'}),0.0012,0.0126,0.8882,0.9987,0.3621
+Apriori,frozenset({'chocolate'}),frozenset({'yogurt'}),0.0016,0.065,0.8272,0.9961,0.3355
+FP-Growth,frozenset({'chocolate'}),frozenset({'yogurt'}),0.0016,0.065,0.8272,0.9961,0.3355
+Apriori,frozenset({'tropical fruit'}),frozenset({'rolls/buns'}),0.0031,0.0637,0.6254,0.9987,0.2708
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'rolls/buns'}),0.0031,0.0637,0.6254,0.9987,0.2708
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'margarine'}),0.0029,0.0282,0.7957,0.9961,0.3176
+Apriori,frozenset({'rolls/buns'}),frozenset({'margarine'}),0.0029,0.0282,0.7957,0.9961,0.3176
+FP-Growth,frozenset({'bottled beer'}),frozenset({'root vegetables'}),0.0018,0.0442,0.7326,1.0,0.314
+Apriori,frozenset({'bottled beer'}),frozenset({'root vegetables'}),0.0018,0.0442,0.7326,1.0,0.314
+FP-Growth,frozenset({'whole milk'}),frozenset({'curd'}),0.0029,0.022,0.7299,0.9987,0.3035
+Apriori,frozenset({'whole milk'}),frozenset({'curd'}),0.0029,0.022,0.7299,0.9987,0.3035
+Apriori,frozenset({'rolls/buns'}),frozenset({'chewing gum'}),0.0012,0.0117,0.9621,0.9961,0.3776
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'chewing gum'}),0.0012,0.0117,0.9621,0.9961,0.3776
+Apriori,frozenset({'domestic eggs'}),frozenset({'soda'}),0.0025,0.0633,0.6686,0.9987,0.2865
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'soda'}),0.0025,0.0633,0.6686,0.9987,0.2865
+Apriori,frozenset({'rolls/buns'}),frozenset({'domestic eggs'}),0.003,0.0293,0.739,0.9974,0.3019
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'domestic eggs'}),0.003,0.0293,0.739,0.9974,0.3019
+Apriori,frozenset({'candy'}),frozenset({'soda'}),0.0012,0.0746,0.7888,0.9974,0.3277
+FP-Growth,frozenset({'candy'}),frozenset({'soda'}),0.0012,0.0746,0.7888,0.9974,0.3277
+Apriori,frozenset({'pastry'}),frozenset({'curd'}),0.0013,0.0265,0.8794,0.9974,0.3544
+FP-Growth,frozenset({'pastry'}),frozenset({'curd'}),0.0013,0.0265,0.8794,0.9974,0.3544
+FP-Growth,frozenset({'whole milk'}),frozenset({'butter'}),0.0031,0.0238,0.6991,0.9987,0.2916
+Apriori,frozenset({'whole milk'}),frozenset({'butter'}),0.0031,0.0238,0.6991,0.9987,0.2916
+FP-Growth,frozenset({'white bread'}),frozenset({'other vegetables'}),0.002,0.0762,0.7146,0.9974,0.2997
+Apriori,frozenset({'white bread'}),frozenset({'other vegetables'}),0.002,0.0762,0.7146,0.9974,0.2997
+Apriori,frozenset({'citrus fruit'}),frozenset({'bottled water'}),0.0016,0.045,0.7404,1.0,0.3162
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'bottled water'}),0.0016,0.045,0.7404,1.0,0.3162
+FP-Growth,frozenset({'waffles'}),frozenset({'rolls/buns'}),0.0017,0.0824,0.8082,0.9948,0.3242
+Apriori,frozenset({'waffles'}),frozenset({'rolls/buns'}),0.0017,0.0824,0.8082,0.9948,0.3242
+FP-Growth,frozenset({'sausage'}),frozenset({'soda'}),0.0017,0.0651,0.6883,1.0,0.2997
+Apriori,frozenset({'sausage'}),frozenset({'soda'}),0.0017,0.0651,0.6883,1.0,0.2997
+FP-Growth,frozenset({'other vegetables'}),frozenset({'beverages'}),0.0013,0.0123,0.8664,0.9987,0.3528
+Apriori,frozenset({'other vegetables'}),frozenset({'beverages'}),0.0013,0.0123,0.8664,0.9987,0.3528
+FP-Growth,frozenset({'other vegetables'}),frozenset({'brown bread'}),0.0029,0.0269,0.6695,1.0,0.2865
+Apriori,frozenset({'other vegetables'}),frozenset({'brown bread'}),0.0029,0.0269,0.6695,1.0,0.2865
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'whole milk'}),0.0026,0.0761,0.5834,1.0,0.2615
+Apriori,frozenset({'citrus fruit'}),frozenset({'whole milk'}),0.0026,0.0761,0.5834,1.0,0.2615
+FP-Growth,frozenset({'berries'}),frozenset({'other vegetables'}),0.0013,0.0809,0.7581,0.9974,0.3165
+Apriori,frozenset({'berries'}),frozenset({'other vegetables'}),0.0013,0.0809,0.7581,0.9974,0.3165
+FP-Growth,frozenset({'specialty bar'}),frozenset({'whole milk'}),0.0012,0.0877,0.6722,1.0,0.2966
+Apriori,frozenset({'specialty bar'}),frozenset({'whole milk'}),0.0012,0.0877,0.6722,1.0,0.2966
+Apriori,frozenset({'hygiene articles'}),frozenset({'other vegetables'}),0.0012,0.0813,0.7621,0.9974,0.3177
+FP-Growth,frozenset({'hygiene articles'}),frozenset({'other vegetables'}),0.0012,0.0813,0.7621,0.9974,0.3177
+Apriori,frozenset({'soda'}),frozenset({'butter'}),0.0024,0.0253,0.7418,0.9987,0.307
+FP-Growth,frozenset({'soda'}),frozenset({'butter'}),0.0024,0.0253,0.7418,0.9987,0.307
+FP-Growth,frozenset({'cream cheese '}),frozenset({'yogurt'}),0.0017,0.0707,0.8998,0.9921,0.3445
+Apriori,frozenset({'cream cheese '}),frozenset({'yogurt'}),0.0017,0.0707,0.8998,0.9921,0.3445
+Apriori,frozenset({'curd'}),frozenset({'yogurt'}),0.0018,0.0595,0.7575,0.9974,0.3124
+FP-Growth,frozenset({'curd'}),frozenset({'yogurt'}),0.0018,0.0595,0.7575,0.9974,0.3124
+Apriori,frozenset({'domestic eggs'}),frozenset({'root vegetables'}),0.0018,0.0452,0.748,0.9987,0.3124
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'root vegetables'}),0.0018,0.0452,0.748,0.9987,0.3124
+FP-Growth,frozenset({'hygiene articles'}),frozenset({'rolls/buns'}),0.0012,0.0813,0.7978,0.9961,0.3251
+Apriori,frozenset({'hygiene articles'}),frozenset({'rolls/buns'}),0.0012,0.0813,0.7978,0.9961,0.3251
+Apriori,frozenset({'long life bakery product'}),frozenset({'yogurt'}),0.0016,0.0765,0.9732,0.9895,0.3612
+FP-Growth,frozenset({'long life bakery product'}),frozenset({'yogurt'}),0.0016,0.0765,0.9732,0.9895,0.3612
+Apriori,frozenset({'newspapers'}),frozenset({'other vegetables'}),0.0028,0.0665,0.6231,0.9987,0.2684
+FP-Growth,frozenset({'newspapers'}),frozenset({'other vegetables'}),0.0028,0.0665,0.6231,0.9987,0.2684
+Apriori,frozenset({'pip fruit'}),frozenset({'yogurt'}),0.0022,0.0573,0.7295,0.9974,0.3013
+FP-Growth,frozenset({'pip fruit'}),frozenset({'yogurt'}),0.0022,0.0573,0.7295,0.9974,0.3013
+Apriori,frozenset({'other vegetables'}),frozenset({'tropical fruit'}),0.0032,0.0303,0.6203,1.0,0.2675
+FP-Growth,frozenset({'other vegetables'}),frozenset({'tropical fruit'}),0.0032,0.0303,0.6203,1.0,0.2675
+Apriori,frozenset({'tropical fruit'}),frozenset({'long life bakery product'}),0.0011,0.0221,1.0849,0.9908,0.4005
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'long life bakery product'}),0.0011,0.0221,1.0849,0.9908,0.4005
+Apriori,frozenset({'whole milk'}),frozenset({'ice cream'}),0.0016,0.0119,0.9488,0.9948,0.365
+FP-Growth,frozenset({'whole milk'}),frozenset({'ice cream'}),0.0016,0.0119,0.9488,0.9948,0.365
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'specialty bar'}),0.0012,0.0117,0.8608,0.9987,0.3493
+Apriori,frozenset({'rolls/buns'}),frozenset({'specialty bar'}),0.0012,0.0117,0.8608,0.9987,0.3493
+FP-Growth,frozenset({'other vegetables'}),frozenset({'canned beer'}),0.0025,0.0235,0.6883,1.0,0.2917
+Apriori,frozenset({'other vegetables'}),frozenset({'canned beer'}),0.0025,0.0235,0.6883,1.0,0.2917
+FP-Growth,frozenset({'dessert'}),frozenset({'root vegetables'}),0.0012,0.0515,0.8534,0.9961,0.3409
+Apriori,frozenset({'dessert'}),frozenset({'root vegetables'}),0.0012,0.0515,0.8534,0.9961,0.3409
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'other vegetables'}),0.0024,0.0651,0.6106,1.0,0.2689
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'other vegetables'}),0.0024,0.0651,0.6106,1.0,0.2689
+Apriori,frozenset({'hard cheese'}),frozenset({'rolls/buns'}),0.0011,0.0783,0.768,0.9974,0.3187
+FP-Growth,frozenset({'hard cheese'}),frozenset({'rolls/buns'}),0.0011,0.0783,0.768,0.9974,0.3187
+Apriori,frozenset({'root vegetables'}),frozenset({'bottled beer'}),0.0018,0.0297,0.7326,1.0,0.3094
+FP-Growth,frozenset({'root vegetables'}),frozenset({'bottled beer'}),0.0018,0.0297,0.7326,1.0,0.3094
+FP-Growth,frozenset({'soda'}),frozenset({'curd'}),0.0022,0.0228,0.755,0.9987,0.3107
+Apriori,frozenset({'soda'}),frozenset({'curd'}),0.0022,0.0228,0.755,0.9987,0.3107
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'other vegetables'}),0.003,0.0674,0.6316,0.9974,0.2652
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'other vegetables'}),0.003,0.0674,0.6316,0.9974,0.2652
+Apriori,frozenset({'root vegetables'}),frozenset({'yogurt'}),0.003,0.0495,0.63,0.9987,0.2676
+FP-Growth,frozenset({'root vegetables'}),frozenset({'yogurt'}),0.003,0.0495,0.63,0.9987,0.2676
+Apriori,frozenset({'domestic eggs'}),frozenset({'other vegetables'}),0.0026,0.0663,0.6211,0.9987,0.2667
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'other vegetables'}),0.0026,0.0663,0.6211,0.9987,0.2667
+Apriori,frozenset({'soda'}),frozenset({'margarine'}),0.0025,0.0265,0.7499,0.9974,0.303
+FP-Growth,frozenset({'soda'}),frozenset({'margarine'}),0.0025,0.0265,0.7499,0.9974,0.303
+FP-Growth,frozenset({'butter milk'}),frozenset({'soda'}),0.0011,0.0698,0.7375,0.9987,0.311
+Apriori,frozenset({'butter milk'}),frozenset({'soda'}),0.0011,0.0698,0.7375,0.9987,0.311
+Apriori,frozenset({'yogurt'}),frozenset({'tropical fruit'}),0.0026,0.0335,0.6862,0.9987,0.2859
+FP-Growth,frozenset({'yogurt'}),frozenset({'tropical fruit'}),0.0026,0.0335,0.6862,0.9987,0.2859
+Apriori,frozenset({'canned beer'}),frozenset({'bottled beer'}),0.0011,0.0315,0.7761,1.0,0.3253
+FP-Growth,frozenset({'canned beer'}),frozenset({'bottled beer'}),0.0011,0.0315,0.7761,1.0,0.3253
+FP-Growth,frozenset({'butter'}),frozenset({'margarine'}),0.0011,0.0316,0.892,0.9961,0.3514
+Apriori,frozenset({'butter'}),frozenset({'margarine'}),0.0011,0.0316,0.892,0.9961,0.3514
+FP-Growth,frozenset({'pip fruit'}),frozenset({'root vegetables'}),0.0017,0.0446,0.7382,0.9987,0.307
+Apriori,frozenset({'pip fruit'}),frozenset({'root vegetables'}),0.0017,0.0446,0.7382,0.9987,0.307
+FP-Growth,frozenset({'cream cheese '}),frozenset({'shopping bags'}),0.0012,0.0505,0.9575,0.9921,0.3613
+Apriori,frozenset({'cream cheese '}),frozenset({'shopping bags'}),0.0012,0.0505,0.9575,0.9921,0.3613
+FP-Growth,frozenset({'margarine'}),frozenset({'butter'}),0.0011,0.0304,0.892,0.9961,0.351
+Apriori,frozenset({'margarine'}),frozenset({'butter'}),0.0011,0.0304,0.892,0.9961,0.351
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'yogurt'}),0.0025,0.0566,0.7203,0.9961,0.2902
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'yogurt'}),0.0025,0.0566,0.7203,0.9961,0.2902
+FP-Growth,frozenset({'other vegetables'}),frozenset({'hamburger meat'}),0.0014,0.0135,0.7811,1.0,0.324
+Apriori,frozenset({'other vegetables'}),frozenset({'hamburger meat'}),0.0014,0.0135,0.7811,1.0,0.324
+FP-Growth,frozenset({'whole milk'}),frozenset({'pastry'}),0.0038,0.0293,0.5909,0.9987,0.2487
+Apriori,frozenset({'whole milk'}),frozenset({'pastry'}),0.0038,0.0293,0.5909,0.9987,0.2487
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'pastry'}),0.0018,0.0368,0.7407,0.9987,0.3065
+Apriori,frozenset({'tropical fruit'}),frozenset({'pastry'}),0.0018,0.0368,0.7407,0.9987,0.3065
+Apriori,frozenset({'pastry'}),frozenset({'tropical fruit'}),0.0018,0.0361,0.7407,0.9987,0.3063
+FP-Growth,frozenset({'pastry'}),frozenset({'tropical fruit'}),0.0018,0.0361,0.7407,0.9987,0.3063
+Apriori,frozenset({'pastry'}),frozenset({'yogurt'}),0.0026,0.053,0.6746,0.9974,0.2779
+FP-Growth,frozenset({'pastry'}),frozenset({'yogurt'}),0.0026,0.053,0.6746,0.9974,0.2779
+Apriori,frozenset({'root vegetables'}),frozenset({'frozen vegetables'}),0.0016,0.0257,0.9358,0.9935,0.3547
+FP-Growth,frozenset({'root vegetables'}),frozenset({'frozen vegetables'}),0.0016,0.0257,0.9358,0.9935,0.3547
+Apriori,frozenset({'bottled water'}),frozenset({'citrus fruit'}),0.0016,0.0256,0.7404,1.0,0.3101
+FP-Growth,frozenset({'bottled water'}),frozenset({'citrus fruit'}),0.0016,0.0256,0.7404,1.0,0.3101
+FP-Growth,frozenset({'bottled beer'}),frozenset({'canned beer'}),0.0011,0.0265,0.7761,1.0,0.3237
+Apriori,frozenset({'bottled beer'}),frozenset({'canned beer'}),0.0011,0.0265,0.7761,1.0,0.3237
+Apriori,frozenset({'canned beer'}),frozenset({'soda'}),0.002,0.0594,0.6283,1.0,0.2729
+FP-Growth,frozenset({'canned beer'}),frozenset({'soda'}),0.002,0.0594,0.6283,1.0,0.2729
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'soda'}),0.0022,0.0586,0.6197,1.0,0.2695
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'soda'}),0.0022,0.0586,0.6197,1.0,0.2695
+Apriori,frozenset({'root vegetables'}),frozenset({'domestic eggs'}),0.0018,0.0297,0.748,0.9987,0.3075
+FP-Growth,frozenset({'root vegetables'}),frozenset({'domestic eggs'}),0.0018,0.0297,0.748,0.9987,0.3075
+FP-Growth,frozenset({'coffee'}),frozenset({'rolls/buns'}),0.002,0.0664,0.6517,0.9987,0.2769
+Apriori,frozenset({'coffee'}),frozenset({'rolls/buns'}),0.002,0.0664,0.6517,0.9987,0.2769
+Apriori,frozenset({'whole milk'}),frozenset({'fruit/vegetable juice'}),0.003,0.0229,0.6241,1.0,0.2654
+FP-Growth,frozenset({'whole milk'}),frozenset({'fruit/vegetable juice'}),0.003,0.0229,0.6241,1.0,0.2654
+Apriori,frozenset({'citrus fruit'}),frozenset({'pastry'}),0.0013,0.0381,0.7668,0.9987,0.3158
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'pastry'}),0.0013,0.0381,0.7668,0.9987,0.3158
+Apriori,frozenset({'yogurt'}),frozenset({'root vegetables'}),0.003,0.0381,0.63,0.9987,0.264
+FP-Growth,frozenset({'yogurt'}),frozenset({'root vegetables'}),0.003,0.0381,0.63,0.9987,0.264
+Apriori,frozenset({'soda'}),frozenset({'coffee'}),0.002,0.0215,0.7019,1.0,0.2943
+FP-Growth,frozenset({'soda'}),frozenset({'coffee'}),0.002,0.0215,0.7019,1.0,0.2943
+Apriori,frozenset({'whole milk'}),frozenset({'root vegetables'}),0.0041,0.0312,0.516,1.0,0.2256
+FP-Growth,frozenset({'whole milk'}),frozenset({'root vegetables'}),0.0041,0.0312,0.516,1.0,0.2256
+Apriori,frozenset({'napkins'}),frozenset({'whole milk'}),0.0025,0.1005,0.77,0.9908,0.2913
+FP-Growth,frozenset({'napkins'}),frozenset({'whole milk'}),0.0025,0.1005,0.77,0.9908,0.2913
+FP-Growth,frozenset({'soda'}),frozenset({'oil'}),0.0013,0.0139,0.9302,0.9948,0.3557
+Apriori,frozenset({'soda'}),frozenset({'oil'}),0.0013,0.0139,0.9302,0.9948,0.3557
+FP-Growth,frozenset({'pip fruit'}),frozenset({'bottled beer'}),0.0012,0.0318,0.7855,0.9987,0.3215
+Apriori,frozenset({'pip fruit'}),frozenset({'bottled beer'}),0.0012,0.0318,0.7855,0.9987,0.3215
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'candy'}),0.0014,0.0141,0.8788,0.9961,0.3421
+Apriori,frozenset({'rolls/buns'}),frozenset({'candy'}),0.0014,0.0141,0.8788,0.9961,0.3421
+FP-Growth,frozenset({'coffee'}),frozenset({'root vegetables'}),0.0013,0.043,0.7114,1.0,0.301
+Apriori,frozenset({'coffee'}),frozenset({'root vegetables'}),0.0013,0.043,0.7114,1.0,0.301
+Apriori,frozenset({'rolls/buns'}),frozenset({'cat food'}),0.0012,0.0117,0.8247,0.9987,0.3329
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'cat food'}),0.0012,0.0117,0.8247,0.9987,0.3329
+FP-Growth,frozenset({'bottled beer'}),frozenset({'pip fruit'}),0.0012,0.0295,0.7855,0.9987,0.3208
+Apriori,frozenset({'bottled beer'}),frozenset({'pip fruit'}),0.0012,0.0295,0.7855,0.9987,0.3208
+FP-Growth,frozenset({'soda'}),frozenset({'sliced cheese'}),0.0012,0.0126,0.8594,0.9974,0.3401
+Apriori,frozenset({'soda'}),frozenset({'sliced cheese'}),0.0012,0.0126,0.8594,0.9974,0.3401
+Apriori,frozenset({'rolls/buns'}),frozenset({'tropical fruit'}),0.0031,0.0305,0.6254,0.9987,0.2603
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'tropical fruit'}),0.0031,0.0305,0.6254,0.9987,0.2603
+Apriori,frozenset({'soda'}),frozenset({'whipped/sour cream'}),0.0029,0.0303,0.6838,0.9974,0.2764
+FP-Growth,frozenset({'soda'}),frozenset({'whipped/sour cream'}),0.0029,0.0303,0.6838,0.9974,0.2764
+FP-Growth,frozenset({'hygiene articles'}),frozenset({'whole milk'}),0.0013,0.0894,0.6854,0.9974,0.2862
+Apriori,frozenset({'hygiene articles'}),frozenset({'whole milk'}),0.0013,0.0894,0.6854,0.9974,0.2862
+FP-Growth,frozenset({'UHT-milk'}),frozenset({'whole milk'}),0.0019,0.0964,0.7387,0.9935,0.2898
+Apriori,frozenset({'UHT-milk'}),frozenset({'whole milk'}),0.0019,0.0964,0.7387,0.9935,0.2898
+Apriori,frozenset({'whole milk'}),frozenset({'pip fruit'}),0.0031,0.0238,0.6346,0.9987,0.2623
+FP-Growth,frozenset({'whole milk'}),frozenset({'pip fruit'}),0.0031,0.0238,0.6346,0.9987,0.2623
+FP-Growth,frozenset({'whole milk'}),frozenset({'margarine'}),0.0031,0.0238,0.6732,0.9974,0.271
+Apriori,frozenset({'whole milk'}),frozenset({'margarine'}),0.0031,0.0238,0.6732,0.9974,0.271
+Apriori,frozenset({'oil'}),frozenset({'whole milk'}),0.0014,0.096,0.7357,0.9948,0.2942
+FP-Growth,frozenset({'oil'}),frozenset({'whole milk'}),0.0014,0.096,0.7357,0.9948,0.2942
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'whole milk'}),0.0032,0.0728,0.5577,0.9974,0.2349
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'whole milk'}),0.0032,0.0728,0.5577,0.9974,0.2349
+FP-Growth,frozenset({'frozen meals'}),frozenset({'whole milk'}),0.0013,0.0887,0.6798,0.9974,0.2835
+Apriori,frozenset({'frozen meals'}),frozenset({'whole milk'}),0.0013,0.0887,0.6798,0.9974,0.2835
+Apriori,frozenset({'domestic eggs'}),frozenset({'tropical fruit'}),0.0014,0.0361,0.7407,0.9987,0.3041
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'tropical fruit'}),0.0014,0.0361,0.7407,0.9987,0.3041
+Apriori,frozenset({'root vegetables'}),frozenset({'rolls/buns'}),0.0033,0.0554,0.5441,0.9987,0.2328
+FP-Growth,frozenset({'root vegetables'}),frozenset({'rolls/buns'}),0.0033,0.0554,0.5441,0.9987,0.2328
+Apriori,frozenset({'root vegetables'}),frozenset({'pip fruit'}),0.0017,0.0277,0.7382,0.9987,0.3017
+FP-Growth,frozenset({'root vegetables'}),frozenset({'pip fruit'}),0.0017,0.0277,0.7382,0.9987,0.3017
+Apriori,frozenset({'margarine'}),frozenset({'other vegetables'}),0.0024,0.0676,0.6333,0.9974,0.2623
+FP-Growth,frozenset({'margarine'}),frozenset({'other vegetables'}),0.0024,0.0676,0.6333,0.9974,0.2623
+Apriori,frozenset({'beef'}),frozenset({'whole milk'}),0.0019,0.0833,0.6386,0.9974,0.2668
+FP-Growth,frozenset({'beef'}),frozenset({'whole milk'}),0.0019,0.0833,0.6386,0.9974,0.2668
+FP-Growth,frozenset({'pastry'}),frozenset({'citrus fruit'}),0.0013,0.0265,0.7668,0.9987,0.3121
+Apriori,frozenset({'pastry'}),frozenset({'citrus fruit'}),0.0013,0.0265,0.7668,0.9987,0.3121
+FP-Growth,frozenset({'soda'}),frozenset({'domestic eggs'}),0.0025,0.0265,0.6686,0.9987,0.2749
+Apriori,frozenset({'soda'}),frozenset({'domestic eggs'}),0.0025,0.0265,0.6686,0.9987,0.2749
+Apriori,frozenset({'citrus fruit'}),frozenset({'other vegetables'}),0.0022,0.0623,0.5838,1.0,0.2544
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'other vegetables'}),0.0022,0.0623,0.5838,1.0,0.2544
+FP-Growth,frozenset({'newspapers'}),frozenset({'soda'}),0.0024,0.0578,0.611,0.9987,0.258
+Apriori,frozenset({'newspapers'}),frozenset({'soda'}),0.0024,0.0578,0.611,0.9987,0.258
+Apriori,frozenset({'other vegetables'}),frozenset({'frozen meals'}),0.0013,0.0123,0.8315,0.9974,0.3282
+FP-Growth,frozenset({'other vegetables'}),frozenset({'frozen meals'}),0.0013,0.0123,0.8315,0.9974,0.3282
+FP-Growth,frozenset({'yogurt'}),frozenset({'pip fruit'}),0.0022,0.0274,0.7295,0.9974,0.2918
+Apriori,frozenset({'yogurt'}),frozenset({'pip fruit'}),0.0022,0.0274,0.7295,0.9974,0.2918
+Apriori,frozenset({'root vegetables'}),frozenset({'bottled water'}),0.0023,0.0376,0.6192,1.0,0.2634
+FP-Growth,frozenset({'root vegetables'}),frozenset({'bottled water'}),0.0023,0.0376,0.6192,1.0,0.2634
+Apriori,frozenset({'bottled water'}),frozenset({'root vegetables'}),0.0023,0.0374,0.6192,1.0,0.2633
+FP-Growth,frozenset({'bottled water'}),frozenset({'root vegetables'}),0.0023,0.0374,0.6192,1.0,0.2633
+Apriori,frozenset({'coffee'}),frozenset({'tropical fruit'}),0.0011,0.0352,0.7204,1.0,0.3012
+FP-Growth,frozenset({'coffee'}),frozenset({'tropical fruit'}),0.0011,0.0352,0.7204,1.0,0.3012
+Apriori,frozenset({'yogurt'}),frozenset({'pastry'}),0.0026,0.0335,0.6746,0.9974,0.2718
+FP-Growth,frozenset({'yogurt'}),frozenset({'pastry'}),0.0026,0.0335,0.6746,0.9974,0.2718
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'domestic eggs'}),0.0014,0.0294,0.7407,0.9987,0.3019
+Apriori,frozenset({'tropical fruit'}),frozenset({'domestic eggs'}),0.0014,0.0294,0.7407,0.9987,0.3019
+Apriori,frozenset({'yogurt'}),frozenset({'chocolate'}),0.0016,0.0198,0.8272,0.9961,0.3212
+FP-Growth,frozenset({'yogurt'}),frozenset({'chocolate'}),0.0016,0.0198,0.8272,0.9961,0.3212
+FP-Growth,frozenset({'root vegetables'}),frozenset({'dessert'}),0.0012,0.0198,0.8534,0.9961,0.3309
+Apriori,frozenset({'root vegetables'}),frozenset({'dessert'}),0.0012,0.0198,0.8534,0.9961,0.3309
+Apriori,frozenset({'canned beer'}),frozenset({'newspapers'}),0.0011,0.0315,0.7604,0.9987,0.3093
+FP-Growth,frozenset({'canned beer'}),frozenset({'newspapers'}),0.0011,0.0315,0.7604,0.9987,0.3093
+Apriori,frozenset({'yogurt'}),frozenset({'whipped/sour cream'}),0.0025,0.032,0.7203,0.9961,0.2825
+FP-Growth,frozenset({'yogurt'}),frozenset({'whipped/sour cream'}),0.0025,0.032,0.7203,0.9961,0.2825
+FP-Growth,frozenset({'yogurt'}),frozenset({'curd'}),0.0018,0.0228,0.7575,0.9974,0.3009
+Apriori,frozenset({'yogurt'}),frozenset({'curd'}),0.0018,0.0228,0.7575,0.9974,0.3009
+FP-Growth,frozenset({'pork'}),frozenset({'other vegetables'}),0.0013,0.0701,0.6567,0.9987,0.2759
+Apriori,frozenset({'pork'}),frozenset({'other vegetables'}),0.0013,0.0701,0.6567,0.9987,0.2759
+Apriori,frozenset({'shopping bags'}),frozenset({'cream cheese '}),0.0012,0.0227,0.9575,0.9921,0.3525
+FP-Growth,frozenset({'shopping bags'}),frozenset({'cream cheese '}),0.0012,0.0227,0.9575,0.9921,0.3525
+FP-Growth,frozenset({'long life bakery product'}),frozenset({'whole milk'}),0.002,0.1,0.7664,0.9908,0.2866
+Apriori,frozenset({'long life bakery product'}),frozenset({'whole milk'}),0.002,0.1,0.7664,0.9908,0.2866
+FP-Growth,frozenset({'whole milk'}),frozenset({'ham'}),0.0011,0.0082,0.802,0.9987,0.3208
+Apriori,frozenset({'whole milk'}),frozenset({'ham'}),0.0011,0.0082,0.802,0.9987,0.3208
+Apriori,frozenset({'salty snack'}),frozenset({'yogurt'}),0.0013,0.0671,0.8536,0.9921,0.3201
+FP-Growth,frozenset({'salty snack'}),frozenset({'yogurt'}),0.0013,0.0671,0.8536,0.9921,0.3201
+FP-Growth,frozenset({'root vegetables'}),frozenset({'coffee'}),0.0013,0.0218,0.7114,1.0,0.2943
+Apriori,frozenset({'root vegetables'}),frozenset({'coffee'}),0.0013,0.0218,0.7114,1.0,0.2943
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'frozen vegetables'}),0.0024,0.0235,0.8533,0.9921,0.3129
+Apriori,frozenset({'rolls/buns'}),frozenset({'frozen vegetables'}),0.0024,0.0235,0.8533,0.9921,0.3129
+FP-Growth,frozenset({'newspapers'}),frozenset({'canned beer'}),0.0011,0.026,0.7604,0.9987,0.3076
+Apriori,frozenset({'newspapers'}),frozenset({'canned beer'}),0.0011,0.026,0.7604,0.9987,0.3076
+Apriori,frozenset({'pork'}),frozenset({'rolls/buns'}),0.0013,0.0701,0.6876,0.9974,0.2811
+FP-Growth,frozenset({'pork'}),frozenset({'rolls/buns'}),0.0013,0.0701,0.6876,0.9974,0.2811
+FP-Growth,frozenset({'butter'}),frozenset({'root vegetables'}),0.0014,0.0421,0.6971,0.9987,0.2862
+Apriori,frozenset({'butter'}),frozenset({'root vegetables'}),0.0014,0.0421,0.6971,0.9987,0.2862
+FP-Growth,frozenset({'other vegetables'}),frozenset({'frozen vegetables'}),0.0024,0.0224,0.8151,0.9935,0.304
+Apriori,frozenset({'other vegetables'}),frozenset({'frozen vegetables'}),0.0024,0.0224,0.8151,0.9935,0.304
+Apriori,frozenset({'other vegetables'}),frozenset({'newspapers'}),0.0028,0.0258,0.6231,0.9987,0.2555
+FP-Growth,frozenset({'other vegetables'}),frozenset({'newspapers'}),0.0028,0.0258,0.6231,0.9987,0.2555
+Apriori,frozenset({'soda'}),frozenset({'sausage'}),0.0017,0.0177,0.6883,1.0,0.2848
+FP-Growth,frozenset({'soda'}),frozenset({'sausage'}),0.0017,0.0177,0.6883,1.0,0.2848
+FP-Growth,frozenset({'oil'}),frozenset({'other vegetables'}),0.0012,0.08,0.7499,0.9948,0.2941
+Apriori,frozenset({'oil'}),frozenset({'other vegetables'}),0.0012,0.08,0.7499,0.9948,0.2941
+FP-Growth,frozenset({'other vegetables'}),frozenset({'whipped/sour cream'}),0.003,0.028,0.6316,0.9974,0.2528
+Apriori,frozenset({'other vegetables'}),frozenset({'whipped/sour cream'}),0.003,0.028,0.6316,0.9974,0.2528
+Apriori,frozenset({'curd'}),frozenset({'shopping bags'}),0.0012,0.0397,0.7523,0.9974,0.3002
+FP-Growth,frozenset({'curd'}),frozenset({'shopping bags'}),0.0012,0.0397,0.7523,0.9974,0.3002
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'coffee'}),0.0011,0.0221,0.7204,1.0,0.297
+Apriori,frozenset({'tropical fruit'}),frozenset({'coffee'}),0.0011,0.0221,0.7204,1.0,0.297
+Apriori,frozenset({'other vegetables'}),frozenset({'fruit/vegetable juice'}),0.0024,0.0224,0.6106,1.0,0.2554
+FP-Growth,frozenset({'other vegetables'}),frozenset({'fruit/vegetable juice'}),0.0024,0.0224,0.6106,1.0,0.2554
+Apriori,frozenset({'newspapers'}),frozenset({'root vegetables'}),0.0017,0.0405,0.6699,0.9987,0.2748
+FP-Growth,frozenset({'newspapers'}),frozenset({'root vegetables'}),0.0017,0.0405,0.6699,0.9987,0.2748
+Apriori,frozenset({'salty snack'}),frozenset({'soda'}),0.0014,0.0732,0.7734,0.9935,0.2953
+FP-Growth,frozenset({'salty snack'}),frozenset({'soda'}),0.0014,0.0732,0.7734,0.9935,0.2953
+FP-Growth,frozenset({'other vegetables'}),frozenset({'domestic eggs'}),0.0026,0.0247,0.6211,0.9987,0.2536
+Apriori,frozenset({'other vegetables'}),frozenset({'domestic eggs'}),0.0026,0.0247,0.6211,0.9987,0.2536
+FP-Growth,frozenset({'yogurt'}),frozenset({'cream cheese '}),0.0017,0.0213,0.8998,0.9921,0.3289
+Apriori,frozenset({'yogurt'}),frozenset({'cream cheese '}),0.0017,0.0213,0.8998,0.9921,0.3289
+Apriori,frozenset({'rolls/buns'}),frozenset({'root vegetables'}),0.0033,0.0329,0.5441,0.9987,0.2256
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'root vegetables'}),0.0033,0.0329,0.5441,0.9987,0.2256
+FP-Growth,frozenset({'pastry'}),frozenset({'soda'}),0.0026,0.053,0.5603,0.9987,0.2349
+Apriori,frozenset({'pastry'}),frozenset({'soda'}),0.0026,0.053,0.5603,0.9987,0.2349
+FP-Growth,frozenset({'soda'}),frozenset({'fruit/vegetable juice'}),0.0022,0.0228,0.6197,1.0,0.2582
+Apriori,frozenset({'soda'}),frozenset({'fruit/vegetable juice'}),0.0022,0.0228,0.6197,1.0,0.2582
+FP-Growth,frozenset({'whole milk'}),frozenset({'white bread'}),0.0024,0.0183,0.6873,0.9974,0.2713
+Apriori,frozenset({'whole milk'}),frozenset({'white bread'}),0.0024,0.0183,0.6873,0.9974,0.2713
+Apriori,frozenset({'other vegetables'}),frozenset({'white bread'}),0.002,0.0191,0.7146,0.9974,0.2817
+FP-Growth,frozenset({'other vegetables'}),frozenset({'white bread'}),0.002,0.0191,0.7146,0.9974,0.2817
+Apriori,frozenset({'frozen vegetables'}),frozenset({'soda'}),0.0019,0.0696,0.7353,0.9935,0.2798
+FP-Growth,frozenset({'frozen vegetables'}),frozenset({'soda'}),0.0019,0.0696,0.7353,0.9935,0.2798
+FP-Growth,frozenset({'shopping bags'}),frozenset({'bottled water'}),0.002,0.0385,0.6345,0.9987,0.2603
+Apriori,frozenset({'shopping bags'}),frozenset({'bottled water'}),0.002,0.0385,0.6345,0.9987,0.2603
+FP-Growth,frozenset({'misc. beverages'}),frozenset({'rolls/buns'}),0.0011,0.0698,0.6847,0.9974,0.2782
+Apriori,frozenset({'misc. beverages'}),frozenset({'rolls/buns'}),0.0011,0.0698,0.6847,0.9974,0.2782
+FP-Growth,frozenset({'whole milk'}),frozenset({'frozen vegetables'}),0.0028,0.0211,0.7664,0.9935,0.2837
+Apriori,frozenset({'whole milk'}),frozenset({'frozen vegetables'}),0.0028,0.0211,0.7664,0.9935,0.2837
+Apriori,frozenset({'whole milk'}),frozenset({'citrus fruit'}),0.0026,0.0202,0.5834,1.0,0.2439
+FP-Growth,frozenset({'whole milk'}),frozenset({'citrus fruit'}),0.0026,0.0202,0.5834,1.0,0.2439
+Apriori,frozenset({'soda'}),frozenset({'canned beer'}),0.002,0.0215,0.6283,1.0,0.261
+FP-Growth,frozenset({'soda'}),frozenset({'canned beer'}),0.002,0.0215,0.6283,1.0,0.261
+FP-Growth,frozenset({'canned beer'}),frozenset({'pastry'}),0.0012,0.035,0.7044,0.9987,0.2858
+Apriori,frozenset({'canned beer'}),frozenset({'pastry'}),0.0012,0.035,0.7044,0.9987,0.2858
+FP-Growth,frozenset({'soda'}),frozenset({'candy'}),0.0012,0.0126,0.7888,0.9974,0.3082
+Apriori,frozenset({'soda'}),frozenset({'candy'}),0.0012,0.0126,0.7888,0.9974,0.3082
+Apriori,frozenset({'dessert'}),frozenset({'bottled water'}),0.0011,0.0464,0.7635,0.9961,0.2978
+FP-Growth,frozenset({'dessert'}),frozenset({'bottled water'}),0.0011,0.0464,0.7635,0.9961,0.2978
+Apriori,frozenset({'bottled water'}),frozenset({'shopping bags'}),0.002,0.0335,0.6345,0.9987,0.2587
+FP-Growth,frozenset({'bottled water'}),frozenset({'shopping bags'}),0.002,0.0335,0.6345,0.9987,0.2587
+FP-Growth,frozenset({'yogurt'}),frozenset({'long life bakery product'}),0.0016,0.0198,0.9732,0.9895,0.3433
+Apriori,frozenset({'yogurt'}),frozenset({'long life bakery product'}),0.0016,0.0198,0.9732,0.9895,0.3433
+Apriori,frozenset({'bottled beer'}),frozenset({'whipped/sour cream'}),0.0013,0.0324,0.7313,0.9974,0.289
+FP-Growth,frozenset({'bottled beer'}),frozenset({'whipped/sour cream'}),0.0013,0.0324,0.7313,0.9974,0.289
+Apriori,frozenset({'napkins'}),frozenset({'other vegetables'}),0.002,0.0813,0.7624,0.9908,0.2789
+FP-Growth,frozenset({'napkins'}),frozenset({'other vegetables'}),0.002,0.0813,0.7624,0.9908,0.2789
+FP-Growth,frozenset({'root vegetables'}),frozenset({'newspapers'}),0.0017,0.0277,0.6699,0.9987,0.2708
+Apriori,frozenset({'root vegetables'}),frozenset({'newspapers'}),0.0017,0.0277,0.6699,0.9987,0.2708
+FP-Growth,frozenset({'root vegetables'}),frozenset({'butter'}),0.0014,0.0238,0.6971,0.9987,0.2804
+Apriori,frozenset({'root vegetables'}),frozenset({'butter'}),0.0014,0.0238,0.6971,0.9987,0.2804
+Apriori,frozenset({'rolls/buns'}),frozenset({'waffles'}),0.0017,0.0164,0.8082,0.9948,0.3034
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'waffles'}),0.0017,0.0164,0.8082,0.9948,0.3034
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'bottled beer'}),0.0013,0.0296,0.7313,0.9974,0.2882
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'bottled beer'}),0.0013,0.0296,0.7313,0.9974,0.2882
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'root vegetables'}),0.0018,0.0404,0.6694,0.9974,0.2665
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'root vegetables'}),0.0018,0.0404,0.6694,0.9974,0.2665
+FP-Growth,frozenset({'coffee'}),frozenset({'bottled water'}),0.0012,0.0391,0.6429,1.0,0.268
+Apriori,frozenset({'coffee'}),frozenset({'bottled water'}),0.0012,0.0391,0.6429,1.0,0.268
+Apriori,frozenset({'rolls/buns'}),frozenset({'coffee'}),0.002,0.02,0.6517,0.9987,0.2622
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'coffee'}),0.002,0.02,0.6517,0.9987,0.2622
+FP-Growth,frozenset({'soda'}),frozenset({'newspapers'}),0.0024,0.0253,0.611,0.9987,0.2477
+Apriori,frozenset({'soda'}),frozenset({'newspapers'}),0.0024,0.0253,0.611,0.9987,0.2477
+Apriori,frozenset({'shopping bags'}),frozenset({'curd'}),0.0012,0.0227,0.7523,0.9974,0.2948
+FP-Growth,frozenset({'shopping bags'}),frozenset({'curd'}),0.0012,0.0227,0.7523,0.9974,0.2948
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'bottled water'}),0.0018,0.0404,0.6654,0.9974,0.2647
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'bottled water'}),0.0018,0.0404,0.6654,0.9974,0.2647
+Apriori,frozenset({'berries'}),frozenset({'whole milk'}),0.0013,0.0809,0.6199,0.9974,0.2538
+FP-Growth,frozenset({'berries'}),frozenset({'whole milk'}),0.0013,0.0809,0.6199,0.9974,0.2538
+FP-Growth,frozenset({'napkins'}),frozenset({'yogurt'}),0.0017,0.067,0.8525,0.9895,0.3042
+Apriori,frozenset({'napkins'}),frozenset({'yogurt'}),0.0017,0.067,0.8525,0.9895,0.3042
+Apriori,frozenset({'bottled beer'}),frozenset({'yogurt'}),0.0019,0.0472,0.6006,0.9987,0.247
+FP-Growth,frozenset({'bottled beer'}),frozenset({'yogurt'}),0.0019,0.0472,0.6006,0.9987,0.247
+Apriori,frozenset({'whole milk'}),frozenset({'pickled vegetables'}),0.0011,0.0082,0.7497,0.9987,0.2971
+FP-Growth,frozenset({'whole milk'}),frozenset({'pickled vegetables'}),0.0011,0.0082,0.7497,0.9987,0.2971
+Apriori,frozenset({'pastry'}),frozenset({'canned beer'}),0.0012,0.0241,0.7044,0.9987,0.2823
+FP-Growth,frozenset({'pastry'}),frozenset({'canned beer'}),0.0012,0.0241,0.7044,0.9987,0.2823
+FP-Growth,frozenset({'other vegetables'}),frozenset({'berries'}),0.0013,0.0123,0.7581,0.9974,0.2949
+Apriori,frozenset({'other vegetables'}),frozenset({'berries'}),0.0013,0.0123,0.7581,0.9974,0.2949
+Apriori,frozenset({'coffee'}),frozenset({'whole milk'}),0.002,0.0664,0.5089,1.0,0.221
+FP-Growth,frozenset({'coffee'}),frozenset({'whole milk'}),0.002,0.0664,0.5089,1.0,0.221
+FP-Growth,frozenset({'soda'}),frozenset({'butter milk'}),0.0011,0.0114,0.7375,0.9987,0.2926
+Apriori,frozenset({'soda'}),frozenset({'butter milk'}),0.0011,0.0114,0.7375,0.9987,0.2926
+Apriori,frozenset({'whole milk'}),frozenset({'sliced cheese'}),0.0014,0.011,0.7477,0.9974,0.2905
+FP-Growth,frozenset({'whole milk'}),frozenset({'sliced cheese'}),0.0014,0.011,0.7477,0.9974,0.2905
+FP-Growth,frozenset({'waffles'}),frozenset({'other vegetables'}),0.0014,0.0706,0.6616,0.9961,0.2614
+Apriori,frozenset({'waffles'}),frozenset({'other vegetables'}),0.0014,0.0706,0.6616,0.9961,0.2614
+FP-Growth,frozenset({'cream cheese '}),frozenset({'whole milk'}),0.002,0.0859,0.658,0.9935,0.2506
+Apriori,frozenset({'cream cheese '}),frozenset({'whole milk'}),0.002,0.0859,0.658,0.9935,0.2506
+FP-Growth,frozenset({'other vegetables'}),frozenset({'hygiene articles'}),0.0012,0.0112,0.7621,0.9974,0.2956
+Apriori,frozenset({'other vegetables'}),frozenset({'hygiene articles'}),0.0012,0.0112,0.7621,0.9974,0.2956
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'hygiene articles'}),0.0012,0.0117,0.7978,0.9961,0.3031
+Apriori,frozenset({'rolls/buns'}),frozenset({'hygiene articles'}),0.0012,0.0117,0.7978,0.9961,0.3031
+Apriori,frozenset({'other vegetables'}),frozenset({'citrus fruit'}),0.0022,0.0202,0.5838,1.0,0.2411
+FP-Growth,frozenset({'other vegetables'}),frozenset({'citrus fruit'}),0.0022,0.0202,0.5838,1.0,0.2411
+Apriori,frozenset({'rolls/buns'}),frozenset({'hard cheese'}),0.0011,0.0106,0.768,0.9974,0.2973
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'hard cheese'}),0.0011,0.0106,0.768,0.9974,0.2973
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'shopping bags'}),0.0014,0.0361,0.6853,0.9974,0.2701
+Apriori,frozenset({'domestic eggs'}),frozenset({'shopping bags'}),0.0014,0.0361,0.6853,0.9974,0.2701
+Apriori,frozenset({'root vegetables'}),frozenset({'whipped/sour cream'}),0.0018,0.0297,0.6694,0.9974,0.2631
+FP-Growth,frozenset({'root vegetables'}),frozenset({'whipped/sour cream'}),0.0018,0.0297,0.6694,0.9974,0.2631
+Apriori,frozenset({'canned beer'}),frozenset({'tropical fruit'}),0.0011,0.0315,0.6449,1.0,0.2657
+FP-Growth,frozenset({'canned beer'}),frozenset({'tropical fruit'}),0.0011,0.0315,0.6449,1.0,0.2657
+FP-Growth,frozenset({'butter'}),frozenset({'rolls/buns'}),0.002,0.0596,0.5854,0.9974,0.2359
+Apriori,frozenset({'butter'}),frozenset({'rolls/buns'}),0.002,0.0596,0.5854,0.9974,0.2359
+FP-Growth,frozenset({'other vegetables'}),frozenset({'margarine'}),0.0024,0.0224,0.6333,0.9974,0.2481
+Apriori,frozenset({'other vegetables'}),frozenset({'margarine'}),0.0024,0.0224,0.6333,0.9974,0.2481
+FP-Growth,frozenset({'bottled water'}),frozenset({'whipped/sour cream'}),0.0018,0.0295,0.6654,0.9974,0.2612
+Apriori,frozenset({'bottled water'}),frozenset({'whipped/sour cream'}),0.0018,0.0295,0.6654,0.9974,0.2612
+Apriori,frozenset({'margarine'}),frozenset({'root vegetables'}),0.0014,0.0405,0.6712,0.9974,0.2651
+FP-Growth,frozenset({'margarine'}),frozenset({'root vegetables'}),0.0014,0.0405,0.6712,0.9974,0.2651
+FP-Growth,frozenset({'whole milk'}),frozenset({'whipped/sour cream'}),0.0032,0.0247,0.5577,0.9974,0.2197
+Apriori,frozenset({'whole milk'}),frozenset({'whipped/sour cream'}),0.0032,0.0247,0.5577,0.9974,0.2197
+Apriori,frozenset({'chocolate'}),frozenset({'other vegetables'}),0.0016,0.065,0.6093,0.9974,0.2455
+FP-Growth,frozenset({'chocolate'}),frozenset({'other vegetables'}),0.0016,0.065,0.6093,0.9974,0.2455
+Apriori,frozenset({'soda'}),frozenset({'pastry'}),0.0026,0.0278,0.5603,0.9987,0.227
+FP-Growth,frozenset({'soda'}),frozenset({'pastry'}),0.0026,0.0278,0.5603,0.9987,0.227
+FP-Growth,frozenset({'margarine'}),frozenset({'bottled water'}),0.0014,0.0405,0.6672,0.9974,0.2633
+Apriori,frozenset({'margarine'}),frozenset({'bottled water'}),0.0014,0.0405,0.6672,0.9974,0.2633
+Apriori,frozenset({'whole milk'}),frozenset({'specialty bar'}),0.0012,0.0092,0.6722,1.0,0.2718
+FP-Growth,frozenset({'whole milk'}),frozenset({'specialty bar'}),0.0012,0.0092,0.6722,1.0,0.2718
+FP-Growth,frozenset({'butter'}),frozenset({'bottled water'}),0.0013,0.0386,0.6352,0.9987,0.2563
+Apriori,frozenset({'butter'}),frozenset({'bottled water'}),0.0013,0.0386,0.6352,0.9987,0.2563
+FP-Growth,frozenset({'dessert'}),frozenset({'whole milk'}),0.0018,0.0773,0.5925,0.9961,0.2344
+Apriori,frozenset({'dessert'}),frozenset({'whole milk'}),0.0018,0.0773,0.5925,0.9961,0.2344
+Apriori,frozenset({'bottled water'}),frozenset({'coffee'}),0.0012,0.0197,0.6429,1.0,0.2619
+FP-Growth,frozenset({'bottled water'}),frozenset({'coffee'}),0.0012,0.0197,0.6429,1.0,0.2619
+FP-Growth,frozenset({'shopping bags'}),frozenset({'domestic eggs'}),0.0014,0.0272,0.6853,0.9974,0.2673
+Apriori,frozenset({'shopping bags'}),frozenset({'domestic eggs'}),0.0014,0.0272,0.6853,0.9974,0.2673
+Apriori,frozenset({'tropical fruit'}),frozenset({'canned beer'}),0.0011,0.0221,0.6449,1.0,0.2628
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'canned beer'}),0.0011,0.0221,0.6449,1.0,0.2628
+Apriori,frozenset({'dessert'}),frozenset({'other vegetables'}),0.0016,0.067,0.6281,0.9961,0.2458
+FP-Growth,frozenset({'dessert'}),frozenset({'other vegetables'}),0.0016,0.067,0.6281,0.9961,0.2458
+FP-Growth,frozenset({'frozen vegetables'}),frozenset({'tropical fruit'}),0.0011,0.0391,0.8019,0.9935,0.2952
+Apriori,frozenset({'frozen vegetables'}),frozenset({'tropical fruit'}),0.0011,0.0391,0.8019,0.9935,0.2952
+Apriori,frozenset({'sugar'}),frozenset({'whole milk'}),0.0018,0.0926,0.7096,0.9908,0.257
+FP-Growth,frozenset({'sugar'}),frozenset({'whole milk'}),0.0018,0.0926,0.7096,0.9908,0.257
+Apriori,frozenset({'domestic eggs'}),frozenset({'bottled beer'}),0.0011,0.0271,0.6686,0.9987,0.2663
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'bottled beer'}),0.0011,0.0271,0.6686,0.9987,0.2663
+FP-Growth,frozenset({'newspapers'}),frozenset({'whipped/sour cream'}),0.0013,0.0318,0.7165,0.9961,0.2733
+Apriori,frozenset({'newspapers'}),frozenset({'whipped/sour cream'}),0.0013,0.0318,0.7165,0.9961,0.2733
+Apriori,frozenset({'bottled beer'}),frozenset({'domestic eggs'}),0.0011,0.0265,0.6686,0.9987,0.2661
+FP-Growth,frozenset({'bottled beer'}),frozenset({'domestic eggs'}),0.0011,0.0265,0.6686,0.9987,0.2661
+Apriori,frozenset({'coffee'}),frozenset({'yogurt'}),0.0014,0.0469,0.5965,0.9987,0.2421
+FP-Growth,frozenset({'coffee'}),frozenset({'yogurt'}),0.0014,0.0469,0.5965,0.9987,0.2421
+FP-Growth,frozenset({'bottled water'}),frozenset({'dessert'}),0.0011,0.0177,0.7635,0.9961,0.2887
+Apriori,frozenset({'bottled water'}),frozenset({'dessert'}),0.0011,0.0177,0.7635,0.9961,0.2887
+FP-Growth,frozenset({'specialty chocolate'}),frozenset({'whole milk'}),0.0012,0.073,0.5594,0.9987,0.232
+Apriori,frozenset({'specialty chocolate'}),frozenset({'whole milk'}),0.0012,0.073,0.5594,0.9987,0.232
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'newspapers'}),0.0013,0.0296,0.7165,0.9961,0.2726
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'newspapers'}),0.0013,0.0296,0.7165,0.9961,0.2726
+Apriori,frozenset({'yogurt'}),frozenset({'bottled beer'}),0.0019,0.0244,0.6006,0.9987,0.2398
+FP-Growth,frozenset({'yogurt'}),frozenset({'bottled beer'}),0.0019,0.0244,0.6006,0.9987,0.2398
+Apriori,frozenset({'bottled beer'}),frozenset({'rolls/buns'}),0.0022,0.0531,0.5211,0.9987,0.2142
+FP-Growth,frozenset({'bottled beer'}),frozenset({'rolls/buns'}),0.0022,0.0531,0.5211,0.9987,0.2142
+Apriori,frozenset({'white bread'}),frozenset({'rolls/buns'}),0.0017,0.0628,0.6161,0.9961,0.2398
+FP-Growth,frozenset({'white bread'}),frozenset({'rolls/buns'}),0.0017,0.0628,0.6161,0.9961,0.2398
+FP-Growth,frozenset({'pip fruit'}),frozenset({'shopping bags'}),0.0013,0.035,0.6642,0.9974,0.2594
+Apriori,frozenset({'pip fruit'}),frozenset({'shopping bags'}),0.0013,0.035,0.6642,0.9974,0.2594
+FP-Growth,frozenset({'bottled beer'}),frozenset({'tropical fruit'}),0.0012,0.0295,0.6045,1.0,0.2475
+Apriori,frozenset({'bottled beer'}),frozenset({'tropical fruit'}),0.0012,0.0295,0.6045,1.0,0.2475
+Apriori,frozenset({'yogurt'}),frozenset({'salty snack'}),0.0013,0.0167,0.8536,0.9921,0.3043
+FP-Growth,frozenset({'yogurt'}),frozenset({'salty snack'}),0.0013,0.0167,0.8536,0.9921,0.3043
+Apriori,frozenset({'salty snack'}),frozenset({'other vegetables'}),0.0014,0.0732,0.6859,0.9935,0.2556
+FP-Growth,frozenset({'salty snack'}),frozenset({'other vegetables'}),0.0014,0.0732,0.6859,0.9935,0.2556
+FP-Growth,frozenset({'butter'}),frozenset({'other vegetables'}),0.0019,0.0561,0.5262,0.9987,0.216
+Apriori,frozenset({'butter'}),frozenset({'other vegetables'}),0.0019,0.0561,0.5262,0.9987,0.216
+Apriori,frozenset({'root vegetables'}),frozenset({'margarine'}),0.0014,0.0238,0.6712,0.9974,0.2598
+FP-Growth,frozenset({'root vegetables'}),frozenset({'margarine'}),0.0014,0.0238,0.6712,0.9974,0.2598
+Apriori,frozenset({'bottled water'}),frozenset({'margarine'}),0.0014,0.0236,0.6672,0.9974,0.258
+FP-Growth,frozenset({'bottled water'}),frozenset({'margarine'}),0.0014,0.0236,0.6672,0.9974,0.258
+FP-Growth,frozenset({'bottled beer'}),frozenset({'soda'}),0.0019,0.0472,0.4989,1.0,0.2097
+Apriori,frozenset({'bottled beer'}),frozenset({'soda'}),0.0019,0.0472,0.4989,1.0,0.2097
+Apriori,frozenset({'tropical fruit'}),frozenset({'bottled beer'}),0.0012,0.0245,0.6045,1.0,0.246
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'bottled beer'}),0.0012,0.0245,0.6045,1.0,0.246
+FP-Growth,frozenset({'brown bread'}),frozenset({'whipped/sour cream'}),0.0012,0.0298,0.6707,0.9974,0.26
+Apriori,frozenset({'brown bread'}),frozenset({'whipped/sour cream'}),0.0012,0.0298,0.6707,0.9974,0.26
+Apriori,frozenset({'beef'}),frozenset({'yogurt'}),0.0012,0.0521,0.6628,0.9961,0.2546
+FP-Growth,frozenset({'beef'}),frozenset({'yogurt'}),0.0012,0.0521,0.6628,0.9961,0.2546
+Apriori,frozenset({'pork'}),frozenset({'whole milk'}),0.0013,0.0701,0.5369,0.9987,0.2216
+FP-Growth,frozenset({'pork'}),frozenset({'whole milk'}),0.0013,0.0701,0.5369,0.9987,0.2216
+FP-Growth,frozenset({'other vegetables'}),frozenset({'pork'}),0.0013,0.0123,0.6567,0.9987,0.2577
+Apriori,frozenset({'other vegetables'}),frozenset({'pork'}),0.0013,0.0123,0.6567,0.9987,0.2577
+Apriori,frozenset({'oil'}),frozenset({'rolls/buns'}),0.0011,0.072,0.7066,0.9935,0.2624
+FP-Growth,frozenset({'oil'}),frozenset({'rolls/buns'}),0.0011,0.072,0.7066,0.9935,0.2624
+FP-Growth,frozenset({'bottled water'}),frozenset({'butter'}),0.0013,0.0217,0.6352,0.9987,0.2509
+Apriori,frozenset({'bottled water'}),frozenset({'butter'}),0.0013,0.0217,0.6352,0.9987,0.2509
+Apriori,frozenset({'whole milk'}),frozenset({'beef'}),0.0019,0.0147,0.6386,0.9974,0.2451
+FP-Growth,frozenset({'whole milk'}),frozenset({'beef'}),0.0019,0.0147,0.6386,0.9974,0.2451
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'brown bread'}),0.0012,0.027,0.6707,0.9974,0.2591
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'brown bread'}),0.0012,0.027,0.6707,0.9974,0.2591
+Apriori,frozenset({'root vegetables'}),frozenset({'other vegetables'}),0.0028,0.0455,0.4269,1.0,0.1816
+FP-Growth,frozenset({'root vegetables'}),frozenset({'other vegetables'}),0.0028,0.0455,0.4269,1.0,0.1816
+FP-Growth,frozenset({'shopping bags'}),frozenset({'pip fruit'}),0.0013,0.0249,0.6642,0.9974,0.2563
+Apriori,frozenset({'shopping bags'}),frozenset({'pip fruit'}),0.0013,0.0249,0.6642,0.9974,0.2563
+Apriori,frozenset({'pastry'}),frozenset({'other vegetables'}),0.0025,0.0506,0.4743,0.9987,0.1944
+FP-Growth,frozenset({'pastry'}),frozenset({'other vegetables'}),0.0025,0.0506,0.4743,0.9987,0.1944
+FP-Growth,frozenset({'cream cheese '}),frozenset({'rolls/buns'}),0.0017,0.0707,0.6939,0.9921,0.2511
+Apriori,frozenset({'cream cheese '}),frozenset({'rolls/buns'}),0.0017,0.0707,0.6939,0.9921,0.2511
+Apriori,frozenset({'beef'}),frozenset({'rolls/buns'}),0.0014,0.0625,0.6133,0.9961,0.237
+FP-Growth,frozenset({'beef'}),frozenset({'rolls/buns'}),0.0014,0.0625,0.6133,0.9961,0.237
+Apriori,frozenset({'rolls/buns'}),frozenset({'pork'}),0.0013,0.0129,0.6876,0.9974,0.2631
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'pork'}),0.0013,0.0129,0.6876,0.9974,0.2631
+FP-Growth,frozenset({'whole milk'}),frozenset({'napkins'}),0.0025,0.0192,0.77,0.9908,0.2657
+Apriori,frozenset({'whole milk'}),frozenset({'napkins'}),0.0025,0.0192,0.77,0.9908,0.2657
+FP-Growth,frozenset({'sausage'}),frozenset({'rolls/buns'}),0.0014,0.0558,0.5477,0.9987,0.2228
+Apriori,frozenset({'sausage'}),frozenset({'rolls/buns'}),0.0014,0.0558,0.5477,0.9987,0.2228
+Apriori,frozenset({'chocolate'}),frozenset({'whole milk'}),0.0017,0.07,0.5365,0.9974,0.2148
+FP-Growth,frozenset({'chocolate'}),frozenset({'whole milk'}),0.0017,0.07,0.5365,0.9974,0.2148
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'frozen vegetables'}),0.0011,0.0221,0.8019,0.9935,0.2899
+Apriori,frozenset({'tropical fruit'}),frozenset({'frozen vegetables'}),0.0011,0.0221,0.8019,0.9935,0.2899
+Apriori,frozenset({'soda'}),frozenset({'frozen vegetables'}),0.0019,0.0202,0.7353,0.9935,0.2642
+FP-Growth,frozenset({'soda'}),frozenset({'frozen vegetables'}),0.0019,0.0202,0.7353,0.9935,0.2642
+Apriori,frozenset({'whole milk'}),frozenset({'hygiene articles'}),0.0013,0.0101,0.6854,0.9974,0.2612
+FP-Growth,frozenset({'whole milk'}),frozenset({'hygiene articles'}),0.0013,0.0101,0.6854,0.9974,0.2612
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'whipped/sour cream'}),0.0011,0.0293,0.6607,0.9974,0.2546
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'whipped/sour cream'}),0.0011,0.0293,0.6607,0.9974,0.2546
+Apriori,frozenset({'canned beer'}),frozenset({'rolls/buns'}),0.0018,0.0524,0.5147,0.9987,0.2089
+FP-Growth,frozenset({'canned beer'}),frozenset({'rolls/buns'}),0.0018,0.0524,0.5147,0.9987,0.2089
+FP-Growth,frozenset({'whole milk'}),frozenset({'UHT-milk'}),0.0019,0.0147,0.7387,0.9935,0.264
+Apriori,frozenset({'whole milk'}),frozenset({'UHT-milk'}),0.0019,0.0147,0.7387,0.9935,0.264
+FP-Growth,frozenset({'whole milk'}),frozenset({'frozen meals'}),0.0013,0.0101,0.6798,0.9974,0.2587
+Apriori,frozenset({'whole milk'}),frozenset({'frozen meals'}),0.0013,0.0101,0.6798,0.9974,0.2587
+FP-Growth,frozenset({'misc. beverages'}),frozenset({'whole milk'}),0.0011,0.0698,0.5347,0.9987,0.219
+Apriori,frozenset({'misc. beverages'}),frozenset({'whole milk'}),0.0011,0.0698,0.5347,0.9987,0.219
+Apriori,frozenset({'soda'}),frozenset({'salty snack'}),0.0014,0.0152,0.7734,0.9935,0.277
+FP-Growth,frozenset({'soda'}),frozenset({'salty snack'}),0.0014,0.0152,0.7734,0.9935,0.277
+Apriori,frozenset({'long life bakery product'}),frozenset({'rolls/buns'}),0.0016,0.0765,0.7504,0.9895,0.2602
+FP-Growth,frozenset({'long life bakery product'}),frozenset({'rolls/buns'}),0.0016,0.0765,0.7504,0.9895,0.2602
+FP-Growth,frozenset({'butter'}),frozenset({'yogurt'}),0.0016,0.0456,0.5805,0.9974,0.2263
+Apriori,frozenset({'butter'}),frozenset({'yogurt'}),0.0016,0.0456,0.5805,0.9974,0.2263
+FP-Growth,frozenset({'yogurt'}),frozenset({'napkins'}),0.0017,0.0213,0.8525,0.9895,0.2898
+Apriori,frozenset({'yogurt'}),frozenset({'napkins'}),0.0017,0.0213,0.8525,0.9895,0.2898
+FP-Growth,frozenset({'newspapers'}),frozenset({'bottled water'}),0.0014,0.0347,0.5708,0.9987,0.2266
+Apriori,frozenset({'newspapers'}),frozenset({'bottled water'}),0.0014,0.0347,0.5708,0.9987,0.2266
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'fruit/vegetable juice'}),0.0011,0.0243,0.6607,0.9974,0.253
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'fruit/vegetable juice'}),0.0011,0.0243,0.6607,0.9974,0.253
+Apriori,frozenset({'margarine'}),frozenset({'yogurt'}),0.0017,0.0473,0.6019,0.9961,0.2285
+FP-Growth,frozenset({'margarine'}),frozenset({'yogurt'}),0.0017,0.0473,0.6019,0.9961,0.2285
+FP-Growth,frozenset({'whole milk'}),frozenset({'oil'}),0.0014,0.011,0.7357,0.9948,0.2674
+Apriori,frozenset({'whole milk'}),frozenset({'oil'}),0.0014,0.011,0.7357,0.9948,0.2674
+Apriori,frozenset({'onions'}),frozenset({'soda'}),0.0011,0.0682,0.7207,0.9921,0.2588
+FP-Growth,frozenset({'onions'}),frozenset({'soda'}),0.0011,0.0682,0.7207,0.9921,0.2588
+Apriori,frozenset({'rolls/buns'}),frozenset({'misc. beverages'}),0.0011,0.0106,0.6847,0.9974,0.2595
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'misc. beverages'}),0.0011,0.0106,0.6847,0.9974,0.2595
+Apriori,frozenset({'waffles'}),frozenset({'yogurt'}),0.0011,0.0529,0.6737,0.9948,0.2503
+FP-Growth,frozenset({'waffles'}),frozenset({'yogurt'}),0.0011,0.0529,0.6737,0.9948,0.2503
+Apriori,frozenset({'other vegetables'}),frozenset({'oil'}),0.0012,0.0112,0.7499,0.9948,0.2724
+FP-Growth,frozenset({'other vegetables'}),frozenset({'oil'}),0.0012,0.0112,0.7499,0.9948,0.2724
+Apriori,frozenset({'rolls/buns'}),frozenset({'butter'}),0.002,0.02,0.5854,0.9974,0.2234
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'butter'}),0.002,0.02,0.5854,0.9974,0.2234
+Apriori,frozenset({'brown bread'}),frozenset({'bottled water'}),0.0013,0.0327,0.5388,1.0,0.2195
+FP-Growth,frozenset({'brown bread'}),frozenset({'bottled water'}),0.0013,0.0327,0.5388,1.0,0.2195
+Apriori,frozenset({'yogurt'}),frozenset({'coffee'}),0.0014,0.0183,0.5965,0.9987,0.233
+FP-Growth,frozenset({'yogurt'}),frozenset({'coffee'}),0.0014,0.0183,0.5965,0.9987,0.233
+Apriori,frozenset({'napkins'}),frozenset({'soda'}),0.0017,0.067,0.708,0.9908,0.2475
+FP-Growth,frozenset({'napkins'}),frozenset({'soda'}),0.0017,0.067,0.708,0.9908,0.2475
+FP-Growth,frozenset({'canned beer'}),frozenset({'shopping bags'}),0.0011,0.0315,0.5966,0.9987,0.235
+Apriori,frozenset({'canned beer'}),frozenset({'shopping bags'}),0.0011,0.0315,0.5966,0.9987,0.235
+Apriori,frozenset({'coffee'}),frozenset({'other vegetables'}),0.0016,0.0508,0.476,1.0,0.1982
+FP-Growth,frozenset({'coffee'}),frozenset({'other vegetables'}),0.0016,0.0508,0.476,1.0,0.1982
+Apriori,frozenset({'whole milk'}),frozenset({'coffee'}),0.002,0.0156,0.5089,1.0,0.205
+FP-Growth,frozenset({'whole milk'}),frozenset({'coffee'}),0.002,0.0156,0.5089,1.0,0.205
+Apriori,frozenset({'other vegetables'}),frozenset({'root vegetables'}),0.0028,0.0258,0.4269,1.0,0.1754
+FP-Growth,frozenset({'other vegetables'}),frozenset({'root vegetables'}),0.0028,0.0258,0.4269,1.0,0.1754
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'shopping bags'}),0.0011,0.0311,0.5904,0.9987,0.2321
+Apriori,frozenset({'citrus fruit'}),frozenset({'shopping bags'}),0.0011,0.0311,0.5904,0.9987,0.2321
+Apriori,frozenset({'rolls/buns'}),frozenset({'bottled beer'}),0.0022,0.0211,0.5211,0.9987,0.2041
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'bottled beer'}),0.0022,0.0211,0.5211,0.9987,0.2041
+Apriori,frozenset({'pip fruit'}),frozenset({'other vegetables'}),0.0019,0.051,0.4776,0.9987,0.1924
+FP-Growth,frozenset({'pip fruit'}),frozenset({'other vegetables'}),0.0019,0.051,0.4776,0.9987,0.1924
+FP-Growth,frozenset({'fruit/vegetable juice'}),frozenset({'pastry'}),0.0011,0.0293,0.5906,0.9987,0.2316
+Apriori,frozenset({'fruit/vegetable juice'}),frozenset({'pastry'}),0.0011,0.0293,0.5906,0.9987,0.2316
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'tropical fruit'}),0.0013,0.0296,0.6076,0.9974,0.2321
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'tropical fruit'}),0.0013,0.0296,0.6076,0.9974,0.2321
+FP-Growth,frozenset({'bottled water'}),frozenset({'newspapers'}),0.0014,0.0236,0.5708,0.9987,0.2231
+Apriori,frozenset({'bottled water'}),frozenset({'newspapers'}),0.0014,0.0236,0.5708,0.9987,0.2231
+Apriori,frozenset({'tropical fruit'}),frozenset({'shopping bags'}),0.0014,0.0294,0.5576,0.9987,0.2189
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'shopping bags'}),0.0014,0.0294,0.5576,0.9987,0.2189
+Apriori,frozenset({'soda'}),frozenset({'bottled beer'}),0.0019,0.0202,0.4989,1.0,0.2011
+FP-Growth,frozenset({'soda'}),frozenset({'bottled beer'}),0.0019,0.0202,0.4989,1.0,0.2011
+FP-Growth,frozenset({'margarine'}),frozenset({'tropical fruit'}),0.0011,0.0304,0.6231,0.9974,0.2379
+Apriori,frozenset({'margarine'}),frozenset({'tropical fruit'}),0.0011,0.0304,0.6231,0.9974,0.2379
+Apriori,frozenset({'other vegetables'}),frozenset({'napkins'}),0.002,0.0191,0.7624,0.9908,0.2592
+FP-Growth,frozenset({'other vegetables'}),frozenset({'napkins'}),0.002,0.0191,0.7624,0.9908,0.2592
+FP-Growth,frozenset({'sausage'}),frozenset({'other vegetables'}),0.0013,0.0512,0.4796,1.0,0.1985
+Apriori,frozenset({'sausage'}),frozenset({'other vegetables'}),0.0013,0.0512,0.4796,1.0,0.1985
+Apriori,frozenset({'tropical fruit'}),frozenset({'whipped/sour cream'}),0.0013,0.027,0.6076,0.9974,0.2312
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'whipped/sour cream'}),0.0013,0.027,0.6076,0.9974,0.2312
+Apriori,frozenset({'shopping bags'}),frozenset({'tropical fruit'}),0.0014,0.0272,0.5576,0.9987,0.2182
+FP-Growth,frozenset({'shopping bags'}),frozenset({'tropical fruit'}),0.0014,0.0272,0.5576,0.9987,0.2182
+FP-Growth,frozenset({'whole milk'}),frozenset({'long life bakery product'}),0.002,0.0156,0.7664,0.9908,0.2599
+Apriori,frozenset({'whole milk'}),frozenset({'long life bakery product'}),0.002,0.0156,0.7664,0.9908,0.2599
+FP-Growth,frozenset({'bottled water'}),frozenset({'brown bread'}),0.0013,0.0217,0.5388,1.0,0.216
+Apriori,frozenset({'bottled water'}),frozenset({'brown bread'}),0.0013,0.0217,0.5388,1.0,0.216
+FP-Growth,frozenset({'other vegetables'}),frozenset({'waffles'}),0.0014,0.0135,0.6616,0.9961,0.2434
+Apriori,frozenset({'other vegetables'}),frozenset({'waffles'}),0.0014,0.0135,0.6616,0.9961,0.2434
+Apriori,frozenset({'domestic eggs'}),frozenset({'pastry'}),0.0012,0.0301,0.6068,0.9974,0.2312
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'pastry'}),0.0012,0.0301,0.6068,0.9974,0.2312
+Apriori,frozenset({'other vegetables'}),frozenset({'pastry'}),0.0025,0.0235,0.4743,0.9987,0.1859
+FP-Growth,frozenset({'other vegetables'}),frozenset({'pastry'}),0.0025,0.0235,0.4743,0.9987,0.1859
+Apriori,frozenset({'other vegetables'}),frozenset({'chocolate'}),0.0016,0.0146,0.6093,0.9974,0.2296
+FP-Growth,frozenset({'other vegetables'}),frozenset({'chocolate'}),0.0016,0.0146,0.6093,0.9974,0.2296
+Apriori,frozenset({'shopping bags'}),frozenset({'canned beer'}),0.0011,0.0204,0.5966,0.9987,0.2315
+FP-Growth,frozenset({'shopping bags'}),frozenset({'canned beer'}),0.0011,0.0204,0.5966,0.9987,0.2315
+Apriori,frozenset({'onions'}),frozenset({'whole milk'}),0.0013,0.0833,0.6386,0.9921,0.2278
+FP-Growth,frozenset({'onions'}),frozenset({'whole milk'}),0.0013,0.0833,0.6386,0.9921,0.2278
+Apriori,frozenset({'pastry'}),frozenset({'fruit/vegetable juice'}),0.0011,0.0217,0.5906,0.9987,0.2292
+FP-Growth,frozenset({'pastry'}),frozenset({'fruit/vegetable juice'}),0.0011,0.0217,0.5906,0.9987,0.2292
+Apriori,frozenset({'cream cheese '}),frozenset({'other vegetables'}),0.0016,0.0657,0.6154,0.9935,0.222
+FP-Growth,frozenset({'cream cheese '}),frozenset({'other vegetables'}),0.0016,0.0657,0.6154,0.9935,0.222
+FP-Growth,frozenset({'domestic eggs'}),frozenset({'yogurt'}),0.0017,0.0422,0.5366,0.9974,0.2061
+Apriori,frozenset({'domestic eggs'}),frozenset({'yogurt'}),0.0017,0.0422,0.5366,0.9974,0.2061
+FP-Growth,frozenset({'napkins'}),frozenset({'shopping bags'}),0.0011,0.0431,0.8164,0.9895,0.2766
+Apriori,frozenset({'napkins'}),frozenset({'shopping bags'}),0.0011,0.0431,0.8164,0.9895,0.2766
+Apriori,frozenset({'shopping bags'}),frozenset({'citrus fruit'}),0.0011,0.0204,0.5904,0.9987,0.2287
+FP-Growth,frozenset({'shopping bags'}),frozenset({'citrus fruit'}),0.0011,0.0204,0.5904,0.9987,0.2287
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'shopping bags'}),0.0014,0.0323,0.6132,0.9961,0.2274
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'shopping bags'}),0.0014,0.0323,0.6132,0.9961,0.2274
+Apriori,frozenset({'other vegetables'}),frozenset({'butter'}),0.0019,0.0179,0.5262,0.9987,0.204
+FP-Growth,frozenset({'other vegetables'}),frozenset({'butter'}),0.0019,0.0179,0.5262,0.9987,0.204
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'margarine'}),0.0011,0.0221,0.6231,0.9974,0.2352
+Apriori,frozenset({'tropical fruit'}),frozenset({'margarine'}),0.0011,0.0221,0.6231,0.9974,0.2352
+Apriori,frozenset({'pastry'}),frozenset({'domestic eggs'}),0.0012,0.0241,0.6068,0.9974,0.2293
+FP-Growth,frozenset({'pastry'}),frozenset({'domestic eggs'}),0.0012,0.0241,0.6068,0.9974,0.2293
+Apriori,frozenset({'yogurt'}),frozenset({'beef'}),0.0012,0.0152,0.6628,0.9961,0.243
+FP-Growth,frozenset({'yogurt'}),frozenset({'beef'}),0.0012,0.0152,0.6628,0.9961,0.243
+FP-Growth,frozenset({'canned beer'}),frozenset({'root vegetables'}),0.0011,0.0315,0.521,1.0,0.2096
+Apriori,frozenset({'canned beer'}),frozenset({'root vegetables'}),0.0011,0.0315,0.521,1.0,0.2096
+Apriori,frozenset({'yogurt'}),frozenset({'butter'}),0.0016,0.0198,0.5805,0.9974,0.2182
+FP-Growth,frozenset({'yogurt'}),frozenset({'butter'}),0.0016,0.0198,0.5805,0.9974,0.2182
+FP-Growth,frozenset({'whole milk'}),frozenset({'berries'}),0.0013,0.0101,0.6199,0.9974,0.2315
+Apriori,frozenset({'whole milk'}),frozenset({'berries'}),0.0013,0.0101,0.6199,0.9974,0.2315
+Apriori,frozenset({'shopping bags'}),frozenset({'whipped/sour cream'}),0.0014,0.0272,0.6132,0.9961,0.2258
+FP-Growth,frozenset({'shopping bags'}),frozenset({'whipped/sour cream'}),0.0014,0.0272,0.6132,0.9961,0.2258
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'white bread'}),0.0017,0.0164,0.6161,0.9961,0.2251
+Apriori,frozenset({'rolls/buns'}),frozenset({'white bread'}),0.0017,0.0164,0.6161,0.9961,0.2251
+FP-Growth,frozenset({'other vegetables'}),frozenset({'dessert'}),0.0016,0.0146,0.6281,0.9961,0.2293
+Apriori,frozenset({'other vegetables'}),frozenset({'dessert'}),0.0016,0.0146,0.6281,0.9961,0.2293
+Apriori,frozenset({'citrus fruit'}),frozenset({'root vegetables'}),0.0011,0.0311,0.5156,1.0,0.207
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'root vegetables'}),0.0011,0.0311,0.5156,1.0,0.207
+FP-Growth,frozenset({'yogurt'}),frozenset({'margarine'}),0.0017,0.0213,0.6019,0.9961,0.2203
+Apriori,frozenset({'yogurt'}),frozenset({'margarine'}),0.0017,0.0213,0.6019,0.9961,0.2203
+FP-Growth,frozenset({'whole milk'}),frozenset({'cream cheese '}),0.002,0.0156,0.658,0.9935,0.2284
+Apriori,frozenset({'whole milk'}),frozenset({'cream cheese '}),0.002,0.0156,0.658,0.9935,0.2284
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'canned beer'}),0.0018,0.0176,0.5147,0.9987,0.1979
+Apriori,frozenset({'rolls/buns'}),frozenset({'canned beer'}),0.0018,0.0176,0.5147,0.9987,0.1979
+FP-Growth,frozenset({'frozen vegetables'}),frozenset({'yogurt'}),0.0014,0.0522,0.664,0.9921,0.2302
+Apriori,frozenset({'frozen vegetables'}),frozenset({'yogurt'}),0.0014,0.0522,0.664,0.9921,0.2302
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'sausage'}),0.0014,0.0141,0.5477,0.9987,0.2096
+Apriori,frozenset({'rolls/buns'}),frozenset({'sausage'}),0.0014,0.0141,0.5477,0.9987,0.2096
+FP-Growth,frozenset({'long life bakery product'}),frozenset({'soda'}),0.0013,0.0647,0.684,0.9908,0.2337
+Apriori,frozenset({'long life bakery product'}),frozenset({'soda'}),0.0013,0.0647,0.684,0.9908,0.2337
+Apriori,frozenset({'pastry'}),frozenset({'rolls/buns'}),0.0023,0.0458,0.4493,0.9974,0.1713
+FP-Growth,frozenset({'pastry'}),frozenset({'rolls/buns'}),0.0023,0.0458,0.4493,0.9974,0.1713
+Apriori,frozenset({'whole milk'}),frozenset({'dessert'}),0.0018,0.0137,0.5925,0.9961,0.2144
+FP-Growth,frozenset({'whole milk'}),frozenset({'dessert'}),0.0018,0.0137,0.5925,0.9961,0.2144
+Apriori,frozenset({'margarine'}),frozenset({'pastry'}),0.0011,0.0304,0.6126,0.9961,0.2243
+FP-Growth,frozenset({'margarine'}),frozenset({'pastry'}),0.0011,0.0304,0.6126,0.9961,0.2243
+Apriori,frozenset({'root vegetables'}),frozenset({'canned beer'}),0.0011,0.0178,0.521,1.0,0.2053
+FP-Growth,frozenset({'root vegetables'}),frozenset({'canned beer'}),0.0011,0.0178,0.521,1.0,0.2053
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'beef'}),0.0014,0.0141,0.6133,0.9961,0.2217
+Apriori,frozenset({'rolls/buns'}),frozenset({'beef'}),0.0014,0.0141,0.6133,0.9961,0.2217
+Apriori,frozenset({'root vegetables'}),frozenset({'citrus fruit'}),0.0011,0.0178,0.5156,1.0,0.2028
+FP-Growth,frozenset({'root vegetables'}),frozenset({'citrus fruit'}),0.0011,0.0178,0.5156,1.0,0.2028
+Apriori,frozenset({'yogurt'}),frozenset({'domestic eggs'}),0.0017,0.0213,0.5366,0.9974,0.1995
+FP-Growth,frozenset({'yogurt'}),frozenset({'domestic eggs'}),0.0017,0.0213,0.5366,0.9974,0.1995
+Apriori,frozenset({'whole milk'}),frozenset({'specialty chocolate'}),0.0012,0.0092,0.5594,0.9987,0.2118
+FP-Growth,frozenset({'whole milk'}),frozenset({'specialty chocolate'}),0.0012,0.0092,0.5594,0.9987,0.2118
+Apriori,frozenset({'other vegetables'}),frozenset({'salty snack'}),0.0014,0.0135,0.6859,0.9935,0.2367
+FP-Growth,frozenset({'other vegetables'}),frozenset({'salty snack'}),0.0014,0.0135,0.6859,0.9935,0.2367
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'rolls/buns'}),0.0022,0.0485,0.4761,0.9961,0.1747
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'rolls/buns'}),0.0022,0.0485,0.4761,0.9961,0.1747
+FP-Growth,frozenset({'shopping bags'}),frozenset({'napkins'}),0.0011,0.0204,0.8164,0.9895,0.2695
+Apriori,frozenset({'shopping bags'}),frozenset({'napkins'}),0.0011,0.0204,0.8164,0.9895,0.2695
+FP-Growth,frozenset({'yogurt'}),frozenset({'waffles'}),0.0011,0.0137,0.6737,0.9948,0.2379
+Apriori,frozenset({'yogurt'}),frozenset({'waffles'}),0.0011,0.0137,0.6737,0.9948,0.2379
+Apriori,frozenset({'other vegetables'}),frozenset({'coffee'}),0.0016,0.0146,0.476,1.0,0.1868
+FP-Growth,frozenset({'other vegetables'}),frozenset({'coffee'}),0.0016,0.0146,0.476,1.0,0.1868
+FP-Growth,frozenset({'citrus fruit'}),frozenset({'yogurt'}),0.0013,0.0381,0.4844,0.9987,0.1877
+Apriori,frozenset({'citrus fruit'}),frozenset({'yogurt'}),0.0013,0.0381,0.4844,0.9987,0.1877
+Apriori,frozenset({'other vegetables'}),frozenset({'pip fruit'}),0.0019,0.0179,0.4776,0.9987,0.182
+FP-Growth,frozenset({'other vegetables'}),frozenset({'pip fruit'}),0.0019,0.0179,0.4776,0.9987,0.182
+Apriori,frozenset({'rolls/buns'}),frozenset({'cream cheese '}),0.0017,0.0164,0.6939,0.9921,0.234
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'cream cheese '}),0.0017,0.0164,0.6939,0.9921,0.234
+FP-Growth,frozenset({'pastry'}),frozenset({'margarine'}),0.0011,0.0217,0.6126,0.9961,0.2215
+Apriori,frozenset({'pastry'}),frozenset({'margarine'}),0.0011,0.0217,0.6126,0.9961,0.2215
+Apriori,frozenset({'dessert'}),frozenset({'rolls/buns'}),0.0013,0.0567,0.5564,0.9948,0.1998
+FP-Growth,frozenset({'dessert'}),frozenset({'rolls/buns'}),0.0013,0.0567,0.5564,0.9948,0.1998
+Apriori,frozenset({'whole milk'}),frozenset({'pork'}),0.0013,0.0101,0.5369,0.9987,0.2027
+FP-Growth,frozenset({'whole milk'}),frozenset({'pork'}),0.0013,0.0101,0.5369,0.9987,0.2027
+Apriori,frozenset({'whole milk'}),frozenset({'chocolate'}),0.0017,0.0128,0.5365,0.9974,0.1967
+FP-Growth,frozenset({'whole milk'}),frozenset({'chocolate'}),0.0017,0.0128,0.5365,0.9974,0.1967
+Apriori,frozenset({'rolls/buns'}),frozenset({'oil'}),0.0011,0.0106,0.7066,0.9935,0.243
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'oil'}),0.0011,0.0106,0.7066,0.9935,0.243
+FP-Growth,frozenset({'other vegetables'}),frozenset({'sausage'}),0.0013,0.0123,0.4796,1.0,0.1862
+Apriori,frozenset({'other vegetables'}),frozenset({'sausage'}),0.0013,0.0123,0.4796,1.0,0.1862
+FP-Growth,frozenset({'whole milk'}),frozenset({'sugar'}),0.0018,0.0137,0.7096,0.9908,0.2321
+Apriori,frozenset({'whole milk'}),frozenset({'sugar'}),0.0018,0.0137,0.7096,0.9908,0.2321
+Apriori,frozenset({'margarine'}),frozenset({'shopping bags'}),0.0011,0.0304,0.5765,0.9961,0.2079
+FP-Growth,frozenset({'margarine'}),frozenset({'shopping bags'}),0.0011,0.0304,0.5765,0.9961,0.2079
+Apriori,frozenset({'soda'}),frozenset({'napkins'}),0.0017,0.0177,0.708,0.9908,0.232
+FP-Growth,frozenset({'soda'}),frozenset({'napkins'}),0.0017,0.0177,0.708,0.9908,0.232
+Apriori,frozenset({'curd'}),frozenset({'rolls/buns'}),0.0014,0.0476,0.4673,0.9974,0.1749
+FP-Growth,frozenset({'curd'}),frozenset({'rolls/buns'}),0.0014,0.0476,0.4673,0.9974,0.1749
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'pastry'}),0.0023,0.0223,0.4493,0.9974,0.1639
+Apriori,frozenset({'rolls/buns'}),frozenset({'pastry'}),0.0023,0.0223,0.4493,0.9974,0.1639
+Apriori,frozenset({'whole milk'}),frozenset({'misc. beverages'}),0.0011,0.0082,0.5347,0.9987,0.1996
+FP-Growth,frozenset({'whole milk'}),frozenset({'misc. beverages'}),0.0011,0.0082,0.5347,0.9987,0.1996
+FP-Growth,frozenset({'soda'}),frozenset({'onions'}),0.0011,0.0114,0.7207,0.9921,0.2408
+Apriori,frozenset({'soda'}),frozenset({'onions'}),0.0011,0.0114,0.7207,0.9921,0.2408
+Apriori,frozenset({'rolls/buns'}),frozenset({'long life bakery product'}),0.0016,0.0153,0.7504,0.9895,0.2408
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'long life bakery product'}),0.0016,0.0153,0.7504,0.9895,0.2408
+Apriori,frozenset({'shopping bags'}),frozenset({'margarine'}),0.0011,0.0204,0.5765,0.9961,0.2048
+FP-Growth,frozenset({'shopping bags'}),frozenset({'margarine'}),0.0011,0.0204,0.5765,0.9961,0.2048
+Apriori,frozenset({'yogurt'}),frozenset({'citrus fruit'}),0.0013,0.0167,0.4844,0.9987,0.181
+FP-Growth,frozenset({'yogurt'}),frozenset({'citrus fruit'}),0.0013,0.0167,0.4844,0.9987,0.181
+Apriori,frozenset({'brown bread'}),frozenset({'root vegetables'}),0.0011,0.0268,0.4435,1.0,0.1729
+FP-Growth,frozenset({'brown bread'}),frozenset({'root vegetables'}),0.0011,0.0268,0.4435,1.0,0.1729
+FP-Growth,frozenset({'yogurt'}),frozenset({'frozen vegetables'}),0.0014,0.0183,0.664,0.9921,0.2195
+Apriori,frozenset({'yogurt'}),frozenset({'frozen vegetables'}),0.0014,0.0183,0.664,0.9921,0.2195
+Apriori,frozenset({'pip fruit'}),frozenset({'bottled water'}),0.0011,0.0287,0.4717,0.9987,0.1775
+FP-Growth,frozenset({'pip fruit'}),frozenset({'bottled water'}),0.0011,0.0287,0.4717,0.9987,0.1775
+Apriori,frozenset({'whipped/sour cream'}),frozenset({'pastry'}),0.0012,0.027,0.543,0.9961,0.1924
+FP-Growth,frozenset({'whipped/sour cream'}),frozenset({'pastry'}),0.0012,0.027,0.543,0.9961,0.1924
+Apriori,frozenset({'UHT-milk'}),frozenset({'soda'}),0.0011,0.0542,0.5731,0.9935,0.1962
+FP-Growth,frozenset({'UHT-milk'}),frozenset({'soda'}),0.0011,0.0542,0.5731,0.9935,0.1962
+Apriori,frozenset({'rolls/buns'}),frozenset({'whipped/sour cream'}),0.0022,0.0211,0.4761,0.9961,0.1661
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'whipped/sour cream'}),0.0022,0.0211,0.4761,0.9961,0.1661
+Apriori,frozenset({'other vegetables'}),frozenset({'cream cheese '}),0.0016,0.0146,0.6154,0.9935,0.2059
+FP-Growth,frozenset({'other vegetables'}),frozenset({'cream cheese '}),0.0016,0.0146,0.6154,0.9935,0.2059
+FP-Growth,frozenset({'pastry'}),frozenset({'whipped/sour cream'}),0.0012,0.0241,0.543,0.9961,0.1915
+Apriori,frozenset({'pastry'}),frozenset({'whipped/sour cream'}),0.0012,0.0241,0.543,0.9961,0.1915
+FP-Growth,frozenset({'root vegetables'}),frozenset({'brown bread'}),0.0011,0.0178,0.4435,1.0,0.1701
+Apriori,frozenset({'root vegetables'}),frozenset({'brown bread'}),0.0011,0.0178,0.4435,1.0,0.1701
+Apriori,frozenset({'dessert'}),frozenset({'soda'}),0.0011,0.0464,0.4904,0.9961,0.1739
+FP-Growth,frozenset({'dessert'}),frozenset({'soda'}),0.0011,0.0464,0.4904,0.9961,0.1739
+Apriori,frozenset({'bottled water'}),frozenset({'pip fruit'}),0.0011,0.0177,0.4717,0.9987,0.1741
+FP-Growth,frozenset({'bottled water'}),frozenset({'pip fruit'}),0.0011,0.0177,0.4717,0.9987,0.1741
+FP-Growth,frozenset({'tropical fruit'}),frozenset({'root vegetables'}),0.0012,0.0245,0.4058,1.0,0.1559
+Apriori,frozenset({'tropical fruit'}),frozenset({'root vegetables'}),0.0012,0.0245,0.4058,1.0,0.1559
+Apriori,frozenset({'soda'}),frozenset({'long life bakery product'}),0.0013,0.0139,0.684,0.9908,0.2176
+FP-Growth,frozenset({'soda'}),frozenset({'long life bakery product'}),0.0013,0.0139,0.684,0.9908,0.2176
+Apriori,frozenset({'root vegetables'}),frozenset({'tropical fruit'}),0.0012,0.0198,0.4058,1.0,0.1544
+FP-Growth,frozenset({'root vegetables'}),frozenset({'tropical fruit'}),0.0012,0.0198,0.4058,1.0,0.1544
+Apriori,frozenset({'cream cheese '}),frozenset({'soda'}),0.0012,0.0505,0.5338,0.9935,0.178
+FP-Growth,frozenset({'cream cheese '}),frozenset({'soda'}),0.0012,0.0505,0.5338,0.9935,0.178
+Apriori,frozenset({'rolls/buns'}),frozenset({'curd'}),0.0014,0.0141,0.4673,0.9974,0.1643
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'curd'}),0.0014,0.0141,0.4673,0.9974,0.1643
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'dessert'}),0.0013,0.0129,0.5564,0.9948,0.186
+Apriori,frozenset({'rolls/buns'}),frozenset({'dessert'}),0.0013,0.0129,0.5564,0.9948,0.186
+FP-Growth,frozenset({'whole milk'}),frozenset({'onions'}),0.0013,0.0101,0.6386,0.9921,0.2047
+Apriori,frozenset({'whole milk'}),frozenset({'onions'}),0.0013,0.0101,0.6386,0.9921,0.2047
+FP-Growth,frozenset({'pastry'}),frozenset({'shopping bags'}),0.0012,0.0241,0.4568,0.9974,0.1612
+Apriori,frozenset({'pastry'}),frozenset({'shopping bags'}),0.0012,0.0241,0.4568,0.9974,0.1612
+FP-Growth,frozenset({'shopping bags'}),frozenset({'pastry'}),0.0012,0.0227,0.4568,0.9974,0.1608
+Apriori,frozenset({'shopping bags'}),frozenset({'pastry'}),0.0012,0.0227,0.4568,0.9974,0.1608
+Apriori,frozenset({'UHT-milk'}),frozenset({'rolls/buns'}),0.0011,0.0542,0.5321,0.9921,0.1688
+FP-Growth,frozenset({'UHT-milk'}),frozenset({'rolls/buns'}),0.0011,0.0542,0.5321,0.9921,0.1688
+Apriori,frozenset({'soda'}),frozenset({'UHT-milk'}),0.0011,0.0114,0.5731,0.9935,0.1827
+FP-Growth,frozenset({'soda'}),frozenset({'UHT-milk'}),0.0011,0.0114,0.5731,0.9935,0.1827
+Apriori,frozenset({'napkins'}),frozenset({'rolls/buns'}),0.0014,0.0574,0.5634,0.9895,0.1686
+FP-Growth,frozenset({'napkins'}),frozenset({'rolls/buns'}),0.0014,0.0574,0.5634,0.9895,0.1686
+FP-Growth,frozenset({'soda'}),frozenset({'dessert'}),0.0011,0.0114,0.4904,0.9961,0.1629
+Apriori,frozenset({'soda'}),frozenset({'dessert'}),0.0011,0.0114,0.4904,0.9961,0.1629
+Apriori,frozenset({'soda'}),frozenset({'cream cheese '}),0.0012,0.0126,0.5338,0.9935,0.1661
+FP-Growth,frozenset({'soda'}),frozenset({'cream cheese '}),0.0012,0.0126,0.5338,0.9935,0.1661
+FP-Growth,frozenset({'salty snack'}),frozenset({'whole milk'}),0.0011,0.0549,0.4206,0.9935,0.1273
+Apriori,frozenset({'salty snack'}),frozenset({'whole milk'}),0.0011,0.0549,0.4206,0.9935,0.1273
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'UHT-milk'}),0.0011,0.0106,0.5321,0.9921,0.155
+Apriori,frozenset({'rolls/buns'}),frozenset({'UHT-milk'}),0.0011,0.0106,0.5321,0.9921,0.155
+FP-Growth,frozenset({'rolls/buns'}),frozenset({'napkins'}),0.0014,0.0141,0.5634,0.9895,0.1549
+Apriori,frozenset({'rolls/buns'}),frozenset({'napkins'}),0.0014,0.0141,0.5634,0.9895,0.1549
+FP-Growth,frozenset({'whole milk'}),frozenset({'salty snack'}),0.0011,0.0082,0.4206,0.9935,0.1126
+Apriori,frozenset({'whole milk'}),frozenset({'salty snack'}),0.0011,0.0082,0.4206,0.9935,0.1126
