@@ -85,6 +85,11 @@ class CollaborativeFiltering:
         return self.item_similarity_matrix
     
     def recommend_items(self, target_user, n_recommended_items=None, n_similar_neighbours = 10):
+        all_user_ids = self.utility_matrix.index
+        
+        if not target_user in all_user_ids:
+            return "Cold Start Problem Has Not Been Handled"
+        
         user_ratings_row = self.utility_matrix.loc[target_user]
 
         user_unpurchased_items = user_ratings_row[user_ratings_row.isna()].index.tolist()
