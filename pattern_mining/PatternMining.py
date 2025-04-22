@@ -1,146 +1,144 @@
+# =====================================
+#  Class: FlexiblePatternMiner
+# Description: Modular, configurable mining pipeline with setter/getter methods.
+# Supports Apriori/FP-Growth, min_support/confidence, scoring weights, and recency.
+# =====================================
+
 import pandas as pd
 import numpy as np
 from mlxtend.frequent_patterns import apriori, fpgrowth, association_rules
 from sklearn.preprocessing import MinMaxScaler
-from sklearn.metrics import precision_score, recall_score, f1_score
-from typing import Literal, Tuple, List, Optional
 
-class AssociationRuleEngine:
-    def __init__(self, df_encoded: pd.DataFrame):
-        """
-        Initialize the engine with one-hot encoded transaction data.
-        Parameters:
-        - df_encoded (pd.DataFrame): One-hot encoded dataset where each column is a unique item.
-        """
-        self.df_encoded = df_encoded.copy()  # Make a copy to avoid modifying the original dataset
-        self.min_support = 0.001  # Minimum support for generating frequent itemsets
-        self.min_confidence = 0.001  # Minimum confidence for generating association rules
-        self.top_n = 100  # Number of top rules to return after sorting by composite score
-        self.weights = (0.2, 0.1, 0.5, 0.2)  # Weights for composite score calculation (alpha, beta, gamma, delta)
-        self.algorithm = 'apriori'  # Default algorithm for rule generation: 'apriori' or 'fp_growth'
-        self.rules_df = pd.DataFrame()  # DataFrame to hold the generated rules
+class FlexiblePatternMiner:
+    def __init__(self, df_encoded, recency_score):
+        # Initialize with encoded transaction dataframe and recency scores
+        print("Initializing FlexiblePatternMiner...")
+        self.df_encoded = df_encoded  # One-hot encoded transactional data
+        self.recency_score = recency_score  # Dictionary of recency values
+        self.min_support = 0.005  # Default support threshold
+        self.min_confidence = 0.04  # Default confidence threshold
+        self.algorithms = {'Apriori': apriori, 'FP-Growth': fpgrowth}  # Mapping of algorithm names to functions
+        self.selected_algorithms = ['Apriori', 'FP-Growth']  # Algorithms selected to run
+        self.weights = (0.2, 0.2, 0.4, 0.2)  # Default weights: (support, confidence, lift, recency)
+        self.frequent_itemsets = pd.DataFrame()  # Will hold all itemsets
+        self.rules_df = pd.DataFrame()  # Will hold final association rules
 
-    # Setter methods to allow customization of parameters
-    def set_min_support(self, support: float):
-        """Set the minimum support for generating frequent itemsets."""
+    # === SETTERS ===
+    def set_min_support(self, support):
+        # Set the minimum support threshold
+        print(f"Setting minimum support to {support}")
         self.min_support = support
 
-    def set_min_confidence(self, confidence: float):
-        """Set the minimum confidence for generating association rules."""
+    def set_min_confidence(self, confidence):
+        # Set the minimum confidence threshold
+        print(f"Setting minimum confidence to {confidence}")
         self.min_confidence = confidence
 
-    def set_algorithm(self, algorithm: Literal['apriori', 'fp_growth']):
-        """Set the algorithm for rule generation: 'apriori' or 'fp_growth'."""
-        self.algorithm = algorithm
-
-    def set_weights(self, alpha: float, beta: float, gamma: float, delta: float):
-        """
-        Set the weights for the composite score calculation (support, confidence, lift, recency).
-        Parameters:
-        - alpha, beta, gamma, delta: Weights for support, confidence, lift, and recency respectively.
-        """
+    def set_weights(self, alpha, beta, gamma, delta):
+        # Set custom weights for composite scoring
+        print(f"Setting weights: alpha={alpha}, beta={beta}, gamma={gamma}, delta={delta}")
         self.weights = (alpha, beta, gamma, delta)
 
-    # Getter method to retrieve the generated rules
-    def get_rules(self) -> pd.DataFrame:
-        """Return the DataFrame containing the generated association rules."""
+    def set_selected_algorithms(self, algos):
+        # Set which algorithms to run (Apriori, FP-Growth)
+        print(f"Setting selected algorithms: {algos}")
+        self.selected_algorithms = algos
+
+    # === GETTERS ===
+    def get_rules(self):
+        # Return all association rules
         return self.rules_df
 
-    # Rule mining using either Apriori or FP-Growth
-    def mine_rules(self):
-        """
-        Mine the association rules from the encoded data using the selected algorithm.
-        Uses Apriori or FP-Growth depending on the 'self.algorithm' value.
-        """
-        if self.algorithm == 'apriori':
-            frequent = apriori(self.df_encoded, min_support=self.min_support, use_colnames=True)
-        else:
-            frequent = fpgrowth(self.df_encoded, min_support=self.min_support, use_colnames=True)
+    def get_frequent_itemsets(self):
+        # Return mined frequent itemsets
+        return self.frequent_itemsets
 
-        # Generate rules from frequent itemsets using the minimum confidence threshold
-        rules = association_rules(frequent, metric="confidence", min_threshold=self.min_confidence)
-        rules['algorithm'] = self.algorithm.title()  # Add algorithm type to the rules
-        self.rules_df = rules  # Store the generated rules in the DataFrame
+    # === INTERNAL HELPERS ===
+    def _avg_recency(self, itemset):
+        # Compute average recency score for a given itemset
+        return np.mean([self.recency_score.get(item, 0) for item in itemset])
 
-    # Normalize support, confidence, lift, and recency score using MinMaxScaler
-    def normalize_metrics(self):
-        """
-        Normalize the support, confidence, lift, and recency_score metrics using MinMaxScaler.
-        This will scale the metrics to the range [0, 1] for easier comparison.
-        """
-        metrics = ['support', 'confidence', 'lift', 'recency_score']
-        scaler = MinMaxScaler()
-        for metric in metrics:
-            if metric in self.rules_df.columns:
-                self.rules_df[f'{metric}_norm'] = scaler.fit_transform(self.rules_df[[metric]])
+    def _rule_recency_score(self, row):
+        # Compute recency score for a full rule (antecedent + consequent)
+        items = list(row['antecedents']) + list(row['consequents'])
+        return np.mean([self.recency_score.get(item, 0) for item in items])
 
-    # Compute the composite score based on the weighted sum of normalized metrics
-    def compute_composite_score(self):
-        """
-        Compute the composite score (C4) for each rule based on normalized support, confidence, lift, and recency.
-        The composite score is a weighted sum of these metrics.
-        """
-        alpha, beta, gamma, delta = self.weights
-        self.rules_df['composite_score'] = (
-            alpha * self.rules_df.get('support_norm', 0) +
-            beta * self.rules_df.get('confidence_norm', 0) +
-            gamma * self.rules_df.get('lift_norm', 0) +
-            delta * self.rules_df.get('recency_score_norm', 0)
+    # === CORE METHODS ===
+    def mine_frequent_itemsets(self):
+        # Mine itemsets for each selected algorithm
+        print("Mining frequent itemsets...")
+        all_itemsets = []
+        for name in self.selected_algorithms:
+            print(f"Running {name}...")
+            func = self.algorithms[name]  # apriori or fpgrowth function
+            itemsets = func(self.df_encoded, min_support=self.min_support, use_colnames=True).copy()
+            itemsets['algorithm'] = name  # Tag which algorithm produced the itemsets
+            itemsets['length'] = itemsets['itemsets'].apply(lambda x: len(x))  # Length of itemset
+            itemsets['recency_score'] = itemsets['itemsets'].apply(self._avg_recency)  # Add recency to itemset
+            all_itemsets.append(itemsets)
+        self.frequent_itemsets = pd.concat(all_itemsets, ignore_index=True)  # Combine all itemsets
+        print(f"Total itemsets mined: {len(self.frequent_itemsets)}")
+
+    def generate_rules(self):
+        # Generate association rules based on mined itemsets
+        print("Generating association rules...")
+        all_rules = []
+        for algo in self.selected_algorithms:
+            print(f"Generating rules for {algo}...")
+            itemsets_algo = self.frequent_itemsets[self.frequent_itemsets['algorithm'] == algo]  # Filter itemsets
+            rules = association_rules(itemsets_algo, metric="confidence", min_threshold=0.001)  # Generate raw rules
+            rules = rules[rules['confidence'] >= self.min_confidence]  # Filter based on confidence
+            if rules.empty:
+                print(f"No rules for {algo} above confidence {self.min_confidence}")
+                continue
+            rules['algorithm'] = algo  # Add algorithm name to rules
+            rules['recency_score'] = rules.apply(self._rule_recency_score, axis=1)  # Compute recency
+            all_rules.append(rules)
+        self.rules_df = pd.concat(all_rules, ignore_index=True) if all_rules else pd.DataFrame()
+        print(f"Total rules after filtering: {len(self.rules_df)}")
+
+    def apply_composite_scoring(self):
+        # Normalize and apply weighted composite score to rules
+        print("Applying composite scoring...")
+        if self.rules_df.empty:
+            print("No rules available to score.")
+            return
+        scaler = MinMaxScaler()  # Use MinMax scaling to normalize [0,1]
+        for metric in ['support', 'confidence', 'lift', 'recency_score']:
+            self.rules_df[f'{metric}_norm'] = scaler.fit_transform(self.rules_df[[metric]])
+        alpha, beta, gamma, delta = self.weights  # Extract weights
+        self.rules_df['composite_score_with_recency'] = (
+            alpha * self.rules_df['support_norm'] +
+            beta * self.rules_df['confidence_norm'] +
+            gamma * self.rules_df['lift_norm'] +
+            delta * self.rules_df['recency_score_norm']
         )
+        print("Scoring complete.")
 
-    # Filter the top N rules based on their composite score
-    def filter_top_rules(self) -> pd.DataFrame:
-        """
-        Sort the rules by composite score and return the top N rules.
-        """
-        return self.rules_df.sort_values(by='composite_score', ascending=False).head(self.top_n)
+    def get_top_rules(self, top_n=10):
+        # Get top N rules for each algorithm based on composite score
+        print(f"Retrieving top {top_n} rules per algorithm...")
+        if self.rules_df.empty:
+            print("No rules available.")
+            return pd.DataFrame()
+        top_apriori = self.rules_df[self.rules_df['algorithm'] == 'Apriori']\
+            .sort_values(by='composite_score_with_recency', ascending=False).head(top_n)
+        top_fp = self.rules_df[self.rules_df['algorithm'] == 'FP-Growth']\
+            .sort_values(by='composite_score_with_recency', ascending=False).head(top_n)
+        combined = pd.concat([top_apriori, top_fp], ignore_index=True)[
+            ['algorithm', 'antecedents', 'consequents', 'composite_score_with_recency']
+        ]
+        print("Top rules retrieval complete.")
+        return combined
 
-    # Evaluate precision, recall, and F1 score for rule-based predictions
-    def evaluate_predictions(self, y_true: List[set], y_pred: List[set]) -> dict:
-        """
-        Calculate precision, recall, and F1-score for rule-based predictions.
-        Parameters:
-        - y_true: List of actual items in the test baskets.
-        - y_pred: List of predicted items based on the generated rules.
-        Returns a dictionary with precision, recall, and F1-score.
-        """
-        y_true_flat = [item for sublist in y_true for item in sublist]
-        y_pred_flat = [item for sublist in y_pred for item in sublist]
-        y_true_bin = [1 if item in y_pred_flat else 0 for item in y_true_flat]
-        y_pred_bin = [1] * len(y_true_bin)
-        return {
-            'precision': precision_score(y_true_bin, y_pred_bin, zero_division=0),
-            'recall': recall_score(y_true_bin, y_pred_bin, zero_division=0),
-            'f1': f1_score(y_true_bin, y_pred_bin, zero_division=0)
-        }
-
-    # Export the rules to a CSV file
-    def export_rules(self, filename: str):
-        """
-        Export the generated rules to a CSV file.
-        Parameters:
-        - filename: The name of the CSV file to save the rules.
-        """
-        self.rules_df.to_csv(filename, index=False)
-
-    # Calculate Jaccard similarity between rules generated by different algorithms
-    def jaccard_similarity(self, rules_a: pd.DataFrame, rules_b: pd.DataFrame) -> float:
-        """
-        Calculate the Jaccard similarity between the rule sets of two algorithms.
-        The Jaccard similarity measures the overlap between two sets of rules.
-        """
-        set_a = set(zip(rules_a['antecedents'], rules_a['consequents']))
-        set_b = set(zip(rules_b['antecedents'], rules_b['consequents']))
-        intersection = set_a.intersection(set_b)
-        union = set_a.union(set_b)
-        return round(len(intersection) / len(union), 4) if union else 0.0
-
-    # Prepare the rules for web output, format antecedents and consequents as strings
-    def prepare_for_web(self) -> pd.DataFrame:
-        """
-        Prepare the rules DataFrame for web output by formatting antecedents and consequents as strings.
-        """
-        df = self.rules_df.copy()
-        df['antecedents'] = df['antecedents'].apply(lambda x: ', '.join(sorted(x)))
-        df['consequents'] = df['consequents'].apply(lambda x: ', '.join(sorted(x)))
-        return df[['antecedents', 'consequents', 'support', 'confidence', 'lift', 'composite_score', 'algorithm']]
+    def export_rules(self, prefix="rules"):
+        # Export rules to CSV with selected columns
+        print(f"Exporting rules with prefix '{prefix}'...")
+        export_cols = [
+            'algorithm', 'antecedents', 'consequents', 'support', 'confidence',
+            'lift', 'recency_score', 'composite_score_with_recency'
+        ]
+        self.rules_df[export_cols].to_csv(f"{prefix}_combined.csv", index=False)
+        self.rules_df[self.rules_df['algorithm'] == 'Apriori'][export_cols].to_csv(f"{prefix}_apriori.csv", index=False)
+        self.rules_df[self.rules_df['algorithm'] == 'FP-Growth'][export_cols].to_csv(f"{prefix}_fpgrowth.csv", index=False)
+        print("Rules exported to CSV.")
