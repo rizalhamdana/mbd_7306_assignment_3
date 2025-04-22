@@ -15,11 +15,11 @@ class FlexiblePatternMiner:
         print("Initializing FlexiblePatternMiner...")
         self.df_encoded = df_encoded  # One-hot encoded transactional data
         self.recency_score = recency_score  # Dictionary of recency values
-        self.min_support = 0.005  # Default support threshold
+        self.min_support = 0.002  # Default support threshold
         self.min_confidence = 0.04  # Default confidence threshold
         self.algorithms = {'Apriori': apriori, 'FP-Growth': fpgrowth}  # Mapping of algorithm names to functions
         self.selected_algorithms = ['Apriori', 'FP-Growth']  # Algorithms selected to run
-        self.weights = (0.2, 0.2, 0.4, 0.2)  # Default weights: (support, confidence, lift, recency)
+        self.weights = (0.05, 0.05, 0.70, 0.20)  # Default weights: (support, confidence, lift, recency)
         self.frequent_itemsets = pd.DataFrame()  # Will hold all itemsets
         self.rules_df = pd.DataFrame()  # Will hold final association rules
 
