@@ -85,7 +85,7 @@ class CollaborativeFiltering:
         return self.item_similarity_matrix
     
     def recommend_items(self, target_user, n_recommended_items=None, n_similar_neighbours = 10):
-        all_user_ids = self.utility_matrix.index
+        all_user_ids = self.utility_matrix.index.unique()
         
         if not target_user in all_user_ids:
             return "Cold Start Problem Has Not Been Handled"
