@@ -233,7 +233,7 @@ class CollaborativeFiltering:
     def weighted_hybrid_cf_recommended_items(self, association_rules, 
                                              cf_recommendations, 
                                              target_user,
-                                             adaptive_switching_type="sigmoid"
+                                             adaptive_switching_type="confidence_score"
                                              ):
         user_purchased_items = []
         user_transaction_history = []
