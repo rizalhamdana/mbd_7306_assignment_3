@@ -11,14 +11,17 @@ class FlexiblePatternMiner:
     Allows configuration of support/confidence/lift thresholds, scoring weights, and rule exports.
     """
 
-    def __init__(self, raw_df, user_col='user_id', item_col='item', date_col='date'):
+    def __init__(self, raw_df, user_col='User_id', item_col='itemDescription', date_col='Date'):
         """
         Initialize the miner with raw transactional data.
         """
-        self.raw_df = raw_df.copy()
+        self.raw_df = raw_df.copy().dropna(how='all')
+        
         self.user_col = user_col
-        self.item_col = item_col
         self.date_col = date_col
+        self.item_col = item_col
+        
+        self.raw_df[self.date_col] = pd.to_datetime(self.raw_df[self.date_col], dayfirst=True)
 
         # Encode transactions and compute recency scores
         self.df_encoded = self._encode_transactions()
@@ -44,6 +47,7 @@ class FlexiblePatternMiner:
 
     def _compute_recency_scores(self):
         most_recent = self.raw_df[self.date_col].max()
+        
         recency_dict = self.raw_df.groupby(self.item_col)[self.date_col].max().apply(lambda x: (most_recent - x).days).to_dict()
         scaler = MinMaxScaler()
         values = np.array(list(recency_dict.values())).reshape(-1, 1)
@@ -107,8 +111,8 @@ class FlexiblePatternMiner:
     def get_top_rules(self, top_n=10):
         if self.rules_df.empty:
             return pd.DataFrame()
-        top_apriori = self.rules_df[self.rules_df['algorithm'] == 'Apriori']            .sort_values(by='composite_score_with_recency', ascending=False).head(top_n)
-        top_fp = self.rules_df[self.rules_df['algorithm'] == 'FP-Growth']            .sort_values(by='composite_score_with_recency', ascending=False).head(top_n)
+        top_apriori = self.rules_df[self.rules_df['algorithm'] == 'Apriori'].sort_values(by='composite_score_with_recency', ascending=False).head(top_n)
+        top_fp = self.rules_df[self.rules_df['algorithm'] == 'FP-Growth'].sort_values(by='composite_score_with_recency', ascending=False).head(top_n)
         return pd.concat([top_apriori, top_fp], ignore_index=True)[
             ['algorithm', 'antecedents', 'consequents', 'composite_score_with_recency']
         ]
