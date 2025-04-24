@@ -1,4 +1,3 @@
-
 import pandas as pd
 import numpy as np
 from mlxtend.frequent_patterns import apriori, fpgrowth, association_rules
@@ -7,34 +6,26 @@ from sklearn.preprocessing import MinMaxScaler
 
 class FlexiblePatternMiner:
     """
-    A flexible and modular pattern mining engine supporting Apriori and FP-Growth algorithms.
-    Allows configuration of support/confidence/lift thresholds, scoring weights, and rule exports.
+    A modular and extensible pattern mining engine using Apriori and FP-Growth,
+    now with lift + recency scoring for better rule interpretability.
     """
 
     def __init__(self, raw_df, user_col='User_id', item_col='itemDescription', date_col='Date'):
-        """
-        Initialize the miner with raw transactional data.
-        """
         self.raw_df = raw_df.copy().dropna(how='all')
-        
         self.user_col = user_col
-        self.date_col = date_col
         self.item_col = item_col
-        
+        self.date_col = date_col
         self.raw_df[self.date_col] = pd.to_datetime(self.raw_df[self.date_col], dayfirst=True)
 
-        # Encode transactions and compute recency scores
         self.df_encoded = self._encode_transactions()
         self.recency_score = self._compute_recency_scores()
 
-        # Default parameters
         self.min_support = 0.002
         self.min_confidence = 0.04
         self.min_lift = 1.0
         self.selected_algorithms = ['Apriori', 'FP-Growth']
-        self.weights = (0.20, 0.20, 0.40, 0.20)
+        self.weights = (0.6, 0.4)  # lift, recency
 
-        # Storage
         self.algorithms = {'Apriori': apriori, 'FP-Growth': fpgrowth}
         self.frequent_itemsets = pd.DataFrame()
         self.rules_df = pd.DataFrame()
@@ -47,7 +38,6 @@ class FlexiblePatternMiner:
 
     def _compute_recency_scores(self):
         most_recent = self.raw_df[self.date_col].max()
-        
         recency_dict = self.raw_df.groupby(self.item_col)[self.date_col].max().apply(lambda x: (most_recent - x).days).to_dict()
         scaler = MinMaxScaler()
         values = np.array(list(recency_dict.values())).reshape(-1, 1)
@@ -64,8 +54,9 @@ class FlexiblePatternMiner:
     def set_min_support(self, support): self.min_support = support
     def set_min_confidence(self, confidence): self.min_confidence = confidence
     def set_min_lift(self, lift): self.min_lift = lift
-    def set_weights(self, alpha, beta, gamma, delta): self.weights = (alpha, beta, gamma, delta)
+    def set_weights(self, gamma, delta): self.weights = (gamma, delta)
     def set_selected_algorithms(self, algos): self.selected_algorithms = algos
+
     def get_rules(self): return self.rules_df
     def get_frequent_itemsets(self): return self.frequent_itemsets
 
@@ -98,12 +89,10 @@ class FlexiblePatternMiner:
         if self.rules_df.empty:
             return
         scaler = MinMaxScaler()
-        for metric in ['support', 'confidence', 'lift', 'recency_score']:
+        for metric in ['lift', 'recency_score']:
             self.rules_df[f'{metric}_norm'] = scaler.fit_transform(self.rules_df[[metric]])
-        alpha, beta, gamma, delta = self.weights
+        gamma, delta = self.weights
         self.rules_df['composite_score_with_recency'] = (
-            alpha * self.rules_df['support_norm'] +
-            beta * self.rules_df['confidence_norm'] +
             gamma * self.rules_df['lift_norm'] +
             delta * self.rules_df['recency_score_norm']
         )
