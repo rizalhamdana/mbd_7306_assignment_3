@@ -1,0 +1,10648 @@
+{
+  "1001_2015-01-20": [
+    "soda",
+    "frankfurter"
+  ],
+  "1002_2014-09-02": [
+    "other vegetables",
+    "frozen vegetables"
+  ],
+  "1003_2014-10-15": [
+    "detergent",
+    "root vegetables"
+  ],
+  "1004_2014-10-13": [
+    "chocolate",
+    "rolls/buns",
+    "packaged fruit/vegetables",
+    "whole milk"
+  ],
+  "1005_2014-09-01": [
+    "rolls/buns"
+  ],
+  "1006_2014-11-07": [
+    "shopping bags",
+    "skin care"
+  ],
+  "1010_2014-10-04": [
+    "kitchen towels",
+    "sliced cheese"
+  ],
+  "1011_2014-02-15": [
+    "citrus fruit",
+    "rolls/buns",
+    "bottled water",
+    "candy"
+  ],
+  "1013_2014-12-11": [
+    "root vegetables",
+    "mayonnaise"
+  ],
+  "1014_2014-06-10": [
+    "rolls/buns",
+    "whole milk"
+  ],
+  "1017_2014-10-14": [
+    "brown bread",
+    "pet care"
+  ],
+  "1018_2014-05-27": [
+    "cake bar",
+    "berries"
+  ],
+  "1020_2014-12-08": [
+    "shopping bags",
+    "canned beer"
+  ],
+  "1022_2014-07-06": [
+    "fruit/vegetable juice",
+    "sausage"
+  ],
+  "1023_2014-12-30": [
+    "specialty bar",
+    "whipped/sour cream",
+    "sausage"
+  ],
+  "1025_2014-10-03": [
+    "cream cheese ",
+    "ham"
+  ],
+  "1026_2014-08-23": [
+    "yogurt",
+    "citrus fruit"
+  ],
+  "1027_2014-09-22": [
+    "rolls/buns",
+    "bottled water"
+  ],
+  "1028_2014-10-11": [
+    "soda",
+    "butter"
+  ],
+  "1032_2014-09-23": [
+    "shopping bags",
+    "whole milk",
+    "white bread",
+    "pastry"
+  ],
+  "1033_2014-04-21": [
+    "snack products",
+    "rolls/buns",
+    "sausage"
+  ],
+  "1034_2014-05-13": [
+    "newspapers",
+    "tropical fruit"
+  ],
+  "1035_2014-08-15": [
+    "salt",
+    "pip fruit",
+    "white wine",
+    "white bread"
+  ],
+  "1037_2014-06-06": [
+    "shopping bags",
+    "cake bar",
+    "citrus fruit",
+    "chewing gum"
+  ],
+  "1040_2014-10-24": [
+    "root vegetables",
+    "white bread"
+  ],
+  "1041_2014-07-07": [
+    "dessert",
+    "prosecco"
+  ],
+  "1043_2014-06-16": [
+    "chocolate marshmallow",
+    "whole milk",
+    "napkins"
+  ],
+  "1045_2014-12-01": [
+    "yogurt",
+    "root vegetables",
+    "butter"
+  ],
+  "1049_2015-01-07": [
+    "whole milk",
+    "butter"
+  ],
+  "1050_2014-12-10": [
+    "other vegetables",
+    "UHT-milk",
+    "dishes"
+  ],
+  "1051_2014-12-26": [
+    "shopping bags"
+  ],
+  "1052_2014-11-20": [
+    "chewing gum",
+    "bottled water"
+  ],
+  "1053_2014-10-12": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "1057_2014-08-06": [
+    "UHT-milk",
+    "tropical fruit"
+  ],
+  "1058_2014-07-08": [
+    "yogurt",
+    "root vegetables"
+  ],
+  "1059_2014-11-06": [
+    "dessert",
+    "spread cheese"
+  ],
+  "1061_2014-10-23": [
+    "dessert",
+    "beverages"
+  ],
+  "1062_2014-08-05": [
+    "frozen fruits",
+    "white bread"
+  ],
+  "1064_2014-04-21": [
+    "cream cheese ",
+    "rolls/buns"
+  ],
+  "1065_2014-12-25": [
+    "red/blush wine",
+    "frozen fish"
+  ],
+  "1066_2014-12-06": [
+    "shopping bags",
+    "oil"
+  ],
+  "1068_2015-01-07": [
+    "pork",
+    "spread cheese"
+  ],
+  "1069_2014-12-18": [
+    "salt",
+    "domestic eggs"
+  ],
+  "1070_2014-10-04": [
+    "citrus fruit",
+    "red/blush wine"
+  ],
+  "1073_2014-05-06": [
+    "yogurt",
+    "domestic eggs",
+    "bottled water"
+  ],
+  "1074_2014-08-05": [
+    "shopping bags",
+    "oil"
+  ],
+  "1077_2014-12-30": [
+    "rolls/buns",
+    "root vegetables"
+  ],
+  "1082_2014-05-13": [
+    "other vegetables",
+    "margarine",
+    "beef"
+  ],
+  "1083_2014-11-15": [
+    "hamburger meat",
+    "whole milk"
+  ],
+  "1085_2014-05-25": [
+    "newspapers",
+    "yogurt"
+  ],
+  "1086_2014-10-12": [
+    "whipped/sour cream",
+    "ice cream"
+  ],
+  "1087_2014-12-16": [
+    "jam",
+    "flower (seeds)",
+    "soda"
+  ],
+  "1094_2014-11-12": [
+    "detergent",
+    "hamburger meat",
+    "flour"
+  ],
+  "1095_2014-06-08": [
+    "flour",
+    "pickled vegetables"
+  ],
+  "1097_2015-01-11": [
+    "curd",
+    "soda",
+    "whole milk",
+    "tropical fruit"
+  ],
+  "1098_2015-01-19": [
+    "shopping bags",
+    "rolls/buns",
+    "cat food"
+  ],
+  "1099_2014-08-29": [
+    "instant coffee",
+    "root vegetables"
+  ],
+  "1100_2014-12-18": [
+    "yogurt",
+    "whole milk"
+  ],
+  "1101_2014-12-28": [
+    "other vegetables",
+    "rolls/buns",
+    "whipped/sour cream"
+  ],
+  "1102_2014-09-30": [
+    "brown bread",
+    "yogurt",
+    "beverages"
+  ],
+  "1103_2014-12-07": [
+    "herbs",
+    "ice cream"
+  ],
+  "1107_2015-01-10": [
+    "citrus fruit",
+    "misc. beverages"
+  ],
+  "1108_2014-08-22": [
+    "oil",
+    "salty snack",
+    "pastry"
+  ],
+  "1109_2014-11-22": [
+    "salty snack",
+    "pip fruit",
+    "pastry"
+  ],
+  "1110_2014-11-12": [
+    "salty snack",
+    "soda"
+  ],
+  "1111_2014-10-24": [
+    "sugar",
+    "bottled water",
+    "flour"
+  ],
+  "1113_2014-07-01": [
+    "newspapers",
+    "yogurt",
+    "whole milk"
+  ],
+  "1114_2014-12-14": [
+    "citrus fruit",
+    "root vegetables"
+  ],
+  "1115_2014-09-15": [
+    "yogurt",
+    "whipped/sour cream"
+  ],
+  "1116_2014-11-08": [
+    "other vegetables",
+    "zwieback"
+  ],
+  "1118_2014-09-12": [
+    "condensed milk",
+    "berries"
+  ],
+  "1120_2015-01-14": [
+    "newspapers",
+    "soda",
+    "UHT-milk",
+    "white bread"
+  ],
+  "1123_2014-12-28": [
+    "pip fruit",
+    "whole milk"
+  ],
+  "1124_2014-08-23": [
+    "yogurt",
+    "soda"
+  ],
+  "1125_2014-09-12": [
+    "margarine",
+    "rolls/buns"
+  ],
+  "1127_2015-01-14": [
+    "shopping bags",
+    "margarine",
+    "frankfurter",
+    "rolls/buns"
+  ],
+  "1128_2014-10-05": [
+    "frankfurter",
+    "white bread"
+  ],
+  "1129_2014-12-21": [
+    "specialty chocolate",
+    "cream cheese "
+  ],
+  "1130_2015-01-15": [
+    "cream cheese ",
+    "tropical fruit"
+  ],
+  "1133_2014-03-21": [
+    "shopping bags",
+    "coffee"
+  ],
+  "1134_2014-11-05": [
+    "brown bread",
+    "yogurt",
+    "pastry"
+  ],
+  "1136_2014-09-28": [
+    "other vegetables",
+    "tropical fruit"
+  ],
+  "1139_2015-01-19": [
+    "tropical fruit",
+    "misc. beverages"
+  ],
+  "1141_2014-12-15": [
+    "berries",
+    "white bread"
+  ],
+  "1142_2014-10-13": [
+    "other vegetables",
+    "napkins"
+  ],
+  "1143_2014-11-18": [
+    "oil",
+    "pickled vegetables"
+  ],
+  "1144_2015-01-16": [
+    "chicken",
+    "domestic eggs",
+    "white bread"
+  ],
+  "1145_2014-09-13": [
+    "soda",
+    "bottled beer"
+  ],
+  "1146_2014-12-07": [
+    "waffles",
+    "shopping bags",
+    "bottled water"
+  ],
+  "1147_2014-11-16": [
+    "specialty chocolate",
+    "canned fish"
+  ],
+  "1148_2015-01-14": [
+    "yogurt",
+    "pork"
+  ],
+  "1150_2014-08-29": [
+    "berries",
+    "pip fruit"
+  ],
+  "1153_2014-10-08": [
+    "chewing gum",
+    "whole milk",
+    "bottled beer",
+    "ready soups"
+  ],
+  "1157_2014-04-10": [
+    "UHT-milk",
+    "whole milk",
+    "napkins",
+    "tropical fruit"
+  ],
+  "1159_2014-06-02": [
+    "domestic eggs",
+    "frozen vegetables"
+  ],
+  "1160_2014-06-02": [
+    "whole milk",
+    "root vegetables"
+  ],
+  "1162_2014-08-20": [
+    "salty snack",
+    "red/blush wine"
+  ],
+  "1163_2014-11-03": [
+    "sausage",
+    "bottled water"
+  ],
+  "1165_2014-02-05": [
+    "whole milk",
+    "frozen vegetables"
+  ],
+  "1166_2014-03-06": [
+    "tropical fruit",
+    "bottled water"
+  ],
+  "1169_2014-12-15": [
+    "cake bar",
+    "bottled beer"
+  ],
+  "1170_2015-01-12": [
+    "chicken",
+    "pip fruit"
+  ],
+  "1171_2015-01-15": [
+    "specialty chocolate",
+    "beverages"
+  ],
+  "1173_2014-07-08": [
+    "newspapers",
+    "specialty bar"
+  ],
+  "1174_2014-12-29": [
+    "cling film/bags",
+    "root vegetables"
+  ],
+  "1175_2014-09-20": [
+    "oil",
+    "pasta"
+  ],
+  "1176_2014-11-21": [
+    "domestic eggs",
+    "curd cheese",
+    "frozen potato products"
+  ],
+  "1179_2014-11-09": [
+    "frozen meals",
+    "chicken",
+    "napkins"
+  ],
+  "1180_2014-08-24": [
+    "citrus fruit",
+    "white bread"
+  ],
+  "1181_2014-10-23": [
+    "white bread",
+    "mayonnaise"
+  ],
+  "1182_2015-01-09": [
+    "hamburger meat",
+    "whole milk",
+    "ice cream",
+    "shopping bags",
+    "soft cheese"
+  ],
+  "1185_2014-09-28": [
+    "chewing gum",
+    "ice cream"
+  ],
+  "1186_2014-09-02": [
+    "soda",
+    "butter"
+  ],
+  "1187_2014-09-11": [
+    "citrus fruit",
+    "domestic eggs"
+  ],
+  "1188_2014-11-21": [
+    "other vegetables",
+    "bottled beer"
+  ],
+  "1189_2014-04-07": [
+    "bottled beer",
+    "sliced cheese"
+  ],
+  "1190_2014-11-25": [
+    "meat spreads",
+    "other vegetables"
+  ],
+  "1194_2014-02-27": [
+    "pip fruit",
+    "napkins"
+  ],
+  "1196_2014-08-15": [
+    "newspapers",
+    "domestic eggs"
+  ],
+  "1197_2015-01-16": [
+    "chocolate",
+    "sausage"
+  ],
+  "1198_2014-07-29": [
+    "specialty chocolate",
+    "frozen fish"
+  ],
+  "1201_2014-11-24": [
+    "coffee",
+    "misc. beverages"
+  ],
+  "1202_2014-07-29": [
+    "roll products ",
+    "yogurt"
+  ],
+  "1204_2014-12-01": [
+    "chocolate",
+    "softener"
+  ],
+  "1205_2014-12-08": [
+    "curd",
+    "bottled water",
+    "white bread",
+    "ready soups"
+  ],
+  "1207_2014-09-12": [
+    "semi-finished bread",
+    "whole milk",
+    "yogurt"
+  ],
+  "1208_2014-10-25": [
+    "yogurt",
+    "pork",
+    "beef"
+  ],
+  "1209_2014-11-11": [
+    "long life bakery product",
+    "fruit/vegetable juice",
+    "specialty cheese"
+  ],
+  "1211_2014-12-13": [
+    "specialty bar",
+    "whole milk"
+  ],
+  "1212_2014-05-25": [
+    "domestic eggs",
+    "beef"
+  ],
+  "1215_2015-01-18": [
+    "semi-finished bread",
+    "pip fruit",
+    "sliced cheese",
+    "other vegetables"
+  ],
+  "1217_2014-07-21": [
+    "sugar",
+    "whole milk"
+  ],
+  "1218_2014-08-05": [
+    "citrus fruit"
+  ],
+  "1219_2014-03-07": [
+    "red/blush wine",
+    "instant coffee"
+  ],
+  "1220_2015-01-01": [
+    "chocolate",
+    "canned beer",
+    "margarine"
+  ],
+  "1223_2014-11-18": [
+    "semi-finished bread",
+    "citrus fruit",
+    "yogurt"
+  ],
+  "1224_2014-09-20": [
+    "specialty chocolate",
+    "sausage"
+  ],
+  "1225_2014-11-29": [
+    "butter milk",
+    "seasonal products",
+    "soda"
+  ],
+  "1229_2014-07-26": [
+    "brown bread",
+    "mustard"
+  ],
+  "1230_2014-12-17": [
+    "canned beer",
+    "soda"
+  ],
+  "1231_2014-11-23": [
+    "hard cheese",
+    "soda"
+  ],
+  "1232_2015-01-07": [
+    "bottled water",
+    "butter",
+    "grapes"
+  ],
+  "1233_2014-09-06": [
+    "shopping bags",
+    "whipped/sour cream"
+  ],
+  "1234_2014-12-05": [
+    "curd",
+    "pastry"
+  ],
+  "1235_2015-01-01": [
+    "sausage",
+    "bottled beer",
+    "spread cheese"
+  ],
+  "1237_2014-12-03": [
+    "citrus fruit",
+    "other vegetables"
+  ],
+  "1239_2014-04-18": [
+    "soda",
+    "meat"
+  ],
+  "1240_2014-11-27": [
+    "shopping bags",
+    "soda"
+  ],
+  "1241_2014-11-01": [
+    "whole milk",
+    "specialty cheese"
+  ],
+  "1244_2014-11-25": [
+    "shopping bags",
+    "salty snack",
+    "rolls/buns",
+    "bottled water"
+  ],
+  "1245_2014-12-07": [
+    "soft cheese",
+    "onions"
+  ],
+  "1246_2014-12-29": [
+    "other vegetables",
+    "UHT-milk"
+  ],
+  "1247_2014-08-06": [
+    "butter",
+    "candy"
+  ],
+  "1248_2014-09-05": [
+    "root vegetables",
+    "frozen vegetables"
+  ],
+  "1249_2014-11-10": [
+    "frozen meals",
+    "soda",
+    "bottled beer"
+  ],
+  "1256_2014-10-14": [
+    "other vegetables",
+    "sugar"
+  ],
+  "1257_2014-09-16": [
+    "yogurt",
+    "rolls/buns"
+  ],
+  "1258_2014-09-08": [
+    "fruit/vegetable juice",
+    "rolls/buns",
+    "whipped/sour cream",
+    "frozen vegetables"
+  ],
+  "1259_2014-10-06": [
+    "hamburger meat",
+    "coffee"
+  ],
+  "1260_2014-09-07": [
+    "curd",
+    "sausage"
+  ],
+  "1262_2014-12-07": [
+    "frozen meals",
+    "organic sausage",
+    "sugar"
+  ],
+  "1263_2014-11-05": [
+    "citrus fruit",
+    "other vegetables"
+  ],
+  "1265_2015-01-19": [
+    "domestic eggs",
+    "hamburger meat",
+    "other vegetables"
+  ],
+  "1268_2014-10-19": [
+    "oil",
+    "canned fish"
+  ],
+  "1269_2014-07-10": [
+    "frozen meals",
+    "red/blush wine",
+    "canned fruit"
+  ],
+  "1274_2014-10-07": [
+    "other vegetables",
+    "specialty cheese",
+    "coffee"
+  ],
+  "1275_2014-10-06": [
+    "citrus fruit",
+    "pastry"
+  ],
+  "1277_2015-01-12": [
+    "rolls/buns",
+    "sausage"
+  ],
+  "1278_2014-06-09": [
+    "citrus fruit",
+    "hamburger meat",
+    "photo/film"
+  ],
+  "1279_2014-08-25": [
+    "chicken",
+    "soda"
+  ],
+  "1280_2014-04-17": [
+    "ice cream",
+    "spices"
+  ],
+  "1282_2014-10-24": [
+    "snack products",
+    "other vegetables"
+  ],
+  "1283_2014-09-02": [
+    "bottled water",
+    "butter"
+  ],
+  "1284_2014-06-26": [
+    "margarine",
+    "rolls/buns"
+  ],
+  "1285_2014-10-27": [
+    "soda",
+    "pastry"
+  ],
+  "1286_2014-12-19": [
+    "chewing gum",
+    "root vegetables"
+  ],
+  "1287_2014-08-11": [
+    "flower (seeds)",
+    "soft cheese"
+  ],
+  "1288_2014-09-28": [
+    "citrus fruit",
+    "whole milk",
+    "rolls/buns"
+  ],
+  "1289_2014-10-08": [
+    "herbs",
+    "prosecco",
+    "yogurt"
+  ],
+  "1291_2015-01-14": [
+    "citrus fruit",
+    "domestic eggs",
+    "rolls/buns",
+    "tropical fruit"
+  ],
+  "1293_2015-01-03": [
+    "whole milk",
+    "light bulbs"
+  ],
+  "1294_2014-12-22": [
+    "soft cheese",
+    "whipped/sour cream"
+  ],
+  "1296_2014-12-14": [
+    "rice",
+    "bottled beer"
+  ],
+  "1297_2014-12-13": [
+    "chicken",
+    "cream cheese ",
+    "napkins"
+  ],
+  "1299_2014-11-20": [
+    "canned beer",
+    "white bread"
+  ],
+  "1302_2014-11-22": [
+    "bottled water",
+    "root vegetables"
+  ],
+  "1303_2014-10-28": [
+    "tropical fruit",
+    "pastry"
+  ],
+  "1307_2014-12-15": [
+    "brown bread",
+    "hamburger meat"
+  ],
+  "1308_2014-11-23": [
+    "brown bread",
+    "whole milk"
+  ],
+  "1309_2015-01-04": [
+    "cocoa drinks",
+    "tropical fruit"
+  ],
+  "1310_2014-11-22": [
+    "newspapers",
+    "salty snack"
+  ],
+  "1312_2014-12-13": [
+    "hamburger meat",
+    "butter"
+  ],
+  "1316_2014-05-31": [
+    "curd",
+    "bottled beer"
+  ],
+  "1317_2014-07-26": [
+    "citrus fruit",
+    "other vegetables"
+  ],
+  "1320_2015-01-19": [
+    "finished products",
+    "pip fruit",
+    "root vegetables",
+    "canned fruit"
+  ],
+  "1325_2014-04-30": [
+    "soda",
+    "napkins"
+  ],
+  "1327_2014-12-14": [
+    "rolls/buns",
+    "grapes"
+  ],
+  "1328_2014-08-14": [
+    "cream cheese ",
+    "tropical fruit",
+    "pastry"
+  ],
+  "1329_2014-02-22": [
+    "newspapers",
+    "dessert",
+    "domestic eggs"
+  ],
+  "1332_2014-07-16": [
+    "hard cheese",
+    "root vegetables"
+  ],
+  "1333_2014-11-27": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "1335_2015-01-16": [
+    "frankfurter",
+    "coffee"
+  ],
+  "1338_2014-11-08": [
+    "canned beer",
+    "whole milk",
+    "UHT-milk"
+  ],
+  "1339_2014-05-25": [
+    "frozen vegetables",
+    "grapes",
+    "vinegar"
+  ],
+  "1340_2014-12-28": [
+    "mustard",
+    "flour"
+  ],
+  "1341_2014-08-11": [
+    "bottled water",
+    "bottled beer",
+    "pastry",
+    "root vegetables"
+  ],
+  "1342_2014-08-20": [
+    "dessert",
+    "margarine"
+  ],
+  "1343_2015-01-11": [
+    "specialty chocolate",
+    "other vegetables"
+  ],
+  "1350_2014-03-09": [
+    "whole milk",
+    "bottled water"
+  ],
+  "1353_2014-12-27": [
+    "chewing gum",
+    "cooking chocolate"
+  ],
+  "1354_2015-01-12": [
+    "whole milk",
+    "frozen vegetables"
+  ],
+  "1356_2014-12-19": [
+    "berries",
+    "onions"
+  ],
+  "1358_2014-12-15": [
+    "newspapers",
+    "whipped/sour cream"
+  ],
+  "1360_2014-06-17": [
+    "curd",
+    "processed cheese"
+  ],
+  "1361_2014-12-13": [
+    "soda",
+    "rolls/buns",
+    "onions"
+  ],
+  "1363_2015-01-15": [
+    "hard cheese",
+    "bottled beer"
+  ],
+  "1364_2014-11-08": [
+    "other vegetables",
+    "bottled water"
+  ],
+  "1365_2014-09-15": [
+    "butter milk",
+    "other vegetables"
+  ],
+  "1366_2014-08-29": [
+    "sweet spreads",
+    "other vegetables"
+  ],
+  "1369_2014-08-02": [
+    "waffles",
+    "other vegetables",
+    "canned fish",
+    "white bread"
+  ],
+  "1374_2014-11-09": [
+    "chewing gum",
+    "candy"
+  ],
+  "1376_2014-11-29": [
+    "chocolate marshmallow",
+    "pip fruit"
+  ],
+  "1379_2015-01-07": [
+    "chocolate",
+    "pip fruit",
+    "other vegetables"
+  ],
+  "1381_2014-07-05": [
+    "pastry"
+  ],
+  "1383_2014-08-25": [
+    "other vegetables",
+    "rolls/buns"
+  ],
+  "1384_2014-09-28": [
+    "cling film/bags",
+    "bottled water"
+  ],
+  "1385_2014-03-28": [
+    "berries",
+    "coffee"
+  ],
+  "1386_2014-12-21": [
+    "pork",
+    "sugar"
+  ],
+  "1387_2014-05-31": [
+    "shopping bags",
+    "soda",
+    "rolls/buns"
+  ],
+  "1388_2014-11-19": [
+    "newspapers",
+    "hygiene articles"
+  ],
+  "1389_2014-11-13": [
+    "root vegetables",
+    "pickled vegetables"
+  ],
+  "1390_2014-07-31": [
+    "shopping bags",
+    "cream cheese ",
+    "rolls/buns"
+  ],
+  "1391_2015-01-08": [
+    "chocolate",
+    "yogurt"
+  ],
+  "1392_2014-12-09": [
+    "curd",
+    "other vegetables"
+  ],
+  "1393_2014-08-26": [
+    "red/blush wine",
+    "pastry"
+  ],
+  "1395_2015-01-15": [
+    "curd",
+    "beverages",
+    "hard cheese",
+    "fruit/vegetable juice",
+    "meat"
+  ],
+  "1399_2014-10-12": [
+    "frozen meals",
+    "canned vegetables"
+  ],
+  "1404_2015-01-16": [
+    "semi-finished bread",
+    "canned beer",
+    "ice cream"
+  ],
+  "1407_2014-10-09": [
+    "domestic eggs",
+    "white bread"
+  ],
+  "1408_2015-01-03": [
+    "soda",
+    "root vegetables"
+  ],
+  "1410_2014-12-25": [
+    "waffles",
+    "chocolate",
+    "other vegetables",
+    "rolls/buns"
+  ],
+  "1412_2014-08-21": [
+    "shopping bags",
+    "make up remover"
+  ],
+  "1413_2014-12-14": [
+    "soda",
+    "sugar"
+  ],
+  "1415_2014-12-28": [
+    "domestic eggs",
+    "sausage"
+  ],
+  "1416_2014-08-23": [
+    "onions",
+    "sliced cheese"
+  ],
+  "1417_2014-10-14": [
+    "cream cheese ",
+    "whipped/sour cream"
+  ],
+  "1418_2014-06-30": [
+    "citrus fruit",
+    "bottled water"
+  ],
+  "1419_2014-12-03": [
+    "salty snack",
+    "chewing gum",
+    "coffee",
+    "butter"
+  ],
+  "1420_2015-01-14": [
+    "salty snack",
+    "other vegetables",
+    "newspapers",
+    "syrup",
+    "oil"
+  ],
+  "1421_2014-12-26": [
+    "shopping bags",
+    "beverages"
+  ],
+  "1422_2015-01-01": [
+    "turkey",
+    "salty snack",
+    "tropical fruit"
+  ],
+  "1423_2014-10-13": [
+    "pasta",
+    "mustard",
+    "syrup"
+  ],
+  "1424_2014-04-04": [
+    "berries",
+    "other vegetables"
+  ],
+  "1425_2014-06-24": [
+    "newspapers",
+    "shopping bags",
+    "soda",
+    "spices"
+  ],
+  "1426_2014-11-18": [
+    "specialty chocolate",
+    "beef"
+  ],
+  "1427_2014-12-06": [
+    "brown bread",
+    "rolls/buns",
+    "sliced cheese"
+  ],
+  "1428_2015-01-18": [
+    "yogurt",
+    "pip fruit",
+    "whole milk",
+    "rolls/buns"
+  ],
+  "1432_2014-12-03": [
+    "bottled beer",
+    "frozen vegetables"
+  ],
+  "1434_2014-11-28": [
+    "condensed milk",
+    "chicken"
+  ],
+  "1435_2015-01-14": [
+    "canned beer",
+    "prosecco",
+    "fruit/vegetable juice",
+    "pork"
+  ],
+  "1438_2014-05-18": [
+    "coffee",
+    "butter"
+  ],
+  "1440_2014-07-26": [
+    "rolls/buns"
+  ],
+  "1442_2014-07-28": [
+    "yogurt",
+    "citrus fruit"
+  ],
+  "1443_2014-08-25": [
+    "dessert",
+    "tropical fruit",
+    "bottled water"
+  ],
+  "1444_2014-07-03": [
+    "newspapers",
+    "shopping bags",
+    "whole milk"
+  ],
+  "1445_2014-04-13": [
+    "frankfurter",
+    "bottled water"
+  ],
+  "1446_2014-07-05": [
+    "brown bread",
+    "curd",
+    "bottled water",
+    "pastry"
+  ],
+  "1450_2014-11-17": [
+    "other vegetables",
+    "root vegetables"
+  ],
+  "1453_2014-11-21": [
+    "margarine",
+    "hygiene articles"
+  ],
+  "1454_2015-01-13": [
+    "meat",
+    "rolls/buns",
+    "tropical fruit"
+  ],
+  "1456_2014-12-08": [
+    "shopping bags",
+    "packaged fruit/vegetables"
+  ],
+  "1457_2014-12-05": [
+    "root vegetables",
+    "white bread"
+  ],
+  "1460_2015-01-13": [
+    "other vegetables",
+    "napkins",
+    "ham"
+  ],
+  "1461_2014-11-08": [
+    "bottled beer"
+  ],
+  "1462_2014-09-24": [
+    "bottled water",
+    "whipped/sour cream"
+  ],
+  "1465_2014-09-26": [
+    "yogurt",
+    "pastry"
+  ],
+  "1466_2015-01-12": [
+    "seasonal products",
+    "sausage",
+    "other vegetables",
+    "mayonnaise"
+  ],
+  "1468_2014-12-07": [
+    "yogurt",
+    "ham",
+    "bottled water"
+  ],
+  "1471_2014-08-21": [
+    "whole milk",
+    "tropical fruit"
+  ],
+  "1472_2014-10-06": [
+    "specialty bar",
+    "sliced cheese"
+  ],
+  "1473_2014-10-10": [
+    "long life bakery product",
+    "whole milk",
+    "whipped/sour cream"
+  ],
+  "1474_2014-10-04": [
+    "chocolate",
+    "frankfurter"
+  ],
+  "1475_2014-09-21": [
+    "yogurt",
+    "frozen potato products"
+  ],
+  "1476_2014-05-11": [
+    "UHT-milk",
+    "liquor"
+  ],
+  "1477_2014-11-21": [
+    "other vegetables",
+    "meat",
+    "frozen vegetables"
+  ],
+  "1478_2014-12-26": [
+    "cream cheese ",
+    "soft cheese"
+  ],
+  "1479_2014-04-24": [
+    "liquor (appetizer)",
+    "tropical fruit"
+  ],
+  "1480_2014-12-22": [
+    "pip fruit",
+    "bottled water"
+  ],
+  "1482_2014-10-22": [
+    "brown bread",
+    "rolls/buns"
+  ],
+  "1483_2015-01-04": [
+    "tropical fruit",
+    "sausage"
+  ],
+  "1486_2014-11-30": [
+    "oil",
+    "soda",
+    "soft cheese"
+  ],
+  "1487_2014-09-04": [
+    "popcorn",
+    "rolls/buns",
+    "fruit/vegetable juice"
+  ],
+  "1488_2014-06-22": [
+    "root vegetables",
+    "white bread"
+  ],
+  "1489_2014-06-01": [
+    "brown bread",
+    "newspapers",
+    "vinegar"
+  ],
+  "1491_2014-08-11": [
+    "other vegetables",
+    "hygiene articles"
+  ],
+  "1492_2015-01-20": [
+    "cat food"
+  ],
+  "1493_2015-01-10": [
+    "semi-finished bread",
+    "spices"
+  ],
+  "1494_2014-11-23": [
+    "pip fruit",
+    "cat food"
+  ],
+  "1495_2014-10-11": [
+    "whipped/sour cream",
+    "misc. beverages"
+  ],
+  "1498_2014-10-29": [
+    "citrus fruit",
+    "baking powder"
+  ],
+  "1499_2014-11-05": [
+    "root vegetables",
+    "sliced cheese"
+  ],
+  "1500_2014-09-26": [
+    "specialty bar",
+    "shopping bags",
+    "pasta"
+  ],
+  "1501_2014-08-28": [
+    "curd",
+    "butter"
+  ],
+  "1504_2014-12-29": [
+    "chocolate",
+    "curd",
+    "tropical fruit"
+  ],
+  "1506_2014-12-25": [
+    "oil",
+    "pet care",
+    "cat food"
+  ],
+  "1507_2014-09-14": [
+    "flower (seeds)",
+    "whole milk",
+    "honey"
+  ],
+  "1508_2014-09-28": [
+    "yogurt",
+    "rolls/buns"
+  ],
+  "1509_2014-09-07": [
+    "yogurt",
+    "butter milk"
+  ],
+  "1510_2014-12-24": [
+    "domestic eggs",
+    "candy"
+  ],
+  "1512_2014-04-29": [
+    "fruit/vegetable juice",
+    "bottled beer"
+  ],
+  "1517_2015-01-08": [
+    "rolls/buns"
+  ],
+  "1520_2014-04-30": [
+    "berries",
+    "other vegetables"
+  ],
+  "1521_2014-12-26": [
+    "seasonal products",
+    "ham",
+    "cat food"
+  ],
+  "1522_2014-12-24": [
+    "frozen meals",
+    "yogurt",
+    "margarine",
+    "dish cleaner"
+  ],
+  "1523_2014-09-11": [
+    "brown bread",
+    "other vegetables",
+    "domestic eggs"
+  ],
+  "1525_2014-10-25": [
+    "ham",
+    "bottled water"
+  ],
+  "1526_2014-11-05": [
+    "sugar",
+    "cat food"
+  ],
+  "1527_2014-04-15": [
+    "soda",
+    "spices"
+  ],
+  "1528_2014-12-06": [
+    "cream cheese ",
+    "whole milk"
+  ],
+  "1529_2014-05-29": [
+    "other vegetables",
+    "margarine",
+    "bottled water"
+  ],
+  "1530_2014-11-10": [
+    "condensed milk",
+    "long life bakery product"
+  ],
+  "1531_2015-01-19": [
+    "sausage",
+    "pickled vegetables"
+  ],
+  "1533_2014-10-02": [
+    "specialty fat",
+    "red/blush wine"
+  ],
+  "1534_2014-05-11": [
+    "pork",
+    "bottled water",
+    "pastry"
+  ],
+  "1535_2015-01-14": [
+    "shopping bags",
+    "soda"
+  ],
+  "1537_2015-01-02": [
+    "yogurt",
+    "bottled water"
+  ],
+  "1542_2014-09-13": [
+    "yogurt",
+    "popcorn"
+  ],
+  "1544_2014-04-24": [
+    "brown bread",
+    "root vegetables"
+  ],
+  "1546_2014-03-10": [
+    "sugar",
+    "coffee"
+  ],
+  "1547_2014-09-03": [
+    "long life bakery product",
+    "whole milk"
+  ],
+  "1548_2014-04-05": [
+    "other vegetables",
+    "bottled beer"
+  ],
+  "1549_2014-07-17": [
+    "bottled water",
+    "liver loaf"
+  ],
+  "1550_2014-05-05": [
+    "pork",
+    "cereals"
+  ],
+  "1551_2015-01-14": [
+    "soda",
+    "rolls/buns",
+    "frozen fish"
+  ],
+  "1553_2014-09-05": [
+    "citrus fruit",
+    "soda",
+    "coffee"
+  ],
+  "1554_2014-10-27": [
+    "brown bread",
+    "meat",
+    "canned fish"
+  ],
+  "1561_2014-10-17": [
+    "dishes",
+    "canned beer",
+    "onions"
+  ],
+  "1563_2014-11-03": [
+    "citrus fruit",
+    "margarine",
+    "sliced cheese"
+  ],
+  "1564_2014-11-15": [
+    "pip fruit",
+    "root vegetables"
+  ],
+  "1565_2014-10-30": [
+    "oil",
+    "chocolate"
+  ],
+  "1566_2014-06-28": [
+    "curd",
+    "other vegetables"
+  ],
+  "1567_2015-01-04": [
+    "chewing gum",
+    "pot plants"
+  ],
+  "1568_2014-09-03": [
+    "coffee",
+    "nuts/prunes"
+  ],
+  "1569_2014-09-03": [
+    "fruit/vegetable juice",
+    "white bread",
+    "bottled beer",
+    "other vegetables"
+  ],
+  "1572_2014-08-13": [
+    "finished products",
+    "frozen vegetables"
+  ],
+  "1573_2014-05-18": [
+    "other vegetables",
+    "pastry"
+  ],
+  "1574_2014-12-02": [
+    "bottled beer",
+    "frozen fish"
+  ],
+  "1575_2014-09-20": [
+    "shopping bags",
+    "misc. beverages"
+  ],
+  "1578_2014-11-29": [
+    "newspapers",
+    "frozen vegetables"
+  ],
+  "1580_2014-11-09": [
+    "salty snack",
+    "canned beer"
+  ],
+  "1581_2014-06-17": [
+    "meat",
+    "butter"
+  ],
+  "1583_2014-11-27": [
+    "dessert",
+    "citrus fruit",
+    "bottled water"
+  ],
+  "1585_2014-10-16": [
+    "fruit/vegetable juice",
+    "margarine"
+  ],
+  "1586_2014-11-03": [
+    "hard cheese",
+    "citrus fruit",
+    "soda",
+    "butter"
+  ],
+  "1587_2015-01-07": [
+    "yogurt",
+    "other vegetables",
+    "whole milk",
+    "hard cheese",
+    "bottled beer"
+  ],
+  "1588_2015-01-19": [
+    "pork",
+    "beverages",
+    "dishes"
+  ],
+  "1589_2014-11-01": [
+    "dessert",
+    "butter"
+  ],
+  "1590_2014-06-21": [
+    "pip fruit",
+    "fruit/vegetable juice"
+  ],
+  "1591_2014-12-29": [
+    "oil",
+    "whole milk",
+    "packaged fruit/vegetables",
+    "photo/film"
+  ],
+  "1594_2014-05-28": [
+    "yogurt",
+    "specialty bar"
+  ],
+  "1595_2014-09-11": [
+    "nut snack",
+    "bottled beer"
+  ],
+  "1596_2014-12-10": [
+    "dessert",
+    "UHT-milk",
+    "margarine"
+  ],
+  "1597_2014-12-23": [
+    "oil",
+    "other vegetables"
+  ],
+  "1598_2014-07-18": [
+    "soda",
+    "ice cream"
+  ],
+  "1599_2014-10-10": [
+    "cream cheese ",
+    "candy"
+  ],
+  "1602_2014-12-17": [
+    "other vegetables",
+    "whipped/sour cream"
+  ],
+  "1605_2014-11-13": [
+    "canned beer",
+    "other vegetables",
+    "whole milk"
+  ],
+  "1606_2014-12-01": [
+    "canned beer",
+    "dog food"
+  ],
+  "1607_2014-12-10": [
+    "shopping bags",
+    "margarine",
+    "rolls/buns",
+    "pickled vegetables"
+  ],
+  "1608_2014-07-26": [
+    "whole milk",
+    "napkins",
+    "pastry"
+  ],
+  "1609_2014-12-21": [
+    "other vegetables",
+    "sugar"
+  ],
+  "1612_2014-12-25": [
+    "yogurt",
+    "citrus fruit",
+    "ice cream",
+    "soups"
+  ],
+  "1613_2014-11-19": [
+    "salt",
+    "other vegetables"
+  ],
+  "1615_2014-11-30": [
+    "bottled water",
+    "white bread"
+  ],
+  "1616_2015-01-19": [
+    "ham",
+    "coffee"
+  ],
+  "1617_2014-07-20": [
+    "sugar",
+    "dish cleaner"
+  ],
+  "1618_2014-11-17": [
+    "cream cheese ",
+    "mustard"
+  ],
+  "1619_2014-09-21": [
+    "waffles",
+    "whipped/sour cream",
+    "root vegetables"
+  ],
+  "1620_2014-07-21": [
+    "frozen meals",
+    "cream cheese "
+  ],
+  "1621_2014-08-28": [
+    "butter milk",
+    "sugar",
+    "photo/film"
+  ],
+  "1622_2014-06-24": [
+    "salty snack",
+    "whole milk"
+  ],
+  "1623_2015-01-18": [
+    "specialty chocolate",
+    "roll products ",
+    "ham",
+    "frozen meals"
+  ],
+  "1625_2014-12-24": [
+    "frozen meals",
+    "jam"
+  ],
+  "1628_2014-11-13": [
+    "hamburger meat",
+    "white bread"
+  ],
+  "1632_2014-05-30": [
+    "white bread",
+    "misc. beverages"
+  ],
+  "1634_2015-01-16": [
+    "brown bread",
+    "yogurt"
+  ],
+  "1635_2014-12-20": [
+    "shopping bags",
+    "whole milk"
+  ],
+  "1636_2014-09-07": [
+    "white bread",
+    "hygiene articles"
+  ],
+  "1639_2014-08-23": [
+    "ham",
+    "female sanitary products"
+  ],
+  "1640_2014-08-03": [
+    "newspapers",
+    "root vegetables"
+  ],
+  "1641_2014-11-08": [
+    "bottled beer",
+    "hygiene articles"
+  ],
+  "1644_2014-07-13": [
+    "brown bread",
+    "salty snack",
+    "napkins"
+  ],
+  "1645_2014-05-10": [
+    "waffles",
+    "whole milk"
+  ],
+  "1646_2014-11-15": [
+    "beverages",
+    "sparkling wine"
+  ],
+  "1647_2014-11-20": [
+    "specialty chocolate",
+    "flour"
+  ],
+  "1648_2015-01-05": [
+    "pork",
+    "pastry"
+  ],
+  "1649_2014-11-24": [
+    "newspapers",
+    "yogurt",
+    "rolls/buns"
+  ],
+  "1650_2014-06-27": [
+    "cream cheese ",
+    "misc. beverages"
+  ],
+  "1651_2014-08-20": [
+    "canned vegetables",
+    "cat food"
+  ],
+  "1652_2014-06-19": [
+    "curd",
+    "beef"
+  ],
+  "1653_2014-12-27": [
+    "newspapers",
+    "cream cheese ",
+    "long life bakery product"
+  ],
+  "1654_2014-11-26": [
+    "other vegetables",
+    "pip fruit"
+  ],
+  "1655_2014-12-01": [
+    "rolls/buns",
+    "bottled water"
+  ],
+  "1657_2014-12-05": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "1658_2014-09-08": [
+    "newspapers",
+    "soda",
+    "female sanitary products"
+  ],
+  "1659_2014-12-25": [
+    "frozen dessert",
+    "brown bread"
+  ],
+  "1660_2014-06-15": [
+    "domestic eggs",
+    "sliced cheese",
+    "misc. beverages"
+  ],
+  "1661_2015-01-06": [
+    "packaged fruit/vegetables",
+    "pip fruit",
+    "root vegetables",
+    "sliced cheese"
+  ],
+  "1664_2015-01-04": [
+    "curd",
+    "whole milk",
+    "frankfurter",
+    "canned vegetables"
+  ],
+  "1674_2014-07-06": [
+    "detergent",
+    "soda",
+    "margarine",
+    "tropical fruit"
+  ],
+  "1676_2014-11-11": [
+    "other vegetables",
+    "tropical fruit"
+  ],
+  "1677_2014-08-24": [
+    "yogurt",
+    "seasonal products"
+  ],
+  "1679_2014-10-23": [
+    "cake bar",
+    "rolls/buns"
+  ],
+  "1680_2014-10-12": [
+    "specialty bar",
+    "soda"
+  ],
+  "1681_2014-06-07": [
+    "popcorn",
+    "rolls/buns",
+    "bottled water",
+    "pip fruit"
+  ],
+  "1682_2015-01-11": [
+    "canned beer",
+    "seasonal products"
+  ],
+  "1684_2014-02-26": [
+    "canned beer",
+    "white bread"
+  ],
+  "1685_2014-10-18": [
+    "waffles",
+    "whole milk"
+  ],
+  "1686_2014-12-04": [
+    "whole milk",
+    "candles"
+  ],
+  "1687_2014-10-17": [
+    "coffee",
+    "pastry"
+  ],
+  "1689_2014-09-19": [
+    "whole milk",
+    "beef",
+    "pastry"
+  ],
+  "1690_2014-10-03": [
+    "yogurt",
+    "citrus fruit"
+  ],
+  "1692_2014-12-06": [
+    "cake bar",
+    "chewing gum"
+  ],
+  "1693_2014-09-02": [
+    "cream cheese ",
+    "rolls/buns",
+    "UHT-milk",
+    "other vegetables"
+  ],
+  "1694_2014-07-27": [
+    "rolls/buns",
+    "butter"
+  ],
+  "1696_2015-01-03": [
+    "newspapers",
+    "chewing gum",
+    "whole milk"
+  ],
+  "1697_2014-06-15": [
+    "other vegetables",
+    "pip fruit"
+  ],
+  "1702_2015-01-14": [
+    "whole milk",
+    "bottled beer"
+  ],
+  "1706_2014-11-13": [
+    "soda",
+    "root vegetables",
+    "grapes"
+  ],
+  "1711_2014-12-15": [
+    "yogurt"
+  ],
+  "1712_2014-12-04": [
+    "cream cheese ",
+    "rice"
+  ],
+  "1715_2014-10-18": [
+    "newspapers",
+    "domestic eggs"
+  ],
+  "1716_2014-11-08": [
+    "fruit/vegetable juice",
+    "meat",
+    "bottled water",
+    "long life bakery product"
+  ],
+  "1717_2014-07-26": [
+    "pip fruit",
+    "bottled water"
+  ],
+  "1719_2014-11-14": [
+    "whole milk",
+    "bottled water"
+  ],
+  "1722_2014-12-07": [
+    "soda",
+    "whole milk"
+  ],
+  "1723_2014-07-21": [
+    "newspapers",
+    "shopping bags",
+    "citrus fruit"
+  ],
+  "1724_2014-04-04": [
+    "chicken",
+    "salty snack",
+    "coffee"
+  ],
+  "1725_2014-10-27": [
+    "yogurt",
+    "tropical fruit"
+  ],
+  "1726_2014-05-15": [
+    "detergent",
+    "pastry"
+  ],
+  "1728_2014-10-18": [
+    "root vegetables",
+    "processed cheese"
+  ],
+  "1729_2015-01-08": [
+    "whole milk",
+    "frankfurter"
+  ],
+  "1731_2014-12-28": [
+    "salt",
+    "sausage"
+  ],
+  "1733_2014-02-27": [
+    "newspapers",
+    "rolls/buns",
+    "white bread",
+    "mustard"
+  ],
+  "1734_2014-08-17": [
+    "other vegetables",
+    "beverages"
+  ],
+  "1735_2014-06-08": [
+    "soda",
+    "napkins"
+  ],
+  "1736_2014-11-03": [
+    "soda",
+    "butter"
+  ],
+  "1737_2014-08-28": [
+    "detergent",
+    "sausage"
+  ],
+  "1738_2014-10-08": [
+    "liquor (appetizer)",
+    "whole milk"
+  ],
+  "1740_2014-11-21": [
+    "ham",
+    "curd cheese"
+  ],
+  "1741_2014-12-07": [
+    "other vegetables",
+    "liver loaf"
+  ],
+  "1743_2014-01-17": [
+    "frankfurter",
+    "whipped/sour cream"
+  ],
+  "1746_2014-10-23": [
+    "cream cheese ",
+    "tropical fruit"
+  ],
+  "1747_2014-12-17": [
+    "canned beer",
+    "red/blush wine"
+  ],
+  "1748_2014-12-03": [
+    "soda",
+    "root vegetables"
+  ],
+  "1749_2014-09-12": [
+    "ham",
+    "baking powder",
+    "onions"
+  ],
+  "1750_2014-09-06": [
+    "newspapers",
+    "whole milk",
+    "baking powder"
+  ],
+  "1751_2014-04-09": [
+    "herbs",
+    "oil",
+    "whipped/sour cream",
+    "flour"
+  ],
+  "1752_2014-12-07": [
+    "canned beer",
+    "other vegetables"
+  ],
+  "1753_2014-12-12": [
+    "whole milk",
+    "rolls/buns"
+  ],
+  "1754_2014-07-06": [
+    "bottled water",
+    "pastry"
+  ],
+  "1755_2014-04-06": [
+    "waffles",
+    "spread cheese"
+  ],
+  "1756_2014-09-22": [
+    "skin care",
+    "UHT-milk"
+  ],
+  "1758_2014-12-24": [
+    "salt",
+    "whole milk",
+    "pickled vegetables"
+  ],
+  "1759_2014-07-28": [
+    "bottled water",
+    "flour"
+  ],
+  "1760_2014-09-21": [
+    "soda",
+    "fruit/vegetable juice"
+  ],
+  "1761_2014-10-29": [
+    "pudding powder",
+    "mustard"
+  ],
+  "1764_2014-09-20": [
+    "yogurt",
+    "butter",
+    "ketchup"
+  ],
+  "1765_2014-12-06": [
+    "pasta",
+    "meat",
+    "baking powder"
+  ],
+  "1767_2014-12-18": [
+    "shopping bags",
+    "bottled water"
+  ],
+  "1768_2014-11-20": [
+    "fruit/vegetable juice",
+    "margarine"
+  ],
+  "1770_2014-09-14": [
+    "waffles",
+    "rolls/buns"
+  ],
+  "1772_2014-11-13": [
+    "yogurt",
+    "canned beer"
+  ],
+  "1773_2015-01-11": [
+    "detergent",
+    "pip fruit",
+    "whole milk"
+  ],
+  "1774_2014-11-26": [
+    "salty snack",
+    "white bread",
+    "yogurt"
+  ],
+  "1778_2014-12-22": [
+    "whole milk",
+    "beef"
+  ],
+  "1779_2014-07-06": [
+    "long life bakery product",
+    "rolls/buns"
+  ],
+  "1781_2014-03-15": [
+    "yogurt",
+    "specialty bar"
+  ],
+  "1782_2015-01-08": [
+    "napkins",
+    "coffee"
+  ],
+  "1783_2014-12-05": [
+    "specialty chocolate",
+    "bottled water"
+  ],
+  "1785_2014-05-25": [
+    "curd",
+    "other vegetables"
+  ],
+  "1786_2014-12-06": [
+    "yogurt",
+    "frozen vegetables"
+  ],
+  "1788_2014-09-19": [
+    "brown bread"
+  ],
+  "1789_2014-10-09": [
+    "newspapers",
+    "whole milk"
+  ],
+  "1791_2014-05-08": [
+    "pork",
+    "cream cheese "
+  ],
+  "1792_2014-11-24": [
+    "chocolate marshmallow",
+    "frozen vegetables"
+  ],
+  "1793_2014-12-14": [
+    "frozen vegetables"
+  ],
+  "1796_2014-11-15": [
+    "rolls/buns",
+    "whole milk"
+  ],
+  "1797_2014-11-14": [
+    "root vegetables",
+    "sliced cheese"
+  ],
+  "1798_2015-01-01": [
+    "curd",
+    "beef",
+    "pastry"
+  ],
+  "1801_2014-11-19": [
+    "rolls/buns",
+    "pastry"
+  ],
+  "1803_2014-10-25": [
+    "chocolate",
+    "citrus fruit"
+  ],
+  "1805_2014-11-11": [
+    "soda",
+    "mustard"
+  ],
+  "1808_2014-12-15": [
+    "citrus fruit",
+    "sugar",
+    "napkins"
+  ],
+  "1809_2014-10-27": [
+    "cream cheese ",
+    "whole milk",
+    "soda"
+  ],
+  "1810_2014-10-13": [
+    "newspapers",
+    "rolls/buns",
+    "cat food"
+  ],
+  "1811_2014-11-13": [
+    "butter milk",
+    "domestic eggs",
+    "tropical fruit",
+    "ice cream"
+  ],
+  "1814_2014-07-25": [
+    "fruit/vegetable juice",
+    "whole milk"
+  ],
+  "1815_2015-01-13": [
+    "sausage",
+    "bottled water"
+  ],
+  "1816_2014-09-01": [
+    "soda",
+    "whole milk"
+  ],
+  "1817_2014-11-15": [
+    "whole milk",
+    "beef",
+    "canned vegetables"
+  ],
+  "1818_2014-12-04": [
+    "butter milk",
+    "frozen vegetables"
+  ],
+  "1820_2014-11-01": [
+    "butter milk",
+    "citrus fruit"
+  ],
+  "1822_2014-05-06": [
+    "pasta",
+    "soda",
+    "citrus fruit",
+    "candy"
+  ],
+  "1824_2015-01-11": [
+    "yogurt",
+    "sugar",
+    "bottled beer"
+  ],
+  "1825_2014-07-01": [
+    "long life bakery product",
+    "whole milk",
+    "UHT-milk"
+  ],
+  "1827_2015-01-07": [
+    "yogurt",
+    "soda",
+    "whole milk"
+  ],
+  "1828_2014-12-06": [
+    "dessert",
+    "canned beer"
+  ],
+  "1829_2014-12-10": [
+    "beverages",
+    "mustard"
+  ],
+  "1830_2015-01-16": [
+    "other vegetables",
+    "ham"
+  ],
+  "1831_2014-12-13": [
+    "chocolate",
+    "other vegetables"
+  ],
+  "1832_2014-08-21": [
+    "coffee",
+    "bottled beer",
+    "whole milk"
+  ],
+  "1835_2015-01-04": [
+    "pip fruit",
+    "root vegetables"
+  ],
+  "1836_2014-10-23": [
+    "specialty chocolate",
+    "margarine"
+  ],
+  "1838_2014-06-19": [
+    "salty snack",
+    "pip fruit"
+  ],
+  "1839_2014-10-04": [
+    "berries",
+    "bottled beer"
+  ],
+  "1840_2014-12-28": [
+    "misc. beverages",
+    "instant coffee",
+    "grapes"
+  ],
+  "1842_2014-05-30": [
+    "newspapers",
+    "vinegar"
+  ],
+  "1844_2014-10-04": [
+    "yogurt",
+    "citrus fruit"
+  ],
+  "1847_2014-10-01": [
+    "canned beer",
+    "rolls/buns"
+  ],
+  "1849_2014-06-10": [
+    "shopping bags",
+    "whole milk",
+    "butter"
+  ],
+  "1851_2014-12-02": [
+    "curd",
+    "root vegetables"
+  ],
+  "1852_2014-08-09": [
+    "shopping bags",
+    "cake bar"
+  ],
+  "1853_2014-07-06": [
+    "bottled water",
+    "hygiene articles",
+    "candy"
+  ],
+  "1854_2014-11-03": [
+    "bottled water",
+    "frozen fish"
+  ],
+  "1855_2014-09-26": [
+    "salty snack",
+    "hamburger meat"
+  ],
+  "1856_2014-10-23": [
+    "curd",
+    "frankfurter"
+  ],
+  "1859_2014-05-11": [
+    "softener",
+    "tropical fruit",
+    "butter milk"
+  ],
+  "1860_2014-07-26": [
+    "semi-finished bread",
+    "soda"
+  ],
+  "1862_2014-10-27": [
+    "pasta",
+    "domestic eggs"
+  ],
+  "1863_2014-11-24": [
+    "newspapers",
+    "UHT-milk",
+    "rice"
+  ],
+  "1864_2014-04-29": [
+    "softener",
+    "domestic eggs"
+  ],
+  "1865_2014-06-06": [
+    "brown bread",
+    "bottled beer"
+  ],
+  "1866_2014-09-02": [
+    "specialty chocolate",
+    "roll products "
+  ],
+  "1867_2014-11-19": [
+    "newspapers",
+    "yogurt",
+    "cream cheese ",
+    "detergent"
+  ],
+  "1868_2014-03-19": [
+    "chocolate",
+    "fruit/vegetable juice",
+    "ham"
+  ],
+  "1869_2014-12-20": [
+    "oil",
+    "misc. beverages"
+  ],
+  "1870_2014-10-06": [
+    "specialty chocolate",
+    "yogurt",
+    "rolls/buns",
+    "liquor (appetizer)"
+  ],
+  "1877_2014-09-30": [
+    "shopping bags",
+    "whole milk",
+    "rolls/buns"
+  ],
+  "1878_2014-09-06": [
+    "canned beer",
+    "rolls/buns"
+  ],
+  "1879_2014-08-15": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "1881_2014-08-18": [
+    "oil",
+    "soda"
+  ],
+  "1883_2014-08-06": [
+    "pork",
+    "butter"
+  ],
+  "1887_2014-10-18": [
+    "berries",
+    "bottled water"
+  ],
+  "1888_2014-10-30": [
+    "chicken",
+    "pastry"
+  ],
+  "1889_2014-11-16": [
+    "root vegetables"
+  ],
+  "1890_2014-12-09": [
+    "roll products ",
+    "rice"
+  ],
+  "1891_2014-05-07": [
+    "UHT-milk",
+    "whole milk",
+    "bottled water",
+    "candy"
+  ],
+  "1892_2014-07-21": [
+    "pastry",
+    "butter"
+  ],
+  "1893_2015-01-18": [
+    "beef",
+    "root vegetables"
+  ],
+  "1895_2014-11-23": [
+    "long life bakery product",
+    "soft cheese"
+  ],
+  "1896_2014-12-16": [
+    "dish cleaner",
+    "light bulbs",
+    "butter"
+  ],
+  "1897_2014-12-09": [
+    "brown bread",
+    "sausage"
+  ],
+  "1899_2014-09-12": [
+    "dessert",
+    "chewing gum"
+  ],
+  "1900_2014-03-15": [
+    "shopping bags",
+    "long life bakery product",
+    "liquor",
+    "vinegar"
+  ],
+  "1902_2015-01-12": [
+    "chicken",
+    "butter"
+  ],
+  "1903_2014-08-15": [
+    "whole milk",
+    "dish cleaner"
+  ],
+  "1904_2014-04-24": [
+    "newspapers",
+    "other vegetables"
+  ],
+  "1905_2014-08-25": [
+    "yogurt",
+    "chewing gum"
+  ],
+  "1908_2014-12-19": [
+    "soft cheese",
+    "frozen vegetables"
+  ],
+  "1910_2014-05-20": [
+    "other vegetables",
+    "rolls/buns"
+  ],
+  "1912_2014-10-19": [
+    "dessert",
+    "misc. beverages"
+  ],
+  "1913_2014-12-14": [
+    "UHT-milk",
+    "rolls/buns"
+  ],
+  "1917_2014-09-10": [
+    "curd",
+    "pastry"
+  ],
+  "1921_2014-12-12": [
+    "salt",
+    "napkins"
+  ],
+  "1922_2014-07-11": [
+    "root vegetables",
+    "pastry"
+  ],
+  "1923_2014-11-20": [
+    "domestic eggs",
+    "cream cheese "
+  ],
+  "1924_2014-11-22": [
+    "shopping bags",
+    "root vegetables"
+  ],
+  "1929_2014-11-15": [
+    "butter",
+    "candy"
+  ],
+  "1930_2015-01-03": [
+    "soda",
+    "tropical fruit"
+  ],
+  "1931_2014-08-12": [
+    "soft cheese",
+    "pastry",
+    "whole milk"
+  ],
+  "1932_2014-06-19": [
+    "fruit/vegetable juice",
+    "bottled water"
+  ],
+  "1935_2014-08-28": [
+    "pip fruit",
+    "whole milk",
+    "tropical fruit"
+  ],
+  "1937_2015-01-19": [
+    "citrus fruit",
+    "pip fruit"
+  ],
+  "1938_2014-09-25": [
+    "soda",
+    "bottled water",
+    "butter"
+  ],
+  "1939_2014-03-28": [
+    "shopping bags",
+    "yogurt",
+    "frozen vegetables"
+  ],
+  "1940_2014-09-26": [
+    "chocolate",
+    "hygiene articles"
+  ],
+  "1942_2014-10-15": [
+    "hamburger meat",
+    "onions"
+  ],
+  "1943_2015-01-14": [
+    "cocoa drinks",
+    "chicken",
+    "whole milk",
+    "frankfurter",
+    "UHT-milk",
+    "canned fish",
+    "onions",
+    "bottled beer"
+  ],
+  "1945_2014-05-11": [
+    "yogurt",
+    "whipped/sour cream"
+  ],
+  "1946_2014-11-14": [
+    "dessert",
+    "shopping bags"
+  ],
+  "1947_2014-07-16": [
+    "whole milk",
+    "bottled beer"
+  ],
+  "1948_2014-09-23": [
+    "herbs",
+    "whole milk"
+  ],
+  "1949_2014-10-18": [
+    "semi-finished bread",
+    "napkins"
+  ],
+  "1950_2014-11-10": [
+    "rolls/buns",
+    "sugar"
+  ],
+  "1951_2014-07-27": [
+    "napkins",
+    "bottled beer"
+  ],
+  "1954_2014-08-16": [
+    "hamburger meat",
+    "coffee"
+  ],
+  "1955_2014-11-16": [
+    "yogurt",
+    "rolls/buns"
+  ],
+  "1959_2014-03-23": [
+    "pip fruit",
+    "rolls/buns"
+  ],
+  "1961_2014-06-07": [
+    "citrus fruit",
+    "rolls/buns"
+  ],
+  "1964_2014-08-30": [
+    "shopping bags",
+    "pickled vegetables"
+  ],
+  "1966_2014-10-23": [
+    "other vegetables",
+    "white bread"
+  ],
+  "1967_2015-01-20": [
+    "brown bread",
+    "other vegetables",
+    "whole milk"
+  ],
+  "1969_2014-10-02": [
+    "pork",
+    "rolls/buns"
+  ],
+  "1970_2014-11-06": [
+    "ham",
+    "pastry"
+  ],
+  "1978_2014-10-15": [
+    "turkey",
+    "yogurt"
+  ],
+  "1979_2014-12-16": [
+    "butter milk",
+    "salty snack"
+  ],
+  "1980_2014-12-09": [
+    "domestic eggs",
+    "frozen vegetables"
+  ],
+  "1983_2014-07-21": [
+    "whole milk"
+  ],
+  "1985_2014-06-06": [
+    "butter milk",
+    "bottled water"
+  ],
+  "1987_2014-12-26": [
+    "chocolate",
+    "long life bakery product"
+  ],
+  "1990_2015-01-08": [
+    "citrus fruit",
+    "tropical fruit"
+  ],
+  "1991_2014-12-25": [
+    "butter",
+    "fruit/vegetable juice",
+    "flour"
+  ],
+  "1995_2014-10-29": [
+    "brown bread",
+    "pet care"
+  ],
+  "1996_2014-09-22": [
+    "soda",
+    "rolls/buns"
+  ],
+  "1998_2014-10-13": [
+    "pork",
+    "ice cream"
+  ],
+  "1999_2014-05-31": [
+    "dog food",
+    "tropical fruit",
+    "butter"
+  ],
+  "2001_2014-11-14": [
+    "beef",
+    "napkins"
+  ],
+  "2004_2014-09-14": [
+    "pip fruit",
+    "beverages",
+    "pastry"
+  ],
+  "2005_2014-11-22": [
+    "brown bread",
+    "rolls/buns"
+  ],
+  "2009_2014-11-12": [
+    "prosecco",
+    "rolls/buns"
+  ],
+  "2010_2014-06-01": [
+    "yogurt",
+    "other vegetables"
+  ],
+  "2011_2014-09-25": [
+    "yogurt",
+    "beverages"
+  ],
+  "2014_2014-12-19": [
+    "yogurt",
+    "pip fruit",
+    "syrup"
+  ],
+  "2017_2014-12-23": [
+    "bottled water",
+    "bottled beer",
+    "root vegetables"
+  ],
+  "2018_2014-05-02": [
+    "rolls/buns",
+    "tropical fruit"
+  ],
+  "2019_2014-10-06": [
+    "citrus fruit",
+    "candy"
+  ],
+  "2020_2014-11-04": [
+    "hamburger meat",
+    "rolls/buns"
+  ],
+  "2022_2014-03-28": [
+    "newspapers",
+    "UHT-milk",
+    "curd cheese"
+  ],
+  "2024_2014-07-21": [
+    "dessert",
+    "yogurt"
+  ],
+  "2025_2014-11-13": [
+    "coffee",
+    "bottled beer"
+  ],
+  "2026_2014-11-14": [
+    "napkins",
+    "misc. beverages"
+  ],
+  "2027_2014-09-10": [
+    "cling film/bags",
+    "rolls/buns"
+  ],
+  "2028_2015-01-03": [
+    "coffee",
+    "frozen vegetables"
+  ],
+  "2029_2014-10-21": [
+    "beef",
+    "dish cleaner",
+    "ice cream"
+  ],
+  "2030_2014-06-09": [
+    "newspapers",
+    "shopping bags"
+  ],
+  "2031_2014-08-01": [
+    "detergent",
+    "rolls/buns"
+  ],
+  "2033_2014-11-29": [
+    "hamburger meat",
+    "whole milk",
+    "processed cheese"
+  ],
+  "2034_2014-12-22": [
+    "meat",
+    "rolls/buns"
+  ],
+  "2035_2014-10-08": [
+    "white bread",
+    "frozen vegetables"
+  ],
+  "2036_2014-08-27": [
+    "ice cream",
+    "onions"
+  ],
+  "2037_2014-05-05": [
+    "curd",
+    "citrus fruit",
+    "napkins"
+  ],
+  "2038_2014-10-28": [
+    "rolls/buns",
+    "beef"
+  ],
+  "2040_2014-10-04": [
+    "hard cheese",
+    "newspapers"
+  ],
+  "2041_2014-10-09": [
+    "dessert",
+    "zwieback"
+  ],
+  "2042_2014-12-19": [
+    "newspapers",
+    "curd"
+  ],
+  "2043_2014-07-07": [
+    "shopping bags",
+    "fruit/vegetable juice"
+  ],
+  "2044_2014-11-26": [
+    "pip fruit",
+    "pastry"
+  ],
+  "2045_2014-11-04": [
+    "yogurt",
+    "whole milk"
+  ],
+  "2047_2014-12-05": [
+    "newspapers",
+    "sausage"
+  ],
+  "2048_2014-12-17": [
+    "other vegetables",
+    "rolls/buns"
+  ],
+  "2049_2014-02-09": [
+    "dessert",
+    "ham"
+  ],
+  "2051_2014-03-12": [
+    "newspapers",
+    "other vegetables",
+    "rolls/buns"
+  ],
+  "2054_2014-11-21": [
+    "shopping bags",
+    "chewing gum",
+    "yogurt"
+  ],
+  "2055_2014-12-14": [
+    "newspapers",
+    "soda",
+    "sausage"
+  ],
+  "2056_2014-12-26": [
+    "citrus fruit",
+    "soda"
+  ],
+  "2058_2014-08-05": [
+    "pip fruit",
+    "hygiene articles",
+    "frozen vegetables"
+  ],
+  "2059_2014-07-09": [
+    "whole milk",
+    "napkins"
+  ],
+  "2063_2014-05-26": [
+    "other vegetables",
+    "onions"
+  ],
+  "2064_2014-06-04": [
+    "hard cheese",
+    "salad dressing"
+  ],
+  "2065_2014-11-28": [
+    "waffles",
+    "soda",
+    "whipped/sour cream"
+  ],
+  "2066_2014-12-29": [
+    "hard cheese",
+    "yogurt",
+    "specialty chocolate",
+    "pastry"
+  ],
+  "2067_2014-10-10": [
+    "jam",
+    "root vegetables"
+  ],
+  "2068_2014-08-22": [
+    "rolls/buns",
+    "whole milk"
+  ],
+  "2069_2014-12-11": [
+    "newspapers",
+    "canned fish"
+  ],
+  "2070_2014-12-20": [
+    "frozen dessert",
+    "pot plants"
+  ],
+  "2071_2014-07-31": [
+    "pip fruit",
+    "butter"
+  ],
+  "2072_2014-12-08": [
+    "chocolate",
+    "yogurt",
+    "processed cheese"
+  ],
+  "2075_2015-01-20": [
+    "root vegetables",
+    "baking powder"
+  ],
+  "2076_2014-10-13": [
+    "whole milk",
+    "bottled beer"
+  ],
+  "2077_2015-01-03": [
+    "whole milk",
+    "beef"
+  ],
+  "2079_2014-08-26": [
+    "turkey",
+    "domestic eggs"
+  ],
+  "2081_2014-05-18": [
+    "hamburger meat",
+    "whole milk"
+  ],
+  "2086_2014-08-01": [
+    "root vegetables",
+    "butter"
+  ],
+  "2087_2014-08-21": [
+    "seasonal products",
+    "pickled vegetables"
+  ],
+  "2089_2014-10-08": [
+    "pasta",
+    "bottled beer"
+  ],
+  "2092_2014-12-17": [
+    "salty snack",
+    "bottled water"
+  ],
+  "2093_2014-12-24": [
+    "specialty bar",
+    "whipped/sour cream"
+  ],
+  "2094_2014-07-05": [
+    "shopping bags",
+    "other vegetables"
+  ],
+  "2097_2015-01-10": [
+    "chicken",
+    "yogurt",
+    "newspapers",
+    "domestic eggs",
+    "rolls/buns",
+    "shopping bags"
+  ],
+  "2098_2014-10-20": [
+    "pastry",
+    "flour",
+    "misc. beverages"
+  ],
+  "2100_2014-05-13": [
+    "condensed milk",
+    "yogurt"
+  ],
+  "2102_2014-07-21": [
+    "yogurt",
+    "butter"
+  ],
+  "2104_2014-09-25": [
+    "berries",
+    "whole milk"
+  ],
+  "2106_2014-06-09": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "2107_2015-01-03": [
+    "margarine",
+    "frankfurter",
+    "brown bread",
+    "soda",
+    "coffee",
+    "butter",
+    "sugar",
+    "bottled beer"
+  ],
+  "2108_2015-01-10": [
+    "tropical fruit",
+    "mayonnaise"
+  ],
+  "2109_2014-06-22": [
+    "bottled water",
+    "bottled beer"
+  ],
+  "2111_2014-12-11": [
+    "shopping bags",
+    "domestic eggs"
+  ],
+  "2112_2014-06-06": [
+    "popcorn",
+    "whole milk"
+  ],
+  "2120_2014-07-07": [
+    "whole milk",
+    "bottled beer"
+  ],
+  "2121_2014-04-22": [
+    "flower (seeds)",
+    "soda"
+  ],
+  "2122_2014-09-16": [
+    "domestic eggs",
+    "rolls/buns"
+  ],
+  "2127_2015-01-01": [
+    "pork",
+    "pickled vegetables"
+  ],
+  "2129_2014-05-09": [
+    "condensed milk",
+    "tropical fruit"
+  ],
+  "2131_2014-12-12": [
+    "bottled water",
+    "sparkling wine"
+  ],
+  "2132_2014-12-19": [
+    "newspapers",
+    "whipped/sour cream"
+  ],
+  "2133_2014-08-11": [
+    "fruit/vegetable juice",
+    "tropical fruit"
+  ],
+  "2137_2014-04-25": [
+    "napkins",
+    "canned vegetables"
+  ],
+  "2138_2014-12-12": [
+    "chocolate",
+    "rolls/buns"
+  ],
+  "2139_2014-10-02": [
+    "other vegetables",
+    "margarine"
+  ],
+  "2141_2014-04-24": [
+    "sugar",
+    "rolls/buns",
+    "butter"
+  ],
+  "2142_2014-10-25": [
+    "tropical fruit",
+    "frozen vegetables"
+  ],
+  "2144_2014-07-13": [
+    "pork",
+    "sweet spreads"
+  ],
+  "2146_2014-10-22": [
+    "whole milk",
+    "organic products"
+  ],
+  "2147_2014-09-15": [
+    "brown bread",
+    "salty snack",
+    "canned vegetables"
+  ],
+  "2148_2014-11-20": [
+    "domestic eggs",
+    "tropical fruit"
+  ],
+  "2149_2014-08-16": [
+    "hamburger meat",
+    "sugar"
+  ],
+  "2151_2014-11-04": [
+    "shopping bags",
+    "tropical fruit"
+  ],
+  "2152_2014-11-23": [
+    "soda",
+    "whole milk",
+    "bottled water"
+  ],
+  "2153_2014-12-14": [
+    "domestic eggs",
+    "chewing gum"
+  ],
+  "2154_2014-10-11": [
+    "yogurt",
+    "soda"
+  ],
+  "2155_2014-11-11": [
+    "salad dressing",
+    "frozen vegetables"
+  ],
+  "2156_2014-08-05": [
+    "domestic eggs",
+    "rolls/buns"
+  ],
+  "2157_2014-06-26": [
+    "canned beer",
+    "beef"
+  ],
+  "2158_2015-01-08": [
+    "whole milk",
+    "ham",
+    "rolls/buns",
+    "fruit/vegetable juice",
+    "pickled vegetables",
+    "sliced cheese",
+    "misc. beverages"
+  ],
+  "2160_2014-07-30": [
+    "shopping bags",
+    "margarine"
+  ],
+  "2161_2014-09-24": [
+    "margarine",
+    "root vegetables"
+  ],
+  "2162_2014-05-25": [
+    "dog food",
+    "whole milk"
+  ],
+  "2164_2014-11-19": [
+    "whole milk",
+    "bottled beer"
+  ],
+  "2165_2014-10-27": [
+    "oil",
+    "root vegetables"
+  ],
+  "2166_2014-11-10": [
+    "brown bread",
+    "bottled water"
+  ],
+  "2168_2014-07-02": [
+    "domestic eggs",
+    "grapes"
+  ],
+  "2169_2015-01-11": [
+    "detergent",
+    "salty snack"
+  ],
+  "2174_2014-09-18": [
+    "rolls/buns",
+    "cereals"
+  ],
+  "2175_2014-12-26": [
+    "chicken",
+    "shopping bags"
+  ],
+  "2176_2014-09-27": [
+    "hard cheese",
+    "rolls/buns"
+  ],
+  "2177_2014-08-19": [
+    "coffee",
+    "soups"
+  ],
+  "2178_2014-11-10": [
+    "male cosmetics",
+    "beef"
+  ],
+  "2180_2014-12-18": [
+    "other vegetables",
+    "butter"
+  ],
+  "2181_2014-05-04": [
+    "soda",
+    "bottled water"
+  ],
+  "2183_2014-12-29": [
+    "yogurt",
+    "whipped/sour cream"
+  ],
+  "2184_2014-12-18": [
+    "soda",
+    "onions"
+  ],
+  "2185_2014-05-25": [
+    "citrus fruit",
+    "other vegetables"
+  ],
+  "2186_2015-01-09": [
+    "soda",
+    "whipped/sour cream"
+  ],
+  "2187_2014-12-26": [
+    "specialty bar",
+    "domestic eggs"
+  ],
+  "2193_2014-12-04": [
+    "dessert",
+    "beef"
+  ],
+  "2194_2014-09-09": [
+    "shopping bags",
+    "hygiene articles"
+  ],
+  "2195_2014-09-19": [
+    "shopping bags",
+    "other vegetables"
+  ],
+  "2196_2014-12-02": [
+    "yogurt",
+    "curd",
+    "candy",
+    "whole milk"
+  ],
+  "2199_2014-02-06": [
+    "citrus fruit",
+    "rolls/buns"
+  ],
+  "2201_2014-05-30": [
+    "whole milk",
+    "ice cream"
+  ],
+  "2204_2014-09-10": [
+    "brown bread",
+    "popcorn",
+    "long life bakery product"
+  ],
+  "2207_2014-09-04": [
+    "pip fruit",
+    "rolls/buns"
+  ],
+  "2209_2014-12-16": [
+    "whole milk",
+    "root vegetables"
+  ],
+  "2210_2015-01-13": [
+    "specialty bar",
+    "whole milk",
+    "frankfurter",
+    "dishes",
+    "rice"
+  ],
+  "2215_2014-12-09": [
+    "newspapers",
+    "hamburger meat"
+  ],
+  "2217_2014-09-14": [
+    "long life bakery product",
+    "candy"
+  ],
+  "2218_2014-12-25": [
+    "brown bread",
+    "whole milk"
+  ],
+  "2219_2014-09-13": [
+    "margarine",
+    "whipped/sour cream"
+  ],
+  "2222_2014-07-31": [
+    "seasonal products",
+    "sugar"
+  ],
+  "2225_2014-10-13": [
+    "hard cheese",
+    "bottled water"
+  ],
+  "2226_2014-06-09": [
+    "whole milk",
+    "sliced cheese"
+  ],
+  "2229_2014-07-24": [
+    "fruit/vegetable juice",
+    "pastry"
+  ],
+  "2230_2014-11-14": [
+    "instant coffee",
+    "processed cheese"
+  ],
+  "2231_2014-06-22": [
+    "pastry",
+    "seasonal products",
+    "bottled beer",
+    "butter"
+  ],
+  "2232_2015-01-15": [
+    "specialty chocolate",
+    "whisky",
+    "root vegetables"
+  ],
+  "2233_2014-10-29": [
+    "frozen fish",
+    "pastry"
+  ],
+  "2235_2015-01-20": [
+    "meat",
+    "whole milk"
+  ],
+  "2236_2014-11-27": [
+    "citrus fruit",
+    "rolls/buns",
+    "candy",
+    "brandy"
+  ],
+  "2237_2014-10-10": [
+    "margarine",
+    "coffee"
+  ],
+  "2239_2014-11-23": [
+    "soda",
+    "other vegetables",
+    "domestic eggs"
+  ],
+  "2240_2015-01-12": [
+    "chicken",
+    "white bread"
+  ],
+  "2241_2014-02-17": [
+    "rolls/buns",
+    "root vegetables",
+    "frozen vegetables"
+  ],
+  "2242_2014-04-27": [
+    "liquor (appetizer)",
+    "yogurt",
+    "rolls/buns",
+    "napkins"
+  ],
+  "2243_2014-02-10": [
+    "meat",
+    "frozen potato products"
+  ],
+  "2244_2014-09-11": [
+    "citrus fruit",
+    "whole milk"
+  ],
+  "2247_2014-11-19": [
+    "salt",
+    "domestic eggs"
+  ],
+  "2251_2014-09-06": [
+    "pork",
+    "whole milk"
+  ],
+  "2252_2014-12-17": [
+    "shopping bags",
+    "soda",
+    "spices"
+  ],
+  "2254_2014-11-24": [
+    "whole milk",
+    "butter"
+  ],
+  "2255_2015-01-05": [
+    "oil",
+    "whole milk",
+    "tropical fruit",
+    "cookware"
+  ],
+  "2256_2014-11-24": [
+    "pastry",
+    "butter"
+  ],
+  "2258_2014-10-19": [
+    "soda"
+  ],
+  "2259_2014-06-16": [
+    "domestic eggs",
+    "frankfurter"
+  ],
+  "2261_2014-07-25": [
+    "brown bread",
+    "citrus fruit"
+  ],
+  "2262_2014-10-09": [
+    "waffles",
+    "whole milk"
+  ],
+  "2264_2014-10-17": [
+    "other vegetables",
+    "rolls/buns",
+    "coffee"
+  ],
+  "2269_2014-05-26": [
+    "bottled water",
+    "sliced cheese"
+  ],
+  "2270_2015-01-07": [
+    "specialty bar",
+    "whole milk",
+    "soda",
+    "misc. beverages",
+    "sausage"
+  ],
+  "2271_2015-01-17": [
+    "dog food",
+    "white bread"
+  ],
+  "2272_2014-07-25": [
+    "salty snack",
+    "yogurt"
+  ],
+  "2273_2014-11-25": [
+    "soda",
+    "whole milk"
+  ],
+  "2274_2014-11-04": [
+    "other vegetables",
+    "beef"
+  ],
+  "2276_2014-11-29": [
+    "yogurt",
+    "tropical fruit"
+  ],
+  "2277_2015-01-18": [
+    "shopping bags",
+    "canned beer",
+    "soda"
+  ],
+  "2278_2014-10-11": [
+    "soda",
+    "rolls/buns"
+  ],
+  "2279_2014-11-25": [
+    "bottled water",
+    "coffee"
+  ],
+  "2283_2015-01-18": [
+    "frozen meals",
+    "shopping bags",
+    "margarine",
+    "root vegetables"
+  ],
+  "2284_2014-06-01": [
+    "fruit/vegetable juice",
+    "tropical fruit"
+  ],
+  "2287_2014-10-27": [
+    "frozen meals",
+    "chocolate"
+  ],
+  "2288_2014-11-25": [
+    "brown bread",
+    "frozen dessert",
+    "herbs"
+  ],
+  "2289_2014-11-20": [
+    "whole milk",
+    "frankfurter"
+  ],
+  "2291_2014-09-29": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "2293_2014-08-26": [
+    "shopping bags",
+    "salty snack",
+    "house keeping products"
+  ],
+  "2294_2014-09-25": [
+    "specialty fat",
+    "whole milk"
+  ],
+  "2298_2014-12-17": [
+    "citrus fruit",
+    "napkins"
+  ],
+  "2299_2014-04-08": [
+    "shopping bags",
+    "cake bar",
+    "yogurt"
+  ],
+  "2301_2014-08-25": [
+    "yogurt",
+    "domestic eggs"
+  ],
+  "2303_2014-12-06": [
+    "hair spray",
+    "beef"
+  ],
+  "2306_2014-12-13": [
+    "newspapers",
+    "whole milk",
+    "white bread"
+  ],
+  "2308_2014-10-09": [
+    "yogurt",
+    "cream cheese ",
+    "bottled beer"
+  ],
+  "2309_2014-10-31": [
+    "chicken",
+    "frozen vegetables"
+  ],
+  "2310_2014-10-31": [
+    "root vegetables",
+    "instant coffee"
+  ],
+  "2311_2015-01-11": [
+    "other vegetables",
+    "sausage"
+  ],
+  "2312_2014-02-25": [
+    "canned beer",
+    "other vegetables"
+  ],
+  "2314_2014-09-02": [
+    "whole milk",
+    "candy"
+  ],
+  "2315_2014-10-27": [
+    "beverages",
+    "tea"
+  ],
+  "2316_2014-02-18": [
+    "shopping bags",
+    "rice"
+  ],
+  "2318_2015-01-16": [
+    "citrus fruit",
+    "other vegetables",
+    "root vegetables",
+    "whipped/sour cream"
+  ],
+  "2320_2014-08-12": [
+    "yogurt",
+    "margarine"
+  ],
+  "2322_2014-02-15": [
+    "cake bar",
+    "pip fruit"
+  ],
+  "2323_2014-12-27": [
+    "newspapers",
+    "soda",
+    "whole milk",
+    "whipped/sour cream"
+  ],
+  "2325_2014-10-22": [
+    "margarine",
+    "rolls/buns"
+  ],
+  "2330_2014-08-10": [
+    "sugar",
+    "whole milk"
+  ],
+  "2331_2014-12-28": [
+    "rolls/buns",
+    "bottled water"
+  ],
+  "2332_2014-09-14": [
+    "beverages",
+    "bathroom cleaner"
+  ],
+  "2334_2014-03-02": [
+    "yogurt",
+    "rolls/buns"
+  ],
+  "2336_2014-05-31": [
+    "shopping bags",
+    "salty snack",
+    "other vegetables"
+  ],
+  "2337_2014-10-14": [
+    "soda",
+    "whipped/sour cream"
+  ],
+  "2338_2014-11-03": [
+    "newspapers",
+    "white wine"
+  ],
+  "2339_2014-05-20": [
+    "ham",
+    "whole milk",
+    "baking powder",
+    "sliced cheese"
+  ],
+  "2340_2014-08-04": [
+    "rolls/buns",
+    "whole milk"
+  ],
+  "2341_2014-12-22": [
+    "shopping bags",
+    "rolls/buns"
+  ],
+  "2342_2014-12-19": [
+    "bottled water",
+    "root vegetables"
+  ],
+  "2343_2014-08-19": [
+    "canned beer",
+    "candles"
+  ],
+  "2344_2014-11-20": [
+    "frozen meals",
+    "whole milk",
+    "root vegetables",
+    "bottled beer"
+  ],
+  "2345_2014-11-30": [
+    "newspapers",
+    "other vegetables",
+    "rolls/buns"
+  ],
+  "2346_2014-12-23": [
+    "fruit/vegetable juice",
+    "liver loaf"
+  ],
+  "2348_2015-01-11": [
+    "curd cheese",
+    "whole milk",
+    "root vegetables",
+    "pastry"
+  ],
+  "2349_2014-12-10": [
+    "female sanitary products",
+    "dishes"
+  ],
+  "2350_2014-05-30": [
+    "rolls/buns",
+    "tidbits"
+  ],
+  "2351_2014-09-18": [
+    "domestic eggs",
+    "instant coffee"
+  ],
+  "2353_2014-11-14": [
+    "other vegetables",
+    "coffee"
+  ],
+  "2354_2014-08-20": [
+    "soda",
+    "Instant food products"
+  ],
+  "2355_2014-12-29": [
+    "whole milk",
+    "white bread"
+  ],
+  "2357_2014-11-27": [
+    "curd",
+    "fruit/vegetable juice"
+  ],
+  "2358_2014-08-08": [
+    "berries",
+    "UHT-milk"
+  ],
+  "2359_2014-09-26": [
+    "shopping bags",
+    "soda",
+    "coffee"
+  ],
+  "2360_2014-09-07": [
+    "rolls/buns",
+    "napkins"
+  ],
+  "2361_2014-12-15": [
+    "hard cheese",
+    "specialty bar"
+  ],
+  "2362_2014-10-27": [
+    "dessert",
+    "rolls/buns"
+  ],
+  "2365_2014-11-29": [
+    "waffles",
+    "hard cheese",
+    "misc. beverages"
+  ],
+  "2366_2015-01-18": [
+    "pip fruit",
+    "whole milk",
+    "frankfurter",
+    "candy"
+  ],
+  "2369_2014-07-23": [
+    "tropical fruit",
+    "fish"
+  ],
+  "2370_2015-01-14": [
+    "fruit/vegetable juice",
+    "root vegetables",
+    "bottled beer"
+  ],
+  "2371_2014-07-09": [
+    "meat",
+    "nuts/prunes"
+  ],
+  "2374_2014-09-16": [
+    "chocolate",
+    "rolls/buns",
+    "canned fish",
+    "artif. sweetener"
+  ],
+  "2375_2014-08-18": [
+    "pip fruit",
+    "whole milk"
+  ],
+  "2376_2014-08-11": [
+    "rolls/buns",
+    "whipped/sour cream"
+  ],
+  "2380_2015-01-06": [
+    "pork",
+    "whole milk"
+  ],
+  "2381_2015-01-13": [
+    "UHT-milk",
+    "sausage"
+  ],
+  "2383_2014-09-18": [
+    "root vegetables",
+    "butter"
+  ],
+  "2388_2014-11-19": [
+    "shopping bags",
+    "other vegetables"
+  ],
+  "2389_2014-10-13": [
+    "turkey",
+    "shopping bags",
+    "whole milk"
+  ],
+  "2390_2014-11-28": [
+    "other vegetables",
+    "rolls/buns"
+  ],
+  "2391_2014-01-18": [
+    "citrus fruit",
+    "whipped/sour cream"
+  ],
+  "2393_2014-09-26": [
+    "yogurt",
+    "cream cheese ",
+    "sugar"
+  ],
+  "2394_2014-10-18": [
+    "sausage",
+    "nuts/prunes"
+  ],
+  "2395_2014-11-17": [
+    "berries",
+    "napkins",
+    "bottled water"
+  ],
+  "2396_2014-12-04": [
+    "dessert",
+    "frankfurter"
+  ],
+  "2398_2014-07-23": [
+    "yogurt",
+    "coffee"
+  ],
+  "2399_2014-08-18": [
+    "whipped/sour cream",
+    "pastry"
+  ],
+  "2400_2014-08-26": [
+    "domestic eggs",
+    "white bread",
+    "pip fruit"
+  ],
+  "2401_2015-01-15": [
+    "whole milk",
+    "white bread"
+  ],
+  "2402_2014-09-29": [
+    "chocolate marshmallow",
+    "cream cheese ",
+    "pastry",
+    "spread cheese"
+  ],
+  "2403_2015-01-12": [
+    "yogurt",
+    "whipped/sour cream"
+  ],
+  "2406_2014-12-03": [
+    "salt",
+    "root vegetables"
+  ],
+  "2407_2014-08-01": [
+    "root vegetables",
+    "sliced cheese"
+  ],
+  "2408_2014-10-11": [
+    "brown bread",
+    "citrus fruit",
+    "cat food"
+  ],
+  "2411_2014-07-01": [
+    "canned beer",
+    "other vegetables"
+  ],
+  "2413_2014-09-16": [
+    "salty snack",
+    "yogurt"
+  ],
+  "2415_2014-09-14": [
+    "bottled water",
+    "pastry"
+  ],
+  "2421_2014-06-05": [
+    "other vegetables",
+    "UHT-milk"
+  ],
+  "2423_2014-12-02": [
+    "roll products ",
+    "seasonal products"
+  ],
+  "2424_2014-09-28": [
+    "butter milk",
+    "pickled vegetables"
+  ],
+  "2426_2014-12-09": [
+    "napkins",
+    "root vegetables"
+  ],
+  "2428_2014-11-02": [
+    "yogurt",
+    "margarine",
+    "sugar"
+  ],
+  "2430_2015-01-20": [
+    "specialty bar",
+    "fruit/vegetable juice"
+  ],
+  "2431_2014-02-28": [
+    "whole milk"
+  ],
+  "2432_2014-11-15": [
+    "pip fruit",
+    "whole milk"
+  ],
+  "2435_2014-10-30": [
+    "citrus fruit",
+    "cat food"
+  ],
+  "2437_2014-09-10": [
+    "meat spreads",
+    "root vegetables",
+    "white bread"
+  ],
+  "2439_2014-06-06": [
+    "shopping bags",
+    "coffee",
+    "bottled beer"
+  ],
+  "2440_2014-10-11": [
+    "domestic eggs",
+    "long life bakery product",
+    "onions",
+    "pastry"
+  ],
+  "2441_2014-12-10": [
+    "nut snack",
+    "root vegetables"
+  ],
+  "2443_2014-10-03": [
+    "rolls/buns",
+    "sausage"
+  ],
+  "2445_2014-10-29": [
+    "chicken",
+    "fruit/vegetable juice"
+  ],
+  "2446_2014-09-24": [
+    "cake bar",
+    "whole milk"
+  ],
+  "2447_2014-07-26": [
+    "chocolate",
+    "soda",
+    "rolls/buns",
+    "other vegetables"
+  ],
+  "2449_2014-07-08": [
+    "newspapers",
+    "canned beer"
+  ],
+  "2450_2014-11-29": [
+    "citrus fruit",
+    "meat"
+  ],
+  "2451_2014-09-28": [
+    "other vegetables",
+    "domestic eggs"
+  ],
+  "2452_2014-08-03": [
+    "margarine",
+    "coffee",
+    "sliced cheese"
+  ],
+  "2453_2014-07-05": [
+    "specialty cheese",
+    "sausage"
+  ],
+  "2454_2014-12-07": [
+    "other vegetables",
+    "red/blush wine"
+  ],
+  "2457_2014-12-13": [
+    "brown bread",
+    "fruit/vegetable juice"
+  ],
+  "2463_2014-06-12": [
+    "soda",
+    "root vegetables"
+  ],
+  "2464_2014-11-06": [
+    "other vegetables",
+    "sausage"
+  ],
+  "2470_2014-12-13": [
+    "pork",
+    "rolls/buns"
+  ],
+  "2472_2015-01-17": [
+    "processed cheese",
+    "liver loaf"
+  ],
+  "2473_2015-01-07": [
+    "meat",
+    "other vegetables",
+    "chewing gum"
+  ],
+  "2475_2014-09-29": [
+    "canned beer",
+    "rolls/buns"
+  ],
+  "2477_2014-09-30": [
+    "pip fruit",
+    "rolls/buns",
+    "whole milk"
+  ],
+  "2478_2014-02-25": [
+    "dessert",
+    "napkins",
+    "photo/film"
+  ],
+  "2479_2015-01-13": [
+    "newspapers",
+    "whole milk"
+  ],
+  "2480_2014-01-03": [
+    "salty snack",
+    "soda",
+    "other vegetables"
+  ],
+  "2483_2014-08-14": [
+    "specialty bar",
+    "pip fruit"
+  ],
+  "2484_2014-08-17": [
+    "hamburger meat",
+    "toilet cleaner",
+    "rolls/buns"
+  ],
+  "2489_2014-10-06": [
+    "shopping bags",
+    "coffee"
+  ],
+  "2490_2014-04-19": [
+    "white bread",
+    "pickled vegetables"
+  ],
+  "2492_2015-01-11": [
+    "yogurt",
+    "other vegetables",
+    "nut snack",
+    "canned beer",
+    "newspapers",
+    "soda",
+    "ham"
+  ],
+  "2495_2014-02-24": [
+    "other vegetables",
+    "red/blush wine"
+  ],
+  "2496_2014-11-26": [
+    "UHT-milk",
+    "zwieback"
+  ],
+  "2499_2014-07-20": [
+    "napkins",
+    "whipped/sour cream",
+    "pickled vegetables"
+  ],
+  "2504_2014-12-16": [
+    "waffles",
+    "curd"
+  ],
+  "2506_2014-09-05": [
+    "canned fish",
+    "frankfurter"
+  ],
+  "2508_2014-09-21": [
+    "meat",
+    "bottled water"
+  ],
+  "2510_2014-08-13": [
+    "whole milk",
+    "sugar"
+  ],
+  "2511_2014-12-07": [
+    "shopping bags",
+    "pip fruit"
+  ],
+  "2512_2015-01-19": [
+    "specialty chocolate",
+    "canned beer",
+    "soda",
+    "canned fish",
+    "domestic eggs",
+    "butter",
+    "root vegetables"
+  ],
+  "2514_2014-06-24": [
+    "newspapers",
+    "citrus fruit"
+  ],
+  "2515_2014-12-12": [
+    "bottled water",
+    "bottled beer"
+  ],
+  "2517_2014-12-05": [
+    "citrus fruit",
+    "spread cheese"
+  ],
+  "2518_2014-11-27": [
+    "domestic eggs",
+    "zwieback",
+    "whole milk"
+  ],
+  "2519_2014-07-04": [
+    "decalcifier",
+    "root vegetables",
+    "soups"
+  ],
+  "2520_2014-12-18": [
+    "dessert",
+    "other vegetables"
+  ],
+  "2522_2014-08-08": [
+    "hard cheese",
+    "fruit/vegetable juice"
+  ],
+  "2524_2014-10-17": [
+    "domestic eggs",
+    "potato products"
+  ],
+  "2525_2015-01-14": [
+    "shopping bags",
+    "soda",
+    "whole milk"
+  ],
+  "2528_2014-03-15": [
+    "coffee",
+    "candy"
+  ],
+  "2530_2014-10-30": [
+    "bottled water",
+    "sliced cheese"
+  ],
+  "2531_2014-09-01": [
+    "chewing gum",
+    "beef"
+  ],
+  "2533_2014-12-23": [
+    "yogurt",
+    "hamburger meat",
+    "bottled water"
+  ],
+  "2534_2014-09-02": [
+    "long life bakery product",
+    "beef"
+  ],
+  "2535_2014-12-29": [
+    "sweet spreads",
+    "pip fruit",
+    "white wine"
+  ],
+  "2536_2014-10-06": [
+    "photo/film",
+    "white bread"
+  ],
+  "2538_2014-10-15": [
+    "whipped/sour cream",
+    "pastry"
+  ],
+  "2540_2014-12-16": [
+    "canned beer",
+    "whole milk"
+  ],
+  "2541_2014-12-09": [
+    "soda",
+    "mayonnaise"
+  ],
+  "2543_2014-11-18": [
+    "softener",
+    "soda"
+  ],
+  "2544_2015-01-20": [
+    "tropical fruit",
+    "frozen potato products"
+  ],
+  "2545_2014-11-10": [
+    "domestic eggs",
+    "other vegetables"
+  ],
+  "2547_2014-12-02": [
+    "soda",
+    "tropical fruit"
+  ],
+  "2549_2014-12-27": [
+    "jam",
+    "dessert"
+  ],
+  "2550_2014-12-24": [
+    "whole milk",
+    "candy"
+  ],
+  "2552_2014-11-07": [
+    "shopping bags",
+    "coffee",
+    "pot plants"
+  ],
+  "2553_2015-01-02": [
+    "whole milk",
+    "tropical fruit"
+  ],
+  "2555_2014-12-27": [
+    "curd",
+    "root vegetables"
+  ],
+  "2556_2014-11-11": [
+    "specialty bar",
+    "other vegetables"
+  ],
+  "2557_2014-10-19": [
+    "sausage",
+    "white bread"
+  ],
+  "2559_2014-10-27": [
+    "citrus fruit",
+    "bottled beer"
+  ],
+  "2560_2014-04-19": [
+    "yogurt",
+    "specialty bar",
+    "root vegetables"
+  ],
+  "2561_2014-11-27": [
+    "citrus fruit",
+    "domestic eggs",
+    "flour"
+  ],
+  "2562_2014-11-14": [
+    "yogurt",
+    "root vegetables"
+  ],
+  "2564_2014-12-20": [
+    "curd",
+    "butter"
+  ],
+  "2565_2014-09-16": [
+    "jam",
+    "yogurt"
+  ],
+  "2568_2014-12-22": [
+    "canned beer",
+    "candy"
+  ],
+  "2570_2014-07-29": [
+    "yogurt",
+    "long life bakery product",
+    "bottled water"
+  ],
+  "2573_2014-08-05": [
+    "long life bakery product",
+    "rolls/buns"
+  ],
+  "2576_2014-12-25": [
+    "fruit/vegetable juice",
+    "meat"
+  ],
+  "2577_2014-08-03": [
+    "root vegetables",
+    "butter"
+  ],
+  "2578_2015-01-12": [
+    "yogurt",
+    "curd",
+    "root vegetables",
+    "whole milk"
+  ],
+  "2579_2014-12-12": [
+    "yogurt",
+    "cream cheese "
+  ],
+  "2581_2014-05-26": [
+    "dessert",
+    "bottled water"
+  ],
+  "2584_2014-11-30": [
+    "hard cheese",
+    "other vegetables",
+    "bottled water"
+  ],
+  "2585_2014-09-28": [
+    "rolls/buns",
+    "frozen vegetables"
+  ],
+  "2587_2014-11-12": [
+    "fruit/vegetable juice",
+    "ketchup"
+  ],
+  "2589_2014-11-04": [
+    "cookware",
+    "spices"
+  ],
+  "2590_2014-08-27": [
+    "snack products",
+    "tropical fruit"
+  ],
+  "2591_2014-10-12": [
+    "root vegetables"
+  ],
+  "2592_2015-01-10": [
+    "soda",
+    "sausage"
+  ],
+  "2593_2014-10-13": [
+    "tropical fruit",
+    "soups"
+  ],
+  "2594_2014-09-15": [
+    "yogurt",
+    "pastry"
+  ],
+  "2595_2014-11-11": [
+    "rum",
+    "herbs"
+  ],
+  "2597_2014-10-25": [
+    "pip fruit",
+    "root vegetables"
+  ],
+  "2600_2014-12-07": [
+    "berries",
+    "whole milk"
+  ],
+  "2602_2014-04-18": [
+    "cream cheese ",
+    "tropical fruit"
+  ],
+  "2604_2014-09-17": [
+    "whipped/sour cream",
+    "dishes",
+    "grapes"
+  ],
+  "2605_2014-08-30": [
+    "potato products",
+    "ketchup"
+  ],
+  "2606_2014-11-01": [
+    "whole milk",
+    "candles"
+  ],
+  "2607_2014-11-20": [
+    "whipped/sour cream",
+    "ice cream"
+  ],
+  "2608_2014-11-19": [
+    "pasta",
+    "yogurt"
+  ],
+  "2611_2014-12-29": [
+    "frankfurter",
+    "bottled water"
+  ],
+  "2612_2015-01-02": [
+    "pip fruit",
+    "tropical fruit"
+  ],
+  "2615_2014-05-29": [
+    "chocolate",
+    "rolls/buns"
+  ],
+  "2616_2014-10-24": [
+    "newspapers",
+    "root vegetables"
+  ],
+  "2617_2014-12-08": [
+    "yogurt",
+    "whole milk",
+    "root vegetables"
+  ],
+  "2618_2014-12-01": [
+    "salty snack",
+    "long life bakery product"
+  ],
+  "2619_2014-12-24": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "2620_2014-09-05": [
+    "dessert",
+    "rolls/buns"
+  ],
+  "2621_2014-09-27": [
+    "UHT-milk",
+    "pip fruit"
+  ],
+  "2623_2014-11-22": [
+    "brown bread",
+    "whole milk"
+  ],
+  "2625_2014-12-14": [
+    "specialty chocolate",
+    "pork"
+  ],
+  "2626_2014-09-08": [
+    "canned beer",
+    "whole milk",
+    "soda",
+    "hygiene articles"
+  ],
+  "2627_2014-05-17": [
+    "liquor (appetizer)",
+    "cat food"
+  ],
+  "2629_2014-09-07": [
+    "shopping bags",
+    "whole milk",
+    "tropical fruit"
+  ],
+  "2631_2014-09-29": [
+    "hair spray",
+    "waffles",
+    "whole milk"
+  ],
+  "2632_2015-01-16": [
+    "frozen meals",
+    "fruit/vegetable juice",
+    "rolls/buns",
+    "butter"
+  ],
+  "2633_2014-07-28": [
+    "waffles",
+    "long life bakery product"
+  ],
+  "2637_2014-09-18": [
+    "rolls/buns",
+    "whole milk"
+  ],
+  "2638_2014-10-10": [
+    "turkey",
+    "photo/film",
+    "mayonnaise"
+  ],
+  "2641_2015-01-03": [
+    "beverages",
+    "frozen fruits",
+    "fruit/vegetable juice",
+    "whole milk"
+  ],
+  "2642_2015-01-04": [
+    "beverages",
+    "frankfurter"
+  ],
+  "2643_2015-01-12": [
+    "dessert",
+    "fruit/vegetable juice",
+    "tropical fruit",
+    "coffee"
+  ],
+  "2644_2014-05-21": [
+    "Instant food products",
+    "coffee"
+  ],
+  "2645_2014-12-23": [
+    "hygiene articles",
+    "pastry"
+  ],
+  "2648_2014-05-22": [
+    "soda",
+    "coffee"
+  ],
+  "2649_2014-03-09": [
+    "liqueur",
+    "baking powder"
+  ],
+  "2651_2014-11-09": [
+    "turkey",
+    "white bread"
+  ],
+  "2652_2015-01-08": [
+    "kitchen towels",
+    "yogurt",
+    "pastry"
+  ],
+  "2653_2014-06-06": [
+    "newspapers",
+    "dessert",
+    "dog food"
+  ],
+  "2654_2014-08-08": [
+    "sweet spreads",
+    "soda",
+    "whole milk",
+    "other vegetables"
+  ],
+  "2656_2014-10-19": [
+    "dish cleaner",
+    "pot plants"
+  ],
+  "2659_2015-01-06": [
+    "brown bread",
+    "hamburger meat",
+    "rolls/buns"
+  ],
+  "2660_2014-11-09": [
+    "specialty chocolate",
+    "tropical fruit"
+  ],
+  "2661_2015-01-05": [
+    "tropical fruit",
+    "bottled water"
+  ],
+  "2662_2014-05-12": [
+    "tropical fruit",
+    "artif. sweetener"
+  ],
+  "2663_2014-11-15": [
+    "shopping bags",
+    "tropical fruit"
+  ],
+  "2664_2014-08-10": [
+    "chicken",
+    "domestic eggs"
+  ],
+  "2666_2014-11-04": [
+    "pastry",
+    "frozen vegetables"
+  ],
+  "2669_2014-03-24": [
+    "brown bread",
+    "rolls/buns",
+    "pastry",
+    "cat food"
+  ],
+  "2671_2014-04-25": [
+    "pip fruit",
+    "whole milk"
+  ],
+  "2672_2015-01-17": [
+    "frozen meals",
+    "yogurt",
+    "sausage",
+    "pastry"
+  ],
+  "2673_2014-12-16": [
+    "yogurt"
+  ],
+  "2674_2014-05-19": [
+    "chicken",
+    "grapes"
+  ],
+  "2676_2014-10-01": [
+    "other vegetables",
+    "candy"
+  ],
+  "2679_2014-12-16": [
+    "chocolate marshmallow",
+    "curd cheese"
+  ],
+  "2680_2014-11-23": [
+    "rolls/buns",
+    "instant coffee"
+  ],
+  "2682_2015-01-20": [
+    "canned beer"
+  ],
+  "2683_2015-01-18": [
+    "berries",
+    "red/blush wine"
+  ],
+  "2685_2014-12-04": [
+    "soda",
+    "fruit/vegetable juice",
+    "butter"
+  ],
+  "2686_2014-12-20": [
+    "pastry",
+    "ready soups"
+  ],
+  "2687_2014-12-16": [
+    "curd",
+    "frozen fish",
+    "spices"
+  ],
+  "2688_2014-12-21": [
+    "whole milk",
+    "pastry"
+  ],
+  "2689_2014-08-27": [
+    "curd",
+    "canned fish"
+  ],
+  "2690_2015-01-05": [
+    "other vegetables",
+    "white wine",
+    "root vegetables"
+  ],
+  "2692_2014-06-23": [
+    "soda",
+    "root vegetables",
+    "hygiene articles",
+    "pastry"
+  ],
+  "2693_2014-05-21": [
+    "white bread",
+    "mayonnaise"
+  ],
+  "2694_2014-09-10": [
+    "rolls/buns"
+  ],
+  "2696_2014-12-23": [
+    "seasonal products",
+    "whole milk"
+  ],
+  "2697_2014-07-07": [
+    "soft cheese",
+    "coffee"
+  ],
+  "2698_2014-10-14": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "2699_2014-07-18": [
+    "sauces",
+    "butter"
+  ],
+  "2701_2014-12-03": [
+    "soda",
+    "red/blush wine",
+    "butter"
+  ],
+  "2702_2014-12-11": [
+    "brown bread",
+    "bottled water"
+  ],
+  "2705_2014-12-20": [
+    "sweet spreads",
+    "root vegetables"
+  ],
+  "2706_2014-10-30": [
+    "specialty bar",
+    "sugar"
+  ],
+  "2707_2014-10-30": [
+    "specialty bar",
+    "margarine"
+  ],
+  "2709_2014-05-18": [
+    "other vegetables",
+    "bottled water"
+  ],
+  "2712_2014-09-06": [
+    "frozen meals",
+    "other vegetables"
+  ],
+  "2713_2014-09-28": [
+    "long life bakery product",
+    "bottled beer"
+  ],
+  "2715_2014-11-10": [
+    "detergent",
+    "cake bar",
+    "canned beer"
+  ],
+  "2716_2015-01-18": [
+    "beef",
+    "sausage"
+  ],
+  "2718_2014-11-08": [
+    "margarine",
+    "specialty cheese",
+    "packaged fruit/vegetables"
+  ],
+  "2719_2014-12-18": [
+    "root vegetables",
+    "grapes"
+  ],
+  "2722_2014-11-13": [
+    "citrus fruit",
+    "soda"
+  ],
+  "2725_2014-05-01": [
+    "whole milk",
+    "baking powder"
+  ],
+  "2726_2014-11-30": [
+    "yogurt",
+    "canned beer"
+  ],
+  "2727_2014-05-29": [
+    "soda",
+    "bottled beer"
+  ],
+  "2729_2014-09-30": [
+    "pork",
+    "beef"
+  ],
+  "2730_2014-10-11": [
+    "specialty bar",
+    "domestic eggs"
+  ],
+  "2732_2014-04-03": [
+    "soda",
+    "frozen fish",
+    "vinegar"
+  ],
+  "2733_2014-05-05": [
+    "whole milk",
+    "bottled water"
+  ],
+  "2736_2014-10-14": [
+    "UHT-milk",
+    "margarine"
+  ],
+  "2737_2014-12-26": [
+    "shopping bags",
+    "other vegetables"
+  ],
+  "2738_2014-11-02": [
+    "frozen meals",
+    "beef",
+    "pot plants"
+  ],
+  "2742_2014-07-07": [
+    "UHT-milk",
+    "other vegetables"
+  ],
+  "2743_2014-12-05": [
+    "chocolate",
+    "beef"
+  ],
+  "2744_2014-06-05": [
+    "rolls/buns",
+    "frozen vegetables"
+  ],
+  "2746_2014-09-16": [
+    "salty snack",
+    "root vegetables"
+  ],
+  "2747_2014-09-24": [
+    "yogurt",
+    "pastry"
+  ],
+  "2750_2014-11-01": [
+    "waffles",
+    "sparkling wine"
+  ],
+  "2751_2014-11-03": [
+    "rolls/buns",
+    "female sanitary products"
+  ],
+  "2753_2014-07-07": [
+    "whole milk",
+    "butter"
+  ],
+  "2754_2014-11-20": [
+    "soda",
+    "margarine"
+  ],
+  "2755_2014-11-25": [
+    "chocolate",
+    "soda",
+    "whole milk",
+    "frozen vegetables"
+  ],
+  "2756_2014-08-10": [
+    "fruit/vegetable juice",
+    "rolls/buns"
+  ],
+  "2758_2014-12-27": [
+    "long life bakery product",
+    "soft cheese"
+  ],
+  "2760_2014-06-20": [
+    "long life bakery product",
+    "pot plants",
+    "bottled beer",
+    "vinegar"
+  ],
+  "2761_2014-08-19": [
+    "brown bread",
+    "margarine"
+  ],
+  "2763_2015-01-02": [
+    "yogurt",
+    "canned fish",
+    "pork"
+  ],
+  "2764_2014-04-18": [
+    "yogurt",
+    "whipped/sour cream",
+    "candy"
+  ],
+  "2765_2014-09-02": [
+    "fruit/vegetable juice",
+    "beverages"
+  ],
+  "2766_2014-05-27": [
+    "candles",
+    "coffee"
+  ],
+  "2768_2015-01-01": [
+    "tropical fruit",
+    "pip fruit",
+    "meat",
+    "pot plants",
+    "salt"
+  ],
+  "2769_2014-10-31": [
+    "beef",
+    "misc. beverages"
+  ],
+  "2771_2014-08-05": [
+    "long life bakery product",
+    "napkins"
+  ],
+  "2772_2014-08-19": [
+    "red/blush wine",
+    "soda"
+  ],
+  "2774_2014-06-28": [
+    "domestic eggs",
+    "whole milk"
+  ],
+  "2776_2014-05-14": [
+    "specialty cheese",
+    "butter"
+  ],
+  "2777_2015-01-06": [
+    "herbs",
+    "chocolate"
+  ],
+  "2778_2014-09-05": [
+    "domestic eggs",
+    "bottled beer"
+  ],
+  "2779_2015-01-12": [
+    "rolls/buns",
+    "whole milk"
+  ],
+  "2781_2015-01-06": [
+    "other vegetables",
+    "soda"
+  ],
+  "2784_2014-12-24": [
+    "cling film/bags",
+    "misc. beverages"
+  ],
+  "2785_2015-01-02": [
+    "frozen meals",
+    "beef"
+  ],
+  "2786_2014-08-30": [
+    "specialty chocolate",
+    "other vegetables"
+  ],
+  "2787_2014-09-30": [
+    "margarine",
+    "sugar"
+  ],
+  "2788_2014-10-08": [
+    "salty snack",
+    "rolls/buns"
+  ],
+  "2789_2015-01-06": [
+    "tropical fruit",
+    "grapes"
+  ],
+  "2792_2014-07-28": [
+    "bottled beer",
+    "pastry"
+  ],
+  "2794_2014-07-23": [
+    "yogurt",
+    "fruit/vegetable juice"
+  ],
+  "2795_2014-06-27": [
+    "soda",
+    "whole milk",
+    "fruit/vegetable juice"
+  ],
+  "2796_2014-09-21": [
+    "cling film/bags",
+    "rolls/buns"
+  ],
+  "2798_2014-06-27": [
+    "rolls/buns",
+    "bottled water"
+  ],
+  "2799_2014-09-24": [
+    "other vegetables",
+    "cat food"
+  ],
+  "2801_2014-10-10": [
+    "dessert",
+    "bottled water"
+  ],
+  "2802_2014-12-15": [
+    "whole milk",
+    "frozen vegetables"
+  ],
+  "2803_2014-10-26": [
+    "oil",
+    "yogurt",
+    "coffee"
+  ],
+  "2804_2015-01-18": [
+    "canned beer",
+    "other vegetables"
+  ],
+  "2806_2014-06-04": [
+    "curd",
+    "onions"
+  ],
+  "2807_2014-10-13": [
+    "UHT-milk",
+    "bottled water"
+  ],
+  "2808_2014-02-09": [
+    "rolls/buns",
+    "cereals"
+  ],
+  "2810_2014-08-02": [
+    "frozen meals",
+    "salty snack",
+    "root vegetables"
+  ],
+  "2811_2014-11-14": [
+    "waffles",
+    "yogurt"
+  ],
+  "2812_2014-08-28": [
+    "brown bread",
+    "whipped/sour cream"
+  ],
+  "2813_2015-01-10": [
+    "yogurt",
+    "whole milk",
+    "cake bar",
+    "soda",
+    "female sanitary products",
+    "sausage"
+  ],
+  "2814_2014-12-15": [
+    "rolls/buns",
+    "root vegetables"
+  ],
+  "2815_2014-10-30": [
+    "beef",
+    "root vegetables"
+  ],
+  "2816_2015-01-10": [
+    "seasonal products",
+    "rolls/buns",
+    "fruit/vegetable juice",
+    "tropical fruit"
+  ],
+  "2817_2014-09-25": [
+    "soda",
+    "beverages",
+    "baking powder"
+  ],
+  "2823_2014-10-17": [
+    "waffles",
+    "yogurt",
+    "frozen vegetables"
+  ],
+  "2824_2014-09-17": [
+    "whole milk",
+    "sausage"
+  ],
+  "2825_2014-06-05": [
+    "photo/film",
+    "frozen potato products"
+  ],
+  "2830_2014-09-21": [
+    "sausage",
+    "bottled beer"
+  ],
+  "2831_2014-05-30": [
+    "soda",
+    "sliced cheese",
+    "butter"
+  ],
+  "2832_2014-07-29": [
+    "meat spreads",
+    "domestic eggs",
+    "sausage"
+  ],
+  "2834_2014-07-02": [
+    "yogurt",
+    "soda",
+    "other vegetables"
+  ],
+  "2835_2014-11-21": [
+    "shopping bags",
+    "rolls/buns"
+  ],
+  "2836_2014-10-20": [
+    "tropical fruit",
+    "butter"
+  ],
+  "2837_2014-10-13": [
+    "dessert",
+    "soda"
+  ],
+  "2838_2014-04-28": [
+    "waffles",
+    "liver loaf"
+  ],
+  "2839_2014-06-29": [
+    "red/blush wine",
+    "beef"
+  ],
+  "2843_2014-06-06": [
+    "rum",
+    "rolls/buns"
+  ],
+  "2845_2015-01-10": [
+    "other vegetables",
+    "processed cheese"
+  ],
+  "2847_2014-06-13": [
+    "yogurt",
+    "ham"
+  ],
+  "2849_2014-11-02": [
+    "newspapers",
+    "UHT-milk",
+    "herbs"
+  ],
+  "2850_2014-10-01": [
+    "pip fruit",
+    "root vegetables"
+  ],
+  "2851_2015-01-01": [
+    "canned beer",
+    "whole milk",
+    "white bread",
+    "brown bread",
+    "fruit/vegetable juice"
+  ],
+  "2853_2014-11-17": [
+    "UHT-milk",
+    "tropical fruit",
+    "candy"
+  ],
+  "2854_2014-07-15": [
+    "berries",
+    "pip fruit"
+  ],
+  "2855_2014-07-11": [
+    "rolls/buns",
+    "hygiene articles"
+  ],
+  "2857_2014-12-12": [
+    "newspapers",
+    "fruit/vegetable juice",
+    "pip fruit"
+  ],
+  "2860_2015-01-03": [
+    "shopping bags",
+    "sausage",
+    "light bulbs"
+  ],
+  "2861_2014-10-25": [
+    "dessert",
+    "domestic eggs",
+    "whole milk"
+  ],
+  "2862_2014-09-12": [
+    "soda",
+    "bottled water"
+  ],
+  "2863_2014-12-03": [
+    "frankfurter",
+    "bottled beer"
+  ],
+  "2864_2014-12-01": [
+    "popcorn",
+    "whole milk",
+    "dishes"
+  ],
+  "2868_2014-06-15": [
+    "citrus fruit",
+    "pickled vegetables"
+  ],
+  "2869_2014-08-11": [
+    "cream cheese ",
+    "bottled water"
+  ],
+  "2870_2014-12-14": [
+    "whole milk",
+    "tropical fruit"
+  ],
+  "2871_2014-09-21": [
+    "yogurt",
+    "root vegetables"
+  ],
+  "2872_2014-06-08": [
+    "liquor (appetizer)",
+    "whole milk"
+  ],
+  "2873_2014-10-23": [
+    "detergent",
+    "soda",
+    "whole milk"
+  ],
+  "2875_2015-01-11": [
+    "soda",
+    "whole milk"
+  ],
+  "2878_2014-06-13": [
+    "rolls/buns",
+    "bottled water"
+  ],
+  "2881_2014-06-03": [
+    "domestic eggs",
+    "margarine"
+  ],
+  "2885_2014-12-26": [
+    "long life bakery product",
+    "butter"
+  ],
+  "2886_2014-12-12": [
+    "tropical fruit",
+    "butter"
+  ],
+  "2887_2015-01-17": [
+    "whole milk",
+    "tropical fruit"
+  ],
+  "2892_2014-11-20": [
+    "soda",
+    "pastry"
+  ],
+  "2893_2014-04-16": [
+    "grapes",
+    "pickled vegetables"
+  ],
+  "2897_2014-07-11": [
+    "curd",
+    "mustard"
+  ],
+  "2898_2014-10-06": [
+    "soda",
+    "rolls/buns"
+  ],
+  "2900_2014-11-23": [
+    "shopping bags",
+    "sugar",
+    "whole milk"
+  ],
+  "2901_2014-10-07": [
+    "other vegetables",
+    "processed cheese"
+  ],
+  "2904_2014-09-28": [
+    "oil",
+    "whipped/sour cream",
+    "pastry"
+  ],
+  "2906_2014-11-13": [
+    "brown bread",
+    "chicken",
+    "bottled beer"
+  ],
+  "2907_2014-12-19": [
+    "ham",
+    "sugar",
+    "pastry"
+  ],
+  "2908_2014-04-27": [
+    "yogurt",
+    "pip fruit",
+    "rolls/buns",
+    "flour"
+  ],
+  "2909_2014-07-23": [
+    "specialty chocolate",
+    "rolls/buns"
+  ],
+  "2910_2014-03-28": [
+    "other vegetables",
+    "canned fish"
+  ],
+  "2912_2014-09-20": [
+    "salty snack",
+    "UHT-milk",
+    "flower soil/fertilizer"
+  ],
+  "2914_2015-01-04": [
+    "UHT-milk",
+    "rolls/buns"
+  ],
+  "2915_2014-07-29": [
+    "berries",
+    "beef"
+  ],
+  "2916_2014-12-08": [
+    "whole milk",
+    "cleaner"
+  ],
+  "2917_2014-05-27": [
+    "yogurt",
+    "rolls/buns"
+  ],
+  "2920_2014-12-05": [
+    "margarine",
+    "rolls/buns",
+    "root vegetables"
+  ],
+  "2921_2014-11-27": [
+    "yogurt",
+    "other vegetables"
+  ],
+  "2922_2014-06-06": [
+    "coffee",
+    "misc. beverages"
+  ],
+  "2923_2014-11-03": [
+    "citrus fruit",
+    "napkins",
+    "sliced cheese"
+  ],
+  "2924_2014-11-14": [
+    "frozen dessert",
+    "other vegetables"
+  ],
+  "2925_2014-11-24": [
+    "citrus fruit",
+    "flour"
+  ],
+  "2927_2014-11-12": [
+    "jam",
+    "house keeping products"
+  ],
+  "2928_2014-12-12": [
+    "chocolate",
+    "frozen fish"
+  ],
+  "2929_2014-10-22": [
+    "cleaner",
+    "pastry"
+  ],
+  "2930_2014-04-25": [
+    "other vegetables",
+    "soda"
+  ],
+  "2932_2014-10-11": [
+    "waffles",
+    "rolls/buns",
+    "whole milk"
+  ],
+  "2934_2014-10-30": [
+    "butter milk",
+    "tropical fruit"
+  ],
+  "2935_2014-04-21": [
+    "whole milk",
+    "whipped/sour cream",
+    "frozen vegetables"
+  ],
+  "2937_2014-10-01": [
+    "rolls/buns",
+    "pastry"
+  ],
+  "2939_2014-10-22": [
+    "tropical fruit",
+    "bottled water"
+  ],
+  "2941_2014-06-13": [
+    "beverages",
+    "bottled water"
+  ],
+  "2942_2015-01-02": [
+    "flower (seeds)",
+    "whole milk",
+    "brown bread",
+    "pork",
+    "waffles",
+    "oil",
+    "sausage"
+  ],
+  "2943_2014-11-09": [
+    "chocolate marshmallow",
+    "canned beer"
+  ],
+  "2944_2015-01-02": [
+    "yogurt",
+    "long life bakery product",
+    "tropical fruit",
+    "cream cheese ",
+    "beef",
+    "processed cheese",
+    "sausage"
+  ],
+  "2946_2014-11-19": [
+    "citrus fruit",
+    "margarine"
+  ],
+  "2948_2014-11-04": [
+    "detergent",
+    "whole milk"
+  ],
+  "2949_2014-03-25": [
+    "bottled water"
+  ],
+  "2950_2014-11-18": [
+    "canned beer",
+    "other vegetables"
+  ],
+  "2952_2014-12-01": [
+    "newspapers",
+    "hamburger meat",
+    "sugar",
+    "whipped/sour cream"
+  ],
+  "2954_2014-07-17": [
+    "fruit/vegetable juice",
+    "rolls/buns",
+    "root vegetables"
+  ],
+  "2955_2014-11-30": [
+    "candles",
+    "root vegetables"
+  ],
+  "2956_2014-10-23": [
+    "cream cheese ",
+    "other vegetables"
+  ],
+  "2957_2014-12-21": [
+    "bottled water",
+    "bottled beer"
+  ],
+  "2958_2014-12-17": [
+    "chocolate",
+    "bottled water"
+  ],
+  "2960_2014-11-28": [
+    "dishes",
+    "misc. beverages"
+  ],
+  "2961_2014-12-13": [
+    "domestic eggs",
+    "coffee",
+    "spread cheese"
+  ],
+  "2962_2015-01-03": [
+    "domestic eggs",
+    "tropical fruit",
+    "bottled water"
+  ],
+  "2963_2014-05-27": [
+    "citrus fruit",
+    "frozen vegetables"
+  ],
+  "2964_2014-09-22": [
+    "UHT-milk",
+    "tropical fruit"
+  ],
+  "2965_2014-07-06": [
+    "newspapers",
+    "coffee"
+  ],
+  "2966_2014-11-26": [
+    "pork",
+    "long life bakery product"
+  ],
+  "2967_2014-05-27": [
+    "oil",
+    "whole milk"
+  ],
+  "2971_2014-12-07": [
+    "fruit/vegetable juice",
+    "rolls/buns"
+  ],
+  "2973_2014-12-13": [
+    "whole milk",
+    "white bread",
+    "frozen vegetables"
+  ],
+  "2974_2014-05-24": [
+    "tropical fruit",
+    "frozen vegetables"
+  ],
+  "2975_2014-10-25": [
+    "canned beer",
+    "fruit/vegetable juice",
+    "other vegetables"
+  ],
+  "2979_2014-08-25": [
+    "pip fruit",
+    "whole milk"
+  ],
+  "2980_2014-11-27": [
+    "shopping bags",
+    "whole milk"
+  ],
+  "2982_2014-10-22": [
+    "margarine",
+    "tropical fruit"
+  ],
+  "2984_2014-09-25": [
+    "cake bar",
+    "fruit/vegetable juice",
+    "ice cream",
+    "butter"
+  ],
+  "2986_2014-05-11": [
+    "newspapers",
+    "UHT-milk",
+    "bottled water"
+  ],
+  "2989_2014-10-09": [
+    "citrus fruit",
+    "flour"
+  ],
+  "2990_2014-08-15": [
+    "long life bakery product",
+    "packaged fruit/vegetables"
+  ],
+  "2991_2014-04-30": [
+    "salt",
+    "tropical fruit"
+  ],
+  "2993_2014-11-17": [
+    "beef",
+    "napkins"
+  ],
+  "2994_2014-12-07": [
+    "yogurt",
+    "long life bakery product",
+    "whole milk"
+  ],
+  "2996_2014-09-17": [
+    "bottled beer",
+    "candy"
+  ],
+  "3003_2014-08-05": [
+    "newspapers",
+    "whole milk"
+  ],
+  "3005_2014-11-26": [
+    "newspapers",
+    "brown bread",
+    "margarine"
+  ],
+  "3006_2014-06-20": [
+    "other vegetables",
+    "margarine"
+  ],
+  "3007_2014-02-12": [
+    "frozen dessert",
+    "canned beer"
+  ],
+  "3008_2014-09-07": [
+    "other vegetables",
+    "butter"
+  ],
+  "3009_2014-12-27": [
+    "brown bread",
+    "flour"
+  ],
+  "3010_2014-11-05": [
+    "root vegetables",
+    "sliced cheese"
+  ],
+  "3011_2014-08-29": [
+    "sugar",
+    "bottled water"
+  ],
+  "3013_2014-12-05": [
+    "brown bread",
+    "UHT-milk"
+  ],
+  "3015_2014-07-08": [
+    "other vegetables",
+    "root vegetables"
+  ],
+  "3016_2015-01-12": [
+    "long life bakery product",
+    "sugar",
+    "frankfurter"
+  ],
+  "3018_2015-01-18": [
+    "canned beer",
+    "soda"
+  ],
+  "3020_2014-08-12": [
+    "other vegetables",
+    "pot plants"
+  ],
+  "3021_2014-11-15": [
+    "chicken",
+    "bottled water",
+    "soups"
+  ],
+  "3022_2014-09-19": [
+    "beef",
+    "whipped/sour cream"
+  ],
+  "3024_2014-12-23": [
+    "detergent",
+    "tropical fruit"
+  ],
+  "3026_2015-01-01": [
+    "citrus fruit",
+    "soda",
+    "tropical fruit",
+    "bottled water"
+  ],
+  "3027_2014-10-14": [
+    "berries",
+    "fruit/vegetable juice"
+  ],
+  "3028_2014-11-20": [
+    "cake bar",
+    "napkins"
+  ],
+  "3030_2014-12-14": [
+    "curd",
+    "red/blush wine",
+    "whole milk"
+  ],
+  "3033_2014-09-25": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "3034_2014-12-26": [
+    "bottled water",
+    "pastry"
+  ],
+  "3035_2014-04-16": [
+    "male cosmetics",
+    "baking powder"
+  ],
+  "3038_2014-12-30": [
+    "yogurt",
+    "rolls/buns"
+  ],
+  "3039_2014-10-15": [
+    "canned beer",
+    "butter"
+  ],
+  "3041_2014-04-07": [
+    "chocolate marshmallow",
+    "whipped/sour cream"
+  ],
+  "3042_2015-01-16": [
+    "pork",
+    "curd cheese",
+    "frozen potato products"
+  ],
+  "3044_2014-09-17": [
+    "newspapers",
+    "soda",
+    "whole milk",
+    "coffee"
+  ],
+  "3045_2014-08-16": [
+    "chicken",
+    "chocolate",
+    "chewing gum"
+  ],
+  "3046_2014-08-22": [
+    "citrus fruit",
+    "frozen vegetables"
+  ],
+  "3050_2014-11-11": [
+    "waffles",
+    "butter"
+  ],
+  "3057_2014-07-16": [
+    "soda",
+    "instant coffee"
+  ],
+  "3059_2014-12-13": [
+    "shopping bags",
+    "spread cheese"
+  ],
+  "3060_2014-08-18": [
+    "red/blush wine",
+    "other vegetables",
+    "butter"
+  ],
+  "3062_2015-01-08": [
+    "soda",
+    "rolls/buns"
+  ],
+  "3063_2014-12-13": [
+    "canned beer",
+    "flour"
+  ],
+  "3065_2014-12-28": [
+    "waffles",
+    "dessert",
+    "dental care"
+  ],
+  "3066_2014-10-17": [
+    "long life bakery product",
+    "fruit/vegetable juice"
+  ],
+  "3067_2014-11-17": [
+    "whipped/sour cream",
+    "frozen potato products"
+  ],
+  "3068_2014-05-25": [
+    "pasta",
+    "beverages",
+    "whole milk"
+  ],
+  "3072_2014-12-11": [
+    "dessert",
+    "hamburger meat"
+  ],
+  "3073_2015-01-17": [
+    "berries",
+    "nut snack",
+    "sliced cheese"
+  ],
+  "3075_2014-12-04": [
+    "root vegetables",
+    "organic products"
+  ],
+  "3077_2015-01-19": [
+    "butter milk",
+    "root vegetables"
+  ],
+  "3078_2015-01-09": [
+    "oil",
+    "other vegetables",
+    "rolls/buns"
+  ],
+  "3081_2014-09-23": [
+    "brown bread",
+    "white wine"
+  ],
+  "3082_2014-10-11": [
+    "frozen dessert",
+    "soda",
+    "pickled vegetables"
+  ],
+  "3083_2014-09-19": [
+    "brown bread",
+    "domestic eggs",
+    "whole milk"
+  ],
+  "3084_2014-10-27": [
+    "white wine",
+    "rolls/buns"
+  ],
+  "3086_2014-11-07": [
+    "chocolate",
+    "whole milk",
+    "yogurt"
+  ],
+  "3087_2014-12-27": [
+    "bottled water",
+    "white bread"
+  ],
+  "3089_2014-10-27": [
+    "butter milk",
+    "hygiene articles",
+    "pickled vegetables"
+  ],
+  "3090_2014-11-22": [
+    "tropical fruit",
+    "whipped/sour cream"
+  ],
+  "3094_2014-12-15": [
+    "waffles",
+    "domestic eggs"
+  ],
+  "3095_2014-11-26": [
+    "soda",
+    "rolls/buns"
+  ],
+  "3099_2014-12-16": [
+    "butter milk",
+    "cream cheese ",
+    "citrus fruit"
+  ],
+  "3100_2014-12-19": [
+    "canned beer",
+    "root vegetables"
+  ],
+  "3101_2015-01-17": [
+    "chicken",
+    "cat food"
+  ],
+  "3102_2014-11-28": [
+    "shopping bags"
+  ],
+  "3103_2014-10-12": [
+    "whole milk",
+    "frozen vegetables"
+  ],
+  "3104_2014-10-22": [
+    "dessert",
+    "rolls/buns"
+  ],
+  "3106_2014-11-05": [
+    "whole milk",
+    "nuts/prunes"
+  ],
+  "3107_2014-12-13": [
+    "chocolate",
+    "meat"
+  ],
+  "3109_2014-11-09": [
+    "specialty bar",
+    "sausage"
+  ],
+  "3110_2014-07-23": [
+    "Instant food products",
+    "frozen potato products",
+    "processed cheese"
+  ],
+  "3111_2014-10-30": [
+    "soda",
+    "grapes"
+  ],
+  "3112_2014-11-16": [
+    "domestic eggs",
+    "whole milk"
+  ],
+  "3113_2014-12-26": [
+    "other vegetables",
+    "cream cheese "
+  ],
+  "3115_2014-10-29": [
+    "brown bread",
+    "citrus fruit",
+    "napkins",
+    "snack products"
+  ],
+  "3116_2014-12-06": [
+    "pot plants",
+    "baking powder",
+    "misc. beverages"
+  ],
+  "3117_2014-09-01": [
+    "berries",
+    "domestic eggs"
+  ],
+  "3119_2014-02-07": [
+    "tropical fruit",
+    "flour"
+  ],
+  "3120_2015-01-14": [
+    "bottled water",
+    "white bread"
+  ],
+  "3122_2014-12-25": [
+    "soda",
+    "rolls/buns"
+  ],
+  "3123_2014-12-15": [
+    "whole milk",
+    "sliced cheese"
+  ],
+  "3125_2014-05-10": [
+    "oil",
+    "tropical fruit"
+  ],
+  "3127_2014-10-21": [
+    "pork",
+    "white bread"
+  ],
+  "3129_2014-07-26": [
+    "hard cheese",
+    "pastry"
+  ],
+  "3131_2014-03-12": [
+    "yogurt",
+    "soda"
+  ],
+  "3133_2015-01-12": [
+    "curd cheese",
+    "tropical fruit"
+  ],
+  "3137_2014-11-29": [
+    "newspapers",
+    "spread cheese"
+  ],
+  "3138_2014-12-28": [
+    "hard cheese",
+    "napkins",
+    "rolls/buns",
+    "root vegetables"
+  ],
+  "3139_2014-07-07": [
+    "soda",
+    "pot plants"
+  ],
+  "3140_2014-12-15": [
+    "chicken",
+    "shopping bags"
+  ],
+  "3141_2014-07-06": [
+    "brown bread",
+    "soda",
+    "ketchup"
+  ],
+  "3142_2014-12-02": [
+    "whole milk",
+    "tropical fruit"
+  ],
+  "3145_2014-08-16": [
+    "citrus fruit",
+    "candy"
+  ],
+  "3146_2014-07-02": [
+    "other vegetables",
+    "root vegetables"
+  ],
+  "3148_2014-10-25": [
+    "shopping bags",
+    "chocolate"
+  ],
+  "3150_2014-11-08": [
+    "pip fruit",
+    "hamburger meat"
+  ],
+  "3151_2014-10-13": [
+    "domestic eggs",
+    "rolls/buns"
+  ],
+  "3153_2014-10-26": [
+    "brown bread",
+    "whipped/sour cream"
+  ],
+  "3156_2014-11-13": [
+    "sausage",
+    "frozen vegetables"
+  ],
+  "3157_2014-10-07": [
+    "white wine",
+    "Instant food products"
+  ],
+  "3158_2014-06-05": [
+    "soda",
+    "bottled beer",
+    "frozen vegetables"
+  ],
+  "3159_2014-07-23": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "3160_2014-11-13": [
+    "yogurt",
+    "chocolate"
+  ],
+  "3161_2014-11-22": [
+    "whole milk",
+    "sausage"
+  ],
+  "3163_2014-12-29": [
+    "rolls/buns",
+    "potato products"
+  ],
+  "3164_2014-09-24": [
+    "yogurt",
+    "long life bakery product",
+    "meat",
+    "napkins"
+  ],
+  "3166_2015-01-15": [
+    "waffles",
+    "pip fruit",
+    "cat food"
+  ],
+  "3168_2014-03-26": [
+    "brown bread",
+    "sugar",
+    "tropical fruit"
+  ],
+  "3170_2015-01-17": [
+    "chicken",
+    "roll products ",
+    "male cosmetics",
+    "grapes",
+    "brown bread",
+    "beef",
+    "waffles",
+    "root vegetables"
+  ],
+  "3172_2015-01-03": [
+    "dish cleaner",
+    "whipped/sour cream",
+    "pickled vegetables"
+  ],
+  "3175_2014-11-18": [
+    "other vegetables",
+    "processed cheese"
+  ],
+  "3176_2015-01-17": [
+    "citrus fruit",
+    "root vegetables"
+  ],
+  "3177_2014-10-18": [
+    "yogurt",
+    "butter milk"
+  ],
+  "3180_2014-09-11": [
+    "margarine",
+    "whole milk",
+    "flour"
+  ],
+  "3181_2014-08-05": [
+    "beverages",
+    "pip fruit",
+    "zwieback"
+  ],
+  "3182_2014-09-28": [
+    "newspapers",
+    "bottled beer"
+  ],
+  "3183_2014-10-12": [
+    "soda",
+    "grapes"
+  ],
+  "3184_2014-10-09": [
+    "domestic eggs",
+    "sliced cheese"
+  ],
+  "3185_2014-12-06": [
+    "oil",
+    "yogurt",
+    "candy",
+    "misc. beverages"
+  ],
+  "3186_2014-11-12": [
+    "hard cheese",
+    "oil"
+  ],
+  "3188_2014-10-16": [
+    "chocolate marshmallow",
+    "whole milk"
+  ],
+  "3189_2014-10-28": [
+    "kitchen towels",
+    "rolls/buns"
+  ],
+  "3190_2014-08-26": [
+    "kitchen towels",
+    "butter milk"
+  ],
+  "3193_2014-10-25": [
+    "frozen meals",
+    "rolls/buns",
+    "whole milk"
+  ],
+  "3194_2014-10-26": [
+    "cake bar",
+    "soda"
+  ],
+  "3200_2015-01-04": [
+    "specialty chocolate",
+    "whole milk"
+  ],
+  "3201_2014-12-28": [
+    "whole milk",
+    "bottled water"
+  ],
+  "3203_2014-07-22": [
+    "berries",
+    "flower (seeds)",
+    "soda"
+  ],
+  "3204_2014-12-16": [
+    "popcorn",
+    "frozen fish",
+    "cream cheese "
+  ],
+  "3205_2015-01-17": [
+    "pork",
+    "pip fruit"
+  ],
+  "3206_2014-08-24": [
+    "long life bakery product",
+    "canned vegetables"
+  ],
+  "3207_2014-06-12": [
+    "canned fish",
+    "bottled water",
+    "bottled beer"
+  ],
+  "3208_2014-10-12": [
+    "newspapers",
+    "root vegetables"
+  ],
+  "3209_2014-08-04": [
+    "other vegetables",
+    "liquor"
+  ],
+  "3210_2014-12-21": [
+    "hard cheese",
+    "cling film/bags",
+    "citrus fruit"
+  ],
+  "3213_2014-12-19": [
+    "rolls/buns",
+    "photo/film"
+  ],
+  "3217_2014-12-08": [
+    "soda",
+    "bottled beer"
+  ],
+  "3218_2014-11-06": [
+    "sugar",
+    "cereals"
+  ],
+  "3219_2014-01-21": [
+    "shopping bags",
+    "whole milk"
+  ],
+  "3220_2014-12-13": [
+    "other vegetables",
+    "soda"
+  ],
+  "3221_2015-01-13": [
+    "sweet spreads",
+    "curd",
+    "hamburger meat",
+    "bottled beer"
+  ],
+  "3222_2014-08-30": [
+    "whole milk",
+    "candy"
+  ],
+  "3224_2015-01-19": [
+    "liver loaf",
+    "bottled water",
+    "bottled beer",
+    "pastry"
+  ],
+  "3225_2014-09-19": [
+    "yogurt",
+    "napkins",
+    "whipped/sour cream",
+    "other vegetables"
+  ],
+  "3226_2014-10-25": [
+    "long life bakery product",
+    "rolls/buns"
+  ],
+  "3227_2014-12-24": [
+    "chicken",
+    "soda",
+    "whole milk"
+  ],
+  "3232_2014-12-11": [
+    "whole milk",
+    "whipped/sour cream"
+  ],
+  "3237_2014-10-14": [
+    "roll products ",
+    "specialty bar"
+  ],
+  "3238_2014-06-02": [
+    "newspapers",
+    "specialty bar",
+    "canned beer",
+    "white bread"
+  ],
+  "3240_2015-01-01": [
+    "citrus fruit",
+    "whole milk"
+  ],
+  "3244_2014-07-28": [
+    "whole milk",
+    "rolls/buns"
+  ],
+  "3246_2014-12-28": [
+    "dessert",
+    "napkins"
+  ],
+  "3247_2015-01-13": [
+    "UHT-milk",
+    "rolls/buns",
+    "spread cheese",
+    "misc. beverages",
+    "sugar",
+    "root vegetables"
+  ],
+  "3248_2015-01-14": [
+    "chicken",
+    "root vegetables"
+  ],
+  "3249_2014-12-22": [
+    "ham",
+    "beverages"
+  ],
+  "3251_2014-10-20": [
+    "shopping bags",
+    "soda",
+    "napkins"
+  ],
+  "3252_2014-10-29": [
+    "other vegetables",
+    "pastry"
+  ],
+  "3254_2014-11-12": [
+    "shopping bags",
+    "rolls/buns",
+    "root vegetables"
+  ],
+  "3255_2014-11-20": [
+    "UHT-milk",
+    "tropical fruit"
+  ],
+  "3256_2014-12-17": [
+    "toilet cleaner",
+    "cream cheese "
+  ],
+  "3258_2014-12-19": [
+    "yogurt",
+    "curd"
+  ],
+  "3259_2014-12-03": [
+    "shopping bags",
+    "other vegetables"
+  ],
+  "3263_2014-07-17": [
+    "waffles",
+    "cling film/bags"
+  ],
+  "3264_2015-01-13": [
+    "dessert",
+    "sausage"
+  ],
+  "3266_2014-12-14": [
+    "semi-finished bread",
+    "pork"
+  ],
+  "3267_2015-01-18": [
+    "yogurt",
+    "frankfurter",
+    "cat food"
+  ],
+  "3268_2014-04-05": [
+    "shopping bags",
+    "root vegetables"
+  ],
+  "3271_2014-11-20": [
+    "soda"
+  ],
+  "3277_2014-10-31": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "3278_2014-11-29": [
+    "specialty chocolate",
+    "frozen dessert"
+  ],
+  "3279_2014-11-26": [
+    "waffles",
+    "candy",
+    "ketchup"
+  ],
+  "3282_2014-12-05": [
+    "yogurt",
+    "other vegetables"
+  ],
+  "3283_2015-01-05": [
+    "soda",
+    "whole milk",
+    "mayonnaise"
+  ],
+  "3284_2014-04-01": [
+    "yogurt",
+    "other vegetables",
+    "instant coffee"
+  ],
+  "3287_2014-12-11": [
+    "herbs",
+    "chocolate",
+    "cleaner",
+    "vinegar"
+  ],
+  "3288_2014-04-22": [
+    "other vegetables",
+    "pip fruit"
+  ],
+  "3289_2015-01-03": [
+    "soft cheese",
+    "tropical fruit"
+  ],
+  "3293_2014-10-17": [
+    "soda",
+    "rolls/buns"
+  ],
+  "3294_2014-11-22": [
+    "coffee",
+    "grapes"
+  ],
+  "3295_2014-07-06": [
+    "chocolate marshmallow",
+    "other vegetables",
+    "hamburger meat"
+  ],
+  "3297_2014-05-29": [
+    "frozen meals",
+    "fruit/vegetable juice",
+    "processed cheese",
+    "cat food"
+  ],
+  "3299_2014-12-15": [
+    "tropical fruit",
+    "sparkling wine",
+    "cat food"
+  ],
+  "3300_2014-10-07": [
+    "domestic eggs",
+    "rolls/buns"
+  ],
+  "3302_2014-10-03": [
+    "canned beer",
+    "whole milk"
+  ],
+  "3303_2014-12-21": [
+    "margarine",
+    "root vegetables"
+  ],
+  "3305_2014-08-24": [
+    "shopping bags",
+    "whole milk"
+  ],
+  "3306_2014-11-12": [
+    "canned beer",
+    "soda"
+  ],
+  "3308_2014-12-09": [
+    "soda",
+    "napkins"
+  ],
+  "3309_2014-06-06": [
+    "domestic eggs",
+    "whole milk"
+  ],
+  "3310_2015-01-17": [
+    "yogurt",
+    "canned beer"
+  ],
+  "3311_2015-01-07": [
+    "specialty cheese",
+    "frozen fish"
+  ],
+  "3313_2014-11-23": [
+    "whole milk",
+    "white bread"
+  ],
+  "3315_2014-12-27": [
+    "yogurt",
+    "chewing gum",
+    "whole milk"
+  ],
+  "3317_2014-10-08": [
+    "soda"
+  ],
+  "3320_2014-12-04": [
+    "processed cheese",
+    "brandy"
+  ],
+  "3321_2014-11-03": [
+    "rolls/buns",
+    "white bread"
+  ],
+  "3322_2014-08-13": [
+    "rolls/buns",
+    "beef"
+  ],
+  "3323_2014-08-02": [
+    "brown bread",
+    "pastry"
+  ],
+  "3324_2014-12-29": [
+    "pastry",
+    "frozen potato products"
+  ],
+  "3325_2014-11-16": [
+    "shopping bags",
+    "whole milk"
+  ],
+  "3327_2014-10-13": [
+    "beef",
+    "other vegetables",
+    "bottled water"
+  ],
+  "3329_2014-09-11": [
+    "frozen meals",
+    "brown bread",
+    "whole milk",
+    "frozen vegetables"
+  ],
+  "3334_2014-09-01": [
+    "liquor (appetizer)",
+    "white wine",
+    "root vegetables"
+  ],
+  "3337_2015-01-02": [
+    "whole milk",
+    "liver loaf"
+  ],
+  "3338_2014-12-25": [
+    "pip fruit",
+    "seasonal products"
+  ],
+  "3342_2014-12-15": [
+    "pork",
+    "bottled water"
+  ],
+  "3343_2014-11-02": [
+    "berries",
+    "hygiene articles"
+  ],
+  "3344_2015-01-04": [
+    "newspapers",
+    "whole milk",
+    "rolls/buns"
+  ],
+  "3346_2014-11-29": [
+    "frozen meals",
+    "margarine"
+  ],
+  "3347_2014-11-21": [
+    "soda",
+    "pastry"
+  ],
+  "3348_2014-11-18": [
+    "herbs",
+    "root vegetables"
+  ],
+  "3349_2014-12-07": [
+    "herbs",
+    "organic sausage"
+  ],
+  "3350_2014-05-23": [
+    "newspapers",
+    "rolls/buns"
+  ],
+  "3353_2014-10-05": [
+    "yogurt",
+    "soda"
+  ],
+  "3354_2015-01-14": [
+    "citrus fruit",
+    "other vegetables",
+    "pastry"
+  ],
+  "3356_2014-09-30": [
+    "fruit/vegetable juice",
+    "UHT-milk"
+  ],
+  "3357_2014-06-22": [
+    "newspapers",
+    "bottled beer",
+    "mustard",
+    "pickled vegetables"
+  ],
+  "3358_2014-10-22": [
+    "hard cheese",
+    "chocolate",
+    "other vegetables"
+  ],
+  "3359_2014-07-25": [
+    "white wine",
+    "chewing gum",
+    "misc. beverages"
+  ],
+  "3360_2014-12-04": [
+    "hamburger meat",
+    "candles",
+    "rolls/buns"
+  ],
+  "3361_2014-12-24": [
+    "berries",
+    "pork"
+  ],
+  "3364_2014-07-14": [
+    "chocolate",
+    "other vegetables"
+  ],
+  "3365_2015-01-02": [
+    "newspapers",
+    "canned beer",
+    "whole milk",
+    "root vegetables"
+  ],
+  "3366_2014-12-19": [
+    "white wine",
+    "white bread"
+  ],
+  "3368_2014-11-19": [
+    "specialty bar",
+    "white wine"
+  ],
+  "3369_2014-07-18": [
+    "yogurt",
+    "napkins",
+    "root vegetables"
+  ],
+  "3370_2014-12-14": [
+    "other vegetables",
+    "frozen vegetables"
+  ],
+  "3378_2015-01-13": [
+    "canned beer",
+    "ham"
+  ],
+  "3380_2014-08-16": [
+    "other vegetables"
+  ],
+  "3381_2014-10-30": [
+    "hygiene articles",
+    "butter"
+  ],
+  "3382_2014-11-13": [
+    "dessert",
+    "UHT-milk",
+    "processed cheese"
+  ],
+  "3383_2014-12-02": [
+    "soda",
+    "misc. beverages"
+  ],
+  "3384_2014-11-13": [
+    "soda",
+    "photo/film"
+  ],
+  "3386_2014-10-05": [
+    "soda",
+    "root vegetables"
+  ],
+  "3387_2014-09-22": [
+    "shopping bags",
+    "fruit/vegetable juice"
+  ],
+  "3389_2014-07-20": [
+    "newspapers",
+    "ice cream"
+  ],
+  "3390_2015-01-12": [
+    "canned beer",
+    "coffee"
+  ],
+  "3393_2014-06-25": [
+    "shopping bags",
+    "bottled water"
+  ],
+  "3396_2014-10-24": [
+    "whipped/sour cream",
+    "frozen fish"
+  ],
+  "3397_2014-10-28": [
+    "whipped/sour cream",
+    "candy"
+  ],
+  "3398_2015-01-18": [
+    "brown bread",
+    "chocolate",
+    "rolls/buns",
+    "citrus fruit",
+    "frozen fish"
+  ],
+  "3400_2014-10-07": [
+    "dental care",
+    "bottled water"
+  ],
+  "3402_2014-12-26": [
+    "flower (seeds)",
+    "bottled water",
+    "flour"
+  ],
+  "3403_2014-04-16": [
+    "shopping bags",
+    "curd"
+  ],
+  "3407_2014-12-16": [
+    "cling film/bags",
+    "coffee"
+  ],
+  "3409_2014-08-09": [
+    "brown bread",
+    "soda"
+  ],
+  "3410_2015-01-16": [
+    "whole milk",
+    "spread cheese"
+  ],
+  "3411_2014-11-30": [
+    "margarine",
+    "whole milk"
+  ],
+  "3413_2014-10-27": [
+    "beverages",
+    "bottled water"
+  ],
+  "3414_2014-05-22": [
+    "cream cheese ",
+    "whole milk",
+    "napkins",
+    "whipped/sour cream"
+  ],
+  "3416_2014-07-13": [
+    "chicken",
+    "frozen vegetables"
+  ],
+  "3420_2014-10-15": [
+    "other vegetables",
+    "margarine"
+  ],
+  "3421_2014-10-18": [
+    "waffles",
+    "soda",
+    "sugar",
+    "organic products"
+  ],
+  "3423_2014-11-07": [
+    "fruit/vegetable juice",
+    "bottled water"
+  ],
+  "3424_2015-01-05": [
+    "frankfurter",
+    "root vegetables"
+  ],
+  "3425_2014-12-15": [
+    "rolls/buns",
+    "tropical fruit"
+  ],
+  "3426_2014-10-21": [
+    "hard cheese",
+    "yogurt"
+  ],
+  "3427_2014-11-05": [
+    "specialty chocolate",
+    "beverages"
+  ],
+  "3428_2014-10-21": [
+    "brown bread",
+    "butter milk"
+  ],
+  "3429_2015-01-04": [
+    "other vegetables",
+    "newspapers",
+    "soda",
+    "whipped/sour cream",
+    "coffee",
+    "hard cheese"
+  ],
+  "3430_2014-12-08": [
+    "tropical fruit",
+    "dishes"
+  ],
+  "3435_2014-10-04": [
+    "roll products ",
+    "coffee"
+  ],
+  "3437_2014-10-31": [
+    "cream cheese ",
+    "bottled beer",
+    "pastry",
+    "frozen vegetables"
+  ],
+  "3438_2014-11-06": [
+    "chicken",
+    "white wine",
+    "margarine"
+  ],
+  "3439_2014-06-12": [
+    "brown bread",
+    "white bread"
+  ],
+  "3442_2014-11-16": [
+    "fruit/vegetable juice",
+    "canned fish"
+  ],
+  "3444_2014-08-04": [
+    "shopping bags",
+    "margarine",
+    "napkins",
+    "pastry"
+  ],
+  "3447_2014-06-30": [
+    "soda",
+    "canned fish",
+    "margarine"
+  ],
+  "3450_2014-11-26": [
+    "pip fruit",
+    "pastry"
+  ],
+  "3451_2014-08-06": [
+    "semi-finished bread",
+    "yogurt"
+  ],
+  "3452_2015-01-11": [
+    "berries",
+    "other vegetables"
+  ],
+  "3456_2014-12-24": [
+    "softener",
+    "margarine",
+    "hygiene articles"
+  ],
+  "3457_2014-09-11": [
+    "whole milk",
+    "bottled water",
+    "coffee"
+  ],
+  "3458_2014-12-23": [
+    "dessert",
+    "other vegetables"
+  ],
+  "3459_2014-06-21": [
+    "whole milk",
+    "pastry"
+  ],
+  "3462_2014-12-16": [
+    "berries",
+    "specialty cheese"
+  ],
+  "3464_2014-07-03": [
+    "brown bread",
+    "salt"
+  ],
+  "3465_2015-01-15": [
+    "chicken",
+    "candles",
+    "frozen vegetables"
+  ],
+  "3466_2014-09-12": [
+    "salt",
+    "misc. beverages"
+  ],
+  "3467_2014-10-20": [
+    "beef",
+    "candy",
+    "pastry"
+  ],
+  "3468_2014-02-06": [
+    "yogurt",
+    "whipped/sour cream"
+  ],
+  "3469_2014-11-04": [
+    "whole milk"
+  ],
+  "3474_2014-11-26": [
+    "newspapers",
+    "roll products "
+  ],
+  "3475_2014-12-23": [
+    "yogurt",
+    "other vegetables"
+  ],
+  "3476_2014-06-30": [
+    "pasta",
+    "meat"
+  ],
+  "3479_2014-10-05": [
+    "rolls/buns",
+    "pastry"
+  ],
+  "3480_2014-10-08": [
+    "chocolate",
+    "root vegetables"
+  ],
+  "3482_2014-07-30": [
+    "root vegetables",
+    "pastry"
+  ],
+  "3483_2015-01-15": [
+    "chicken",
+    "frozen vegetables"
+  ],
+  "3484_2014-12-25": [
+    "shopping bags",
+    "beef",
+    "pickled vegetables"
+  ],
+  "3485_2014-10-11": [
+    "rolls/buns",
+    "misc. beverages"
+  ],
+  "3486_2014-12-09": [
+    "soap",
+    "candy"
+  ],
+  "3487_2014-10-25": [
+    "pip fruit",
+    "sugar"
+  ],
+  "3489_2015-01-09": [
+    "specialty chocolate",
+    "yogurt",
+    "tropical fruit",
+    "misc. beverages"
+  ],
+  "3491_2014-11-12": [
+    "rolls/buns",
+    "whole milk"
+  ],
+  "3493_2014-09-02": [
+    "canned beer"
+  ],
+  "3495_2015-01-02": [
+    "oil",
+    "pork",
+    "canned beer",
+    "whole milk"
+  ],
+  "3496_2014-12-20": [
+    "long life bakery product",
+    "margarine"
+  ],
+  "3498_2014-08-16": [
+    "napkins",
+    "coffee"
+  ],
+  "3499_2015-01-13": [
+    "yogurt",
+    "napkins"
+  ],
+  "3500_2015-01-18": [
+    "meat",
+    "tropical fruit"
+  ],
+  "3502_2014-12-07": [
+    "cream cheese ",
+    "whole milk"
+  ],
+  "3505_2014-11-30": [
+    "UHT-milk",
+    "coffee"
+  ],
+  "3507_2014-09-08": [
+    "UHT-milk",
+    "root vegetables"
+  ],
+  "3508_2014-12-15": [
+    "waffles",
+    "frozen fruits",
+    "root vegetables"
+  ],
+  "3509_2014-05-10": [
+    "waffles",
+    "bottled water"
+  ],
+  "3511_2014-09-09": [
+    "chewing gum",
+    "napkins"
+  ],
+  "3514_2014-12-13": [
+    "meat",
+    "butter"
+  ],
+  "3515_2014-06-09": [
+    "root vegetables",
+    "pastry"
+  ],
+  "3516_2014-09-09": [
+    "long life bakery product",
+    "whipped/sour cream",
+    "bottled beer"
+  ],
+  "3517_2014-11-27": [
+    "brown bread",
+    "specialty bar"
+  ],
+  "3518_2015-01-08": [
+    "brown bread",
+    "ham"
+  ],
+  "3520_2014-12-05": [
+    "pudding powder",
+    "sliced cheese"
+  ],
+  "3521_2014-12-25": [
+    "yogurt",
+    "soda"
+  ],
+  "3523_2015-01-04": [
+    "chocolate",
+    "whole milk"
+  ],
+  "3524_2014-11-30": [
+    "newspapers",
+    "sliced cheese",
+    "frozen vegetables"
+  ],
+  "3526_2014-10-24": [
+    "other vegetables",
+    "sausage"
+  ],
+  "3527_2014-04-09": [
+    "dessert",
+    "shopping bags",
+    "processed cheese"
+  ],
+  "3529_2014-08-26": [
+    "yogurt",
+    "root vegetables"
+  ],
+  "3530_2014-06-18": [
+    "frozen meals",
+    "soda"
+  ],
+  "3531_2014-12-26": [
+    "berries",
+    "butter"
+  ],
+  "3535_2015-01-18": [
+    "specialty chocolate",
+    "beef",
+    "pastry"
+  ],
+  "3537_2014-10-08": [
+    "cookware",
+    "frozen vegetables"
+  ],
+  "3538_2015-01-03": [
+    "citrus fruit",
+    "other vegetables"
+  ],
+  "3539_2014-09-05": [
+    "yogurt",
+    "tropical fruit"
+  ],
+  "3540_2014-10-27": [
+    "salty snack",
+    "bottled water"
+  ],
+  "3541_2014-03-18": [
+    "rolls/buns",
+    "house keeping products"
+  ],
+  "3544_2014-12-03": [
+    "frozen dessert",
+    "flower (seeds)"
+  ],
+  "3546_2014-12-10": [
+    "frozen dessert",
+    "tropical fruit"
+  ],
+  "3548_2015-01-06": [
+    "rolls/buns",
+    "instant coffee",
+    "whole milk"
+  ],
+  "3549_2015-01-08": [
+    "beef",
+    "misc. beverages"
+  ],
+  "3550_2014-12-18": [
+    "waffles",
+    "ice cream"
+  ],
+  "3551_2015-01-05": [
+    "tropical fruit",
+    "packaged fruit/vegetables",
+    "beverages",
+    "cereals",
+    "mayonnaise"
+  ],
+  "3552_2014-10-29": [
+    "chocolate marshmallow",
+    "yogurt"
+  ],
+  "3553_2015-01-06": [
+    "ham",
+    "domestic eggs"
+  ],
+  "3554_2014-05-11": [
+    "salty snack",
+    "artif. sweetener"
+  ],
+  "3556_2014-12-17": [
+    "butter milk",
+    "whipped/sour cream"
+  ],
+  "3559_2014-12-18": [
+    "cooking chocolate",
+    "spread cheese"
+  ],
+  "3560_2014-11-26": [
+    "soft cheese",
+    "pickled vegetables"
+  ],
+  "3561_2014-12-28": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "3562_2014-12-17": [
+    "newspapers",
+    "male cosmetics",
+    "butter"
+  ],
+  "3563_2014-12-12": [
+    "ice cream",
+    "bottled beer"
+  ],
+  "3568_2014-08-14": [
+    "newspapers",
+    "bottled beer"
+  ],
+  "3569_2014-10-08": [
+    "chewing gum",
+    "spread cheese"
+  ],
+  "3570_2014-09-14": [
+    "oil",
+    "other vegetables"
+  ],
+  "3571_2014-10-31": [
+    "other vegetables",
+    "pastry"
+  ],
+  "3573_2014-11-19": [
+    "bottled water",
+    "butter"
+  ],
+  "3575_2015-01-20": [
+    "bottled water",
+    "photo/film"
+  ],
+  "3577_2014-07-02": [
+    "fruit/vegetable juice",
+    "sugar"
+  ],
+  "3581_2015-01-16": [
+    "liquor (appetizer)",
+    "yogurt",
+    "whole milk",
+    "tropical fruit",
+    "rolls/buns",
+    "sausage",
+    "light bulbs"
+  ],
+  "3582_2014-11-29": [
+    "berries",
+    "napkins",
+    "cereals"
+  ],
+  "3583_2014-09-13": [
+    "citrus fruit",
+    "whipped/sour cream"
+  ],
+  "3584_2014-11-18": [
+    "soda",
+    "hamburger meat"
+  ],
+  "3587_2014-03-08": [
+    "shopping bags",
+    "other vegetables"
+  ],
+  "3589_2014-07-24": [
+    "salt",
+    "fruit/vegetable juice"
+  ],
+  "3590_2014-10-31": [
+    "specialty bar",
+    "bottled beer"
+  ],
+  "3592_2014-12-20": [
+    "canned beer",
+    "cream cheese "
+  ],
+  "3593_2014-12-04": [
+    "yogurt",
+    "ham"
+  ],
+  "3595_2014-06-01": [
+    "waffles",
+    "domestic eggs",
+    "bottled water",
+    "canned beer"
+  ],
+  "3596_2015-01-19": [
+    "hard cheese",
+    "soda"
+  ],
+  "3600_2014-08-04": [
+    "butter milk",
+    "pickled vegetables"
+  ],
+  "3602_2014-10-27": [
+    "domestic eggs",
+    "whole milk"
+  ],
+  "3603_2014-08-13": [
+    "zwieback",
+    "white bread"
+  ],
+  "3604_2014-12-08": [
+    "pip fruit",
+    "root vegetables"
+  ],
+  "3608_2014-11-16": [
+    "specialty chocolate",
+    "waffles"
+  ],
+  "3609_2014-12-08": [
+    "fruit/vegetable juice",
+    "soda"
+  ],
+  "3610_2014-09-16": [
+    "whole milk",
+    "root vegetables"
+  ],
+  "3612_2014-12-03": [
+    "shopping bags",
+    "margarine"
+  ],
+  "3613_2014-10-20": [
+    "tropical fruit",
+    "flour",
+    "bottled water",
+    "pastry"
+  ],
+  "3614_2014-09-20": [
+    "napkins",
+    "spices"
+  ],
+  "3615_2014-06-13": [
+    "whole milk",
+    "sugar"
+  ],
+  "3616_2014-11-06": [
+    "rolls/buns",
+    "grapes"
+  ],
+  "3617_2014-07-28": [
+    "brown bread",
+    "oil"
+  ],
+  "3618_2014-07-22": [
+    "brown bread",
+    "flour"
+  ],
+  "3619_2014-12-21": [
+    "newspapers",
+    "cat food"
+  ],
+  "3620_2014-09-14": [
+    "soda",
+    "whipped/sour cream"
+  ],
+  "3621_2014-05-22": [
+    "pork",
+    "bottled water"
+  ],
+  "3622_2014-09-28": [
+    "pip fruit",
+    "cereals"
+  ],
+  "3626_2014-11-06": [
+    "other vegetables",
+    "bottled beer"
+  ],
+  "3629_2014-11-22": [
+    "yogurt",
+    "rolls/buns"
+  ],
+  "3632_2014-11-06": [
+    "oil",
+    "candy"
+  ],
+  "3633_2014-12-10": [
+    "oil",
+    "soda"
+  ],
+  "3636_2014-11-19": [
+    "rolls/buns",
+    "bottled water"
+  ],
+  "3639_2014-11-29": [
+    "yogurt",
+    "root vegetables"
+  ],
+  "3641_2014-02-04": [
+    "bottled water",
+    "white bread"
+  ],
+  "3642_2014-08-11": [
+    "pork",
+    "other vegetables"
+  ],
+  "3643_2014-09-26": [
+    "male cosmetics",
+    "pastry"
+  ],
+  "3644_2014-04-16": [
+    "yogurt",
+    "photo/film"
+  ],
+  "3645_2014-08-22": [
+    "chicken",
+    "sugar",
+    "candy"
+  ],
+  "3646_2014-12-05": [
+    "dessert",
+    "rolls/buns",
+    "coffee"
+  ],
+  "3649_2015-01-16": [
+    "yogurt",
+    "canned beer",
+    "bottled beer",
+    "grapes"
+  ],
+  "3651_2014-09-09": [
+    "brown bread",
+    "spread cheese"
+  ],
+  "3657_2014-11-28": [
+    "whole milk",
+    "white bread"
+  ],
+  "3659_2014-12-11": [
+    "pork",
+    "canned beer"
+  ],
+  "3660_2014-10-14": [
+    "sugar",
+    "canned vegetables"
+  ],
+  "3662_2014-08-26": [
+    "other vegetables",
+    "beverages"
+  ],
+  "3663_2014-12-19": [
+    "cream cheese ",
+    "chewing gum"
+  ],
+  "3666_2014-12-04": [
+    "canned beer",
+    "yogurt",
+    "cream cheese "
+  ],
+  "3667_2014-12-13": [
+    "bottled water",
+    "sausage"
+  ],
+  "3668_2014-11-08": [
+    "citrus fruit",
+    "fruit/vegetable juice"
+  ],
+  "3669_2015-01-17": [
+    "pork",
+    "margarine",
+    "white wine"
+  ],
+  "3670_2014-12-17": [
+    "detergent",
+    "rolls/buns"
+  ],
+  "3672_2014-09-30": [
+    "whole milk",
+    "root vegetables"
+  ],
+  "3673_2014-11-08": [
+    "other vegetables",
+    "cream cheese "
+  ],
+  "3674_2014-08-07": [
+    "yogurt",
+    "cream cheese "
+  ],
+  "3675_2014-11-15": [
+    "pork",
+    "popcorn",
+    "whole milk"
+  ],
+  "3678_2014-07-07": [
+    "pasta",
+    "hygiene articles"
+  ],
+  "3680_2014-10-25": [
+    "curd",
+    "soda",
+    "rolls/buns"
+  ],
+  "3681_2014-09-06": [
+    "margarine",
+    "frozen vegetables"
+  ],
+  "3682_2014-12-24": [
+    "shopping bags",
+    "other vegetables",
+    "margarine",
+    "processed cheese"
+  ],
+  "3683_2014-07-11": [
+    "bottled water",
+    "tidbits"
+  ],
+  "3684_2014-08-28": [
+    "root vegetables",
+    "butter"
+  ],
+  "3686_2015-01-04": [
+    "pip fruit",
+    "soda",
+    "coffee"
+  ],
+  "3689_2014-10-09": [
+    "rolls/buns",
+    "pastry"
+  ],
+  "3692_2014-10-19": [
+    "citrus fruit",
+    "bottled beer"
+  ],
+  "3695_2014-12-10": [
+    "citrus fruit",
+    "rolls/buns"
+  ],
+  "3696_2014-05-04": [
+    "roll products ",
+    "citrus fruit",
+    "frozen vegetables"
+  ],
+  "3697_2014-11-02": [
+    "dessert",
+    "other vegetables"
+  ],
+  "3698_2014-11-07": [
+    "whole milk",
+    "root vegetables"
+  ],
+  "3704_2014-03-12": [
+    "other vegetables",
+    "whole milk",
+    "frozen vegetables"
+  ],
+  "3705_2014-08-17": [
+    "yogurt",
+    "UHT-milk",
+    "coffee"
+  ],
+  "3708_2014-10-27": [
+    "yogurt",
+    "pip fruit"
+  ],
+  "3709_2014-12-05": [
+    "pork",
+    "cat food"
+  ],
+  "3712_2014-08-14": [
+    "canned beer",
+    "male cosmetics"
+  ],
+  "3713_2014-12-17": [
+    "citrus fruit",
+    "whole milk"
+  ],
+  "3714_2014-07-06": [
+    "other vegetables",
+    "butter"
+  ],
+  "3716_2014-07-27": [
+    "sweet spreads",
+    "packaged fruit/vegetables"
+  ],
+  "3717_2015-01-04": [
+    "yogurt",
+    "fruit/vegetable juice",
+    "rolls/buns",
+    "frozen vegetables"
+  ],
+  "3718_2014-07-07": [
+    "soda",
+    "bottled water",
+    "hygiene articles"
+  ],
+  "3719_2014-10-26": [
+    "yogurt",
+    "whole milk",
+    "pastry"
+  ],
+  "3720_2014-09-08": [
+    "margarine",
+    "butter"
+  ],
+  "3721_2014-11-18": [
+    "waffles",
+    "citrus fruit"
+  ],
+  "3722_2014-05-07": [
+    "semi-finished bread",
+    "butter"
+  ],
+  "3725_2014-09-20": [
+    "rolls/buns",
+    "root vegetables"
+  ],
+  "3727_2014-07-28": [
+    "citrus fruit",
+    "soda"
+  ],
+  "3728_2014-10-28": [
+    "whipped/sour cream",
+    "white bread"
+  ],
+  "3730_2014-07-26": [
+    "chicken",
+    "onions"
+  ],
+  "3731_2014-08-18": [
+    "roll products ",
+    "other vegetables",
+    "soda"
+  ],
+  "3732_2014-07-14": [
+    "newspapers",
+    "shopping bags",
+    "butter"
+  ],
+  "3733_2014-05-23": [
+    "white bread",
+    "butter"
+  ],
+  "3737_2014-12-30": [
+    "pip fruit",
+    "whole milk"
+  ],
+  "3739_2014-12-01": [
+    "salty snack",
+    "red/blush wine"
+  ],
+  "3743_2014-12-22": [
+    "hard cheese",
+    "pickled vegetables"
+  ],
+  "3745_2014-12-22": [
+    "specialty bar",
+    "soda"
+  ],
+  "3746_2014-05-04": [
+    "chicken",
+    "spread cheese"
+  ],
+  "3749_2014-10-12": [
+    "waffles",
+    "pip fruit"
+  ],
+  "3751_2015-01-01": [
+    "whole milk",
+    "frankfurter",
+    "dishes",
+    "whipped/sour cream",
+    "citrus fruit"
+  ],
+  "3753_2014-12-28": [
+    "herbs",
+    "UHT-milk",
+    "rolls/buns",
+    "bottled beer"
+  ],
+  "3756_2014-11-15": [
+    "other vegetables",
+    "napkins"
+  ],
+  "3757_2014-12-18": [
+    "sugar",
+    "tropical fruit"
+  ],
+  "3758_2015-01-13": [
+    "whole milk",
+    "coffee"
+  ],
+  "3759_2014-08-29": [
+    "newspapers",
+    "shopping bags"
+  ],
+  "3760_2014-11-09": [
+    "shopping bags",
+    "yogurt"
+  ],
+  "3761_2014-12-25": [
+    "long life bakery product",
+    "whole milk"
+  ],
+  "3762_2014-11-28": [
+    "white bread",
+    "photo/film"
+  ],
+  "3763_2014-07-15": [
+    "chocolate",
+    "tropical fruit"
+  ],
+  "3764_2015-01-08": [
+    "yogurt",
+    "other vegetables"
+  ],
+  "3765_2014-11-08": [
+    "skin care",
+    "processed cheese"
+  ],
+  "3767_2014-06-22": [
+    "sweet spreads",
+    "male cosmetics"
+  ],
+  "3768_2015-01-16": [
+    "curd",
+    "pork"
+  ],
+  "3769_2014-02-16": [
+    "hygiene articles",
+    "pickled vegetables"
+  ],
+  "3773_2014-11-09": [
+    "margarine",
+    "frozen fish"
+  ],
+  "3775_2014-10-11": [
+    "newspapers",
+    "cookware"
+  ],
+  "3776_2014-11-28": [
+    "frozen meals",
+    "chicken"
+  ],
+  "3778_2015-01-10": [
+    "citrus fruit",
+    "tropical fruit",
+    "coffee",
+    "pastry"
+  ],
+  "3779_2014-10-27": [
+    "ham",
+    "pastry"
+  ],
+  "3782_2014-09-21": [
+    "shopping bags",
+    "curd",
+    "root vegetables"
+  ],
+  "3783_2014-11-04": [
+    "frozen meals",
+    "white bread",
+    "ready soups",
+    "cereals"
+  ],
+  "3784_2014-04-30": [
+    "waffles",
+    "whipped/sour cream",
+    "root vegetables"
+  ],
+  "3785_2014-12-07": [
+    "newspapers",
+    "other vegetables",
+    "photo/film"
+  ],
+  "3786_2014-10-22": [
+    "bottled water",
+    "ice cream"
+  ],
+  "3787_2014-09-25": [
+    "domestic eggs",
+    "whipped/sour cream",
+    "white bread"
+  ],
+  "3789_2014-10-03": [
+    "soda",
+    "hygiene articles",
+    "pot plants"
+  ],
+  "3790_2014-09-06": [
+    "brown bread",
+    "yogurt"
+  ],
+  "3793_2014-11-13": [
+    "fruit/vegetable juice",
+    "coffee"
+  ],
+  "3795_2015-01-17": [
+    "yogurt",
+    "bottled beer"
+  ],
+  "3797_2015-01-20": [
+    "cream",
+    "sausage"
+  ],
+  "3799_2014-10-11": [
+    "pork",
+    "pip fruit"
+  ],
+  "3800_2014-11-25": [
+    "newspapers",
+    "domestic eggs"
+  ],
+  "3804_2014-12-27": [
+    "other vegetables",
+    "tropical fruit"
+  ],
+  "3805_2014-09-18": [
+    "specialty fat",
+    "butter milk"
+  ],
+  "3808_2014-11-18": [
+    "other vegetables",
+    "bottled water"
+  ],
+  "3809_2014-11-11": [
+    "detergent",
+    "fruit/vegetable juice"
+  ],
+  "3811_2014-07-21": [
+    "yogurt",
+    "other vegetables",
+    "whole milk",
+    "bottled water"
+  ],
+  "3812_2014-11-07": [
+    "long life bakery product",
+    "soda"
+  ],
+  "3813_2015-01-18": [
+    "whole milk",
+    "cat food"
+  ],
+  "3814_2014-10-22": [
+    "domestic eggs",
+    "bottled water"
+  ],
+  "3815_2014-03-09": [
+    "cake bar",
+    "pet care"
+  ],
+  "3816_2014-10-24": [
+    "rolls/buns",
+    "packaged fruit/vegetables"
+  ],
+  "3817_2014-12-29": [
+    "hard cheese",
+    "dessert",
+    "candles",
+    "pastry"
+  ],
+  "3820_2014-10-05": [
+    "yogurt",
+    "tropical fruit",
+    "misc. beverages"
+  ],
+  "3821_2014-12-14": [
+    "tropical fruit",
+    "whipped/sour cream"
+  ],
+  "3822_2014-12-23": [
+    "yogurt",
+    "fruit/vegetable juice"
+  ],
+  "3827_2014-11-09": [
+    "pork",
+    "soda"
+  ],
+  "3828_2014-05-16": [
+    "whole milk",
+    "bottled water"
+  ],
+  "3830_2014-12-10": [
+    "newspapers",
+    "pip fruit",
+    "ice cream",
+    "pastry"
+  ],
+  "3831_2014-03-29": [
+    "yogurt",
+    "tropical fruit",
+    "candy"
+  ],
+  "3832_2014-12-01": [
+    "shopping bags",
+    "specialty bar",
+    "whole milk"
+  ],
+  "3834_2014-05-18": [
+    "salty snack",
+    "rolls/buns"
+  ],
+  "3835_2014-10-15": [
+    "fruit/vegetable juice",
+    "bottled beer"
+  ],
+  "3838_2014-12-21": [
+    "light bulbs",
+    "cooking chocolate"
+  ],
+  "3839_2014-09-13": [
+    "soft cheese",
+    "rice"
+  ],
+  "3840_2014-11-01": [
+    "butter"
+  ],
+  "3841_2015-01-02": [
+    "other vegetables",
+    "ham"
+  ],
+  "3842_2015-01-07": [
+    "beef",
+    "bottled water"
+  ],
+  "3843_2014-09-12": [
+    "citrus fruit",
+    "napkins",
+    "misc. beverages"
+  ],
+  "3844_2014-11-13": [
+    "pot plants",
+    "house keeping products",
+    "pickled vegetables"
+  ],
+  "3846_2014-11-07": [
+    "whole milk",
+    "pickled vegetables"
+  ],
+  "3847_2014-08-06": [
+    "UHT-milk",
+    "sausage"
+  ],
+  "3848_2014-04-01": [
+    "brown bread",
+    "chocolate marshmallow"
+  ],
+  "3849_2014-12-15": [
+    "beverages",
+    "root vegetables"
+  ],
+  "3850_2014-07-01": [
+    "rolls/buns",
+    "pickled vegetables"
+  ],
+  "3851_2014-11-08": [
+    "chocolate",
+    "bottled beer"
+  ],
+  "3852_2015-01-04": [
+    "citrus fruit",
+    "other vegetables"
+  ],
+  "3854_2014-12-27": [
+    "coffee",
+    "tidbits"
+  ],
+  "3855_2014-11-01": [
+    "white wine",
+    "coffee"
+  ],
+  "3856_2014-12-05": [
+    "other vegetables",
+    "cereals"
+  ],
+  "3857_2015-01-10": [
+    "tropical fruit",
+    "bottled water"
+  ],
+  "3861_2014-12-02": [
+    "sweet spreads",
+    "whipped/sour cream"
+  ],
+  "3862_2014-12-26": [
+    "salty snack",
+    "bottled water"
+  ],
+  "3863_2014-12-09": [
+    "cake bar",
+    "red/blush wine"
+  ],
+  "3864_2014-12-30": [
+    "other vegetables",
+    "sliced cheese"
+  ],
+  "3866_2014-10-19": [
+    "root vegetables",
+    "bottled beer"
+  ],
+  "3867_2014-10-08": [
+    "chicken",
+    "flower soil/fertilizer"
+  ],
+  "3869_2015-01-08": [
+    "herbs",
+    "sausage"
+  ],
+  "3871_2014-08-16": [
+    "margarine",
+    "whole milk"
+  ],
+  "3872_2014-08-23": [
+    "salty snack",
+    "yogurt"
+  ],
+  "3876_2014-10-12": [
+    "hard cheese",
+    "domestic eggs"
+  ],
+  "3877_2014-06-27": [
+    "rolls/buns",
+    "whole milk"
+  ],
+  "3878_2014-11-27": [
+    "rolls/buns",
+    "frozen potato products"
+  ],
+  "3879_2014-10-14": [
+    "tropical fruit",
+    "grapes"
+  ],
+  "3881_2014-12-16": [
+    "frozen vegetables"
+  ],
+  "3882_2014-08-15": [
+    "dessert",
+    "butter milk"
+  ],
+  "3889_2014-12-23": [
+    "other vegetables",
+    "soda"
+  ],
+  "3890_2014-12-21": [
+    "soda",
+    "frozen potato products"
+  ],
+  "3891_2014-11-10": [
+    "dessert",
+    "flour"
+  ],
+  "3893_2014-09-10": [
+    "newspapers",
+    "sausage"
+  ],
+  "3895_2014-06-14": [
+    "curd",
+    "light bulbs"
+  ],
+  "3896_2014-11-07": [
+    "newspapers",
+    "dishes"
+  ],
+  "3897_2015-01-02": [
+    "UHT-milk",
+    "soda"
+  ],
+  "3898_2014-10-11": [
+    "hamburger meat",
+    "whipped/sour cream"
+  ],
+  "3899_2014-04-22": [
+    "brown bread",
+    "white bread"
+  ],
+  "3900_2014-12-06": [
+    "pudding powder",
+    "shopping bags",
+    "packaged fruit/vegetables",
+    "coffee"
+  ],
+  "3901_2014-11-30": [
+    "curd",
+    "coffee"
+  ],
+  "3902_2014-10-27": [
+    "liquor (appetizer)",
+    "male cosmetics",
+    "rolls/buns"
+  ],
+  "3903_2014-07-04": [
+    "fruit/vegetable juice",
+    "baking powder"
+  ],
+  "3905_2014-11-05": [
+    "soda",
+    "other vegetables"
+  ],
+  "3909_2014-11-16": [
+    "specialty bar",
+    "rolls/buns",
+    "processed cheese"
+  ],
+  "3910_2014-12-30": [
+    "newspapers",
+    "butter"
+  ],
+  "3911_2014-03-24": [
+    "chocolate",
+    "mayonnaise"
+  ],
+  "3912_2014-08-12": [
+    "yogurt",
+    "cream cheese "
+  ],
+  "3913_2014-11-04": [
+    "newspapers",
+    "canned beer",
+    "tropical fruit"
+  ],
+  "3914_2014-12-11": [
+    "specialty bar",
+    "rolls/buns"
+  ],
+  "3915_2014-11-06": [
+    "other vegetables",
+    "coffee"
+  ],
+  "3916_2014-05-24": [
+    "canned beer",
+    "dishes"
+  ],
+  "3917_2014-06-03": [
+    "butter",
+    "grapes"
+  ],
+  "3918_2014-12-14": [
+    "specialty chocolate",
+    "butter"
+  ],
+  "3919_2014-08-02": [
+    "canned beer",
+    "bottled beer"
+  ],
+  "3920_2014-11-01": [
+    "whole milk",
+    "coffee"
+  ],
+  "3921_2014-06-18": [
+    "cream cheese ",
+    "rolls/buns"
+  ],
+  "3922_2015-01-04": [
+    "citrus fruit",
+    "rolls/buns",
+    "beef",
+    "whole milk"
+  ],
+  "3923_2014-12-19": [
+    "bottled water",
+    "root vegetables"
+  ],
+  "3926_2014-10-02": [
+    "onions",
+    "cat food"
+  ],
+  "3931_2014-10-26": [
+    "canned beer",
+    "long life bakery product"
+  ],
+  "3933_2014-12-07": [
+    "waffles",
+    "shopping bags"
+  ],
+  "3934_2015-01-05": [
+    "cling film/bags",
+    "whole milk",
+    "newspapers",
+    "shopping bags",
+    "bottled beer"
+  ],
+  "3935_2014-12-04": [
+    "yogurt",
+    "specialty bar",
+    "tropical fruit"
+  ],
+  "3936_2014-06-27": [
+    "domestic eggs",
+    "other vegetables"
+  ],
+  "3937_2014-08-10": [
+    "UHT-milk",
+    "tea"
+  ],
+  "3938_2014-11-10": [
+    "shopping bags",
+    "citrus fruit"
+  ],
+  "3942_2014-12-16": [
+    "cling film/bags",
+    "hamburger meat",
+    "flour"
+  ],
+  "3945_2014-10-15": [
+    "margarine",
+    "cereals"
+  ],
+  "3946_2014-12-26": [
+    "salt",
+    "cake bar"
+  ],
+  "3947_2014-08-02": [
+    "chewing gum",
+    "photo/film"
+  ],
+  "3948_2014-10-04": [
+    "soda",
+    "whole milk"
+  ],
+  "3950_2015-01-10": [
+    "tropical fruit",
+    "white bread"
+  ],
+  "3952_2014-07-27": [
+    "other vegetables",
+    "abrasive cleaner"
+  ],
+  "3953_2014-05-19": [
+    "soda",
+    "root vegetables"
+  ],
+  "3956_2014-12-19": [
+    "butter milk",
+    "root vegetables"
+  ],
+  "3957_2014-07-29": [
+    "chicken",
+    "bottled water"
+  ],
+  "3959_2014-05-21": [
+    "rolls/buns",
+    "instant coffee"
+  ],
+  "3960_2014-05-14": [
+    "curd",
+    "margarine",
+    "whipped/sour cream"
+  ],
+  "3961_2014-12-18": [
+    "soda",
+    "tropical fruit"
+  ],
+  "3962_2014-12-13": [
+    "rolls/buns",
+    "white bread"
+  ],
+  "3963_2014-09-21": [
+    "citrus fruit",
+    "whipped/sour cream"
+  ],
+  "3964_2014-11-03": [
+    "bottled water",
+    "whipped/sour cream",
+    "root vegetables"
+  ],
+  "3965_2014-12-30": [
+    "semi-finished bread",
+    "tropical fruit"
+  ],
+  "3966_2015-01-06": [
+    "frankfurter",
+    "root vegetables"
+  ],
+  "3967_2014-10-10": [
+    "shopping bags",
+    "root vegetables"
+  ],
+  "3971_2014-11-11": [
+    "whole milk",
+    "bottled beer"
+  ],
+  "3972_2014-09-10": [
+    "soda",
+    "hygiene articles"
+  ],
+  "3973_2014-06-28": [
+    "other vegetables",
+    "pickled vegetables"
+  ],
+  "3976_2014-10-25": [
+    "pasta",
+    "sliced cheese"
+  ],
+  "3982_2014-11-22": [
+    "brown bread",
+    "yogurt",
+    "jam"
+  ],
+  "3985_2015-01-20": [
+    "bottled water",
+    "bottled beer"
+  ],
+  "3989_2014-10-18": [
+    "chicken",
+    "rolls/buns"
+  ],
+  "3992_2014-12-04": [
+    "dessert",
+    "specialty bar"
+  ],
+  "3996_2014-11-27": [
+    "tropical fruit",
+    "beef"
+  ],
+  "3998_2014-11-08": [
+    "yogurt",
+    "frozen vegetables"
+  ],
+  "4002_2014-08-24": [
+    "butter milk",
+    "pork"
+  ],
+  "4003_2014-12-21": [
+    "detergent",
+    "shopping bags"
+  ],
+  "4007_2014-09-12": [
+    "specialty chocolate",
+    "bottled beer"
+  ],
+  "4008_2014-12-18": [
+    "canned fish",
+    "tropical fruit"
+  ],
+  "4009_2014-12-21": [
+    "soda",
+    "butter"
+  ],
+  "4013_2014-12-23": [
+    "popcorn",
+    "canned vegetables"
+  ],
+  "4014_2014-07-31": [
+    "pip fruit",
+    "other vegetables"
+  ],
+  "4015_2014-12-18": [
+    "yogurt",
+    "hamburger meat"
+  ],
+  "4018_2014-11-23": [
+    "soda",
+    "napkins"
+  ],
+  "4019_2014-10-31": [
+    "rum",
+    "root vegetables"
+  ],
+  "4021_2014-10-31": [
+    "yogurt",
+    "other vegetables"
+  ],
+  "4024_2014-11-22": [
+    "yogurt",
+    "dog food"
+  ],
+  "4025_2014-10-04": [
+    "yogurt",
+    "sausage"
+  ],
+  "4028_2014-12-06": [
+    "whipped/sour cream",
+    "coffee"
+  ],
+  "4030_2014-05-29": [
+    "margarine",
+    "butter"
+  ],
+  "4033_2014-03-18": [
+    "soft cheese",
+    "frozen vegetables"
+  ],
+  "4036_2014-06-20": [
+    "canned beer",
+    "honey"
+  ],
+  "4037_2014-12-26": [
+    "pasta",
+    "ice cream"
+  ],
+  "4039_2015-01-19": [
+    "pip fruit",
+    "vinegar"
+  ],
+  "4040_2014-11-14": [
+    "herbs",
+    "chocolate",
+    "margarine",
+    "rolls/buns"
+  ],
+  "4042_2014-07-26": [
+    "frozen dessert",
+    "canned beer"
+  ],
+  "4044_2015-01-12": [
+    "hamburger meat",
+    "frankfurter"
+  ],
+  "4045_2014-11-02": [
+    "beverages",
+    "pastry"
+  ],
+  "4046_2014-12-29": [
+    "semi-finished bread",
+    "root vegetables"
+  ],
+  "4048_2014-12-04": [
+    "specialty chocolate",
+    "fruit/vegetable juice",
+    "rolls/buns"
+  ],
+  "4049_2015-01-08": [
+    "chicken",
+    "specialty chocolate",
+    "whole milk",
+    "tropical fruit",
+    "curd",
+    "semi-finished bread",
+    "citrus fruit"
+  ],
+  "4050_2014-09-03": [
+    "whole milk",
+    "beef"
+  ],
+  "4056_2014-10-05": [
+    "salty snack",
+    "tropical fruit"
+  ],
+  "4058_2014-12-18": [
+    "butter milk",
+    "specialty cheese"
+  ],
+  "4060_2014-11-10": [
+    "rolls/buns",
+    "tropical fruit"
+  ],
+  "4061_2014-04-07": [
+    "dish cleaner",
+    "frozen potato products"
+  ],
+  "4065_2014-12-10": [
+    "semi-finished bread",
+    "bottled water"
+  ],
+  "4066_2014-07-08": [
+    "citrus fruit",
+    "zwieback"
+  ],
+  "4067_2014-04-29": [
+    "condensed milk",
+    "tropical fruit"
+  ],
+  "4069_2014-10-08": [
+    "Instant food products",
+    "pickled vegetables"
+  ],
+  "4070_2014-08-03": [
+    "specialty chocolate",
+    "soft cheese"
+  ],
+  "4071_2014-12-16": [
+    "other vegetables",
+    "beverages"
+  ],
+  "4073_2014-04-26": [
+    "detergent",
+    "misc. beverages"
+  ],
+  "4074_2014-11-14": [
+    "herbs",
+    "yogurt"
+  ],
+  "4075_2014-08-03": [
+    "whole milk",
+    "butter"
+  ],
+  "4076_2014-11-18": [
+    "bathroom cleaner",
+    "rolls/buns"
+  ],
+  "4077_2014-12-25": [
+    "bottled water",
+    "sauces"
+  ],
+  "4078_2014-11-01": [
+    "hard cheese",
+    "ham"
+  ],
+  "4080_2014-10-11": [
+    "salty snack",
+    "canned beer"
+  ],
+  "4081_2014-11-01": [
+    "domestic eggs",
+    "pip fruit"
+  ],
+  "4082_2015-01-18": [
+    "specialty chocolate",
+    "brandy"
+  ],
+  "4084_2014-11-28": [
+    "other vegetables",
+    "tidbits"
+  ],
+  "4085_2014-08-05": [
+    "whipped/sour cream",
+    "butter"
+  ],
+  "4086_2014-11-15": [
+    "salty snack",
+    "pastry"
+  ],
+  "4088_2015-01-13": [
+    "chicken",
+    "curd",
+    "pip fruit"
+  ],
+  "4089_2014-03-18": [
+    "dessert",
+    "bottled water"
+  ],
+  "4090_2014-09-16": [
+    "yogurt",
+    "pot plants"
+  ],
+  "4091_2014-08-26": [
+    "cream cheese ",
+    "rolls/buns"
+  ],
+  "4093_2014-08-09": [
+    "herbs",
+    "citrus fruit"
+  ],
+  "4094_2014-10-21": [
+    "canned beer",
+    "fruit/vegetable juice"
+  ],
+  "4096_2014-06-13": [
+    "yogurt",
+    "fruit/vegetable juice",
+    "beef"
+  ],
+  "4097_2014-07-14": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "4098_2014-12-09": [
+    "berries",
+    "soda",
+    "whole milk",
+    "tropical fruit"
+  ],
+  "4100_2015-01-03": [
+    "whole milk",
+    "whipped/sour cream"
+  ],
+  "4101_2014-11-27": [
+    "brown bread",
+    "rolls/buns"
+  ],
+  "4103_2014-12-22": [
+    "curd",
+    "yogurt"
+  ],
+  "4104_2015-01-01": [
+    "dessert",
+    "soda"
+  ],
+  "4106_2014-09-21": [
+    "pastry"
+  ],
+  "4107_2014-05-10": [
+    "frankfurter",
+    "pastry"
+  ],
+  "4108_2014-09-13": [
+    "chewing gum",
+    "whipped/sour cream"
+  ],
+  "4109_2014-05-12": [
+    "rolls/buns",
+    "frozen vegetables"
+  ],
+  "4110_2014-03-15": [
+    "red/blush wine",
+    "sausage"
+  ],
+  "4112_2014-10-14": [
+    "specialty chocolate",
+    "whipped/sour cream"
+  ],
+  "4113_2014-12-23": [
+    "curd",
+    "onions"
+  ],
+  "4114_2014-07-08": [
+    "chicken",
+    "flour"
+  ],
+  "4115_2014-08-02": [
+    "yogurt",
+    "other vegetables"
+  ],
+  "4116_2015-01-05": [
+    "detergent",
+    "soda",
+    "pastry"
+  ],
+  "4117_2014-12-07": [
+    "liquor (appetizer)",
+    "liquor"
+  ],
+  "4120_2015-01-17": [
+    "roll products ",
+    "sausage"
+  ],
+  "4121_2015-01-11": [
+    "shopping bags",
+    "curd",
+    "whole milk"
+  ],
+  "4124_2014-12-25": [
+    "chicken",
+    "rolls/buns"
+  ],
+  "4125_2014-09-21": [
+    "pastry",
+    "pet care"
+  ],
+  "4126_2014-10-18": [
+    "hamburger meat",
+    "coffee"
+  ],
+  "4129_2014-10-23": [
+    "soda",
+    "root vegetables",
+    "cream cheese "
+  ],
+  "4130_2014-10-24": [
+    "yogurt",
+    "berries"
+  ],
+  "4131_2014-08-10": [
+    "other vegetables",
+    "root vegetables",
+    "grapes"
+  ],
+  "4132_2014-09-20": [
+    "other vegetables",
+    "margarine"
+  ],
+  "4133_2014-08-22": [
+    "seasonal products",
+    "soups"
+  ],
+  "4134_2014-12-26": [
+    "brown bread",
+    "specialty bar",
+    "bottled water",
+    "other vegetables"
+  ],
+  "4135_2014-11-05": [
+    "cream cheese ",
+    "whole milk"
+  ],
+  "4136_2014-03-16": [
+    "frozen dessert",
+    "root vegetables"
+  ],
+  "4137_2014-12-21": [
+    "fruit/vegetable juice"
+  ],
+  "4138_2014-08-24": [
+    "beef",
+    "processed cheese"
+  ],
+  "4140_2014-02-20": [
+    "whole milk",
+    "hygiene articles"
+  ],
+  "4143_2014-07-03": [
+    "salt",
+    "mustard"
+  ],
+  "4144_2015-01-04": [
+    "finished products",
+    "whole milk"
+  ],
+  "4145_2014-05-17": [
+    "onions",
+    "pastry"
+  ],
+  "4146_2014-11-04": [
+    "root vegetables",
+    "bottled beer"
+  ],
+  "4148_2014-09-28": [
+    "UHT-milk",
+    "whole milk"
+  ],
+  "4149_2014-12-05": [
+    "dessert",
+    "pip fruit"
+  ],
+  "4150_2014-08-17": [
+    "cream cheese ",
+    "root vegetables"
+  ],
+  "4152_2014-12-21": [
+    "condensed milk",
+    "hamburger meat"
+  ],
+  "4153_2014-09-28": [
+    "brown bread",
+    "salty snack",
+    "cream cheese ",
+    "rolls/buns"
+  ],
+  "4154_2014-12-16": [
+    "pasta",
+    "beef"
+  ],
+  "4155_2014-10-09": [
+    "softener",
+    "salty snack",
+    "whole milk",
+    "Instant food products"
+  ],
+  "4156_2014-12-13": [
+    "shopping bags",
+    "butter milk",
+    "packaged fruit/vegetables"
+  ],
+  "4159_2014-11-07": [
+    "canned fish",
+    "cat food"
+  ],
+  "4160_2014-10-07": [
+    "spread cheese",
+    "specialty cheese",
+    "dish cleaner"
+  ],
+  "4162_2014-08-16": [
+    "whole milk",
+    "bottled water",
+    "bottled beer"
+  ],
+  "4163_2014-06-06": [
+    "whole milk",
+    "bottled beer",
+    "cat food"
+  ],
+  "4164_2014-09-25": [
+    "prosecco",
+    "soda",
+    "canned fish"
+  ],
+  "4165_2014-12-01": [
+    "condensed milk",
+    "tropical fruit"
+  ],
+  "4167_2014-10-28": [
+    "sauces",
+    "pastry"
+  ],
+  "4168_2014-09-23": [
+    "chicken",
+    "margarine"
+  ],
+  "4169_2014-09-08": [
+    "soda",
+    "root vegetables",
+    "coffee",
+    "domestic eggs"
+  ],
+  "4174_2014-10-18": [
+    "rolls/buns",
+    "whole milk"
+  ],
+  "4176_2014-11-06": [
+    "waffles",
+    "other vegetables",
+    "rolls/buns"
+  ],
+  "4178_2014-12-25": [
+    "brown bread",
+    "root vegetables"
+  ],
+  "4180_2015-01-04": [
+    "brown bread",
+    "specialty chocolate"
+  ],
+  "4182_2014-11-15": [
+    "specialty bar",
+    "beef",
+    "white bread"
+  ],
+  "4183_2015-01-15": [
+    "shopping bags",
+    "domestic eggs",
+    "whole milk",
+    "salty snack"
+  ],
+  "4185_2015-01-16": [
+    "curd",
+    "pip fruit",
+    "rolls/buns",
+    "coffee"
+  ],
+  "4187_2014-04-19": [
+    "pip fruit",
+    "onions"
+  ],
+  "4190_2014-12-30": [
+    "cake bar",
+    "soda"
+  ],
+  "4191_2014-10-11": [
+    "other vegetables",
+    "spread cheese"
+  ],
+  "4192_2014-08-06": [
+    "beverages",
+    "whole milk"
+  ],
+  "4193_2014-12-29": [
+    "bottled beer",
+    "pastry"
+  ],
+  "4194_2014-12-25": [
+    "fruit/vegetable juice",
+    "frozen vegetables"
+  ],
+  "4195_2015-01-10": [
+    "other vegetables",
+    "cream cheese ",
+    "rolls/buns",
+    "waffles",
+    "root vegetables",
+    "bottled beer"
+  ],
+  "4196_2014-07-27": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "4197_2014-09-29": [
+    "detergent",
+    "pastry"
+  ],
+  "4199_2014-08-24": [
+    "beef",
+    "margarine",
+    "baking powder"
+  ],
+  "4201_2014-12-09": [
+    "curd",
+    "syrup"
+  ],
+  "4202_2014-12-07": [
+    "citrus fruit",
+    "long life bakery product",
+    "rolls/buns"
+  ],
+  "4204_2014-11-11": [
+    "curd",
+    "whipped/sour cream"
+  ],
+  "4206_2014-11-27": [
+    "fruit/vegetable juice",
+    "frozen vegetables"
+  ],
+  "4209_2014-07-29": [
+    "liquor (appetizer)",
+    "long life bakery product"
+  ],
+  "4211_2014-09-16": [
+    "margarine",
+    "tropical fruit",
+    "pastry"
+  ],
+  "4212_2015-01-05": [
+    "other vegetables",
+    "tropical fruit"
+  ],
+  "4213_2014-06-11": [
+    "rolls/buns",
+    "coffee"
+  ],
+  "4214_2014-10-07": [
+    "yogurt",
+    "domestic eggs"
+  ],
+  "4215_2014-10-04": [
+    "newspapers",
+    "yogurt",
+    "long life bakery product"
+  ],
+  "4216_2014-12-25": [
+    "citrus fruit",
+    "butter milk"
+  ],
+  "4217_2015-01-12": [
+    "whole milk",
+    "bottled water"
+  ],
+  "4218_2014-09-15": [
+    "domestic eggs",
+    "hamburger meat",
+    "dog food"
+  ],
+  "4219_2014-09-21": [
+    "citrus fruit",
+    "sliced cheese"
+  ],
+  "4220_2014-05-05": [
+    "soft cheese",
+    "rolls/buns"
+  ],
+  "4221_2014-04-05": [
+    "shopping bags",
+    "dish cleaner"
+  ],
+  "4223_2014-06-15": [
+    "newspapers",
+    "whole milk"
+  ],
+  "4224_2014-08-30": [
+    "rolls/buns",
+    "pastry"
+  ],
+  "4226_2014-11-27": [
+    "dessert",
+    "chocolate"
+  ],
+  "4227_2014-08-08": [
+    "rolls/buns",
+    "whipped/sour cream"
+  ],
+  "4228_2014-08-02": [
+    "soda",
+    "beverages"
+  ],
+  "4232_2014-10-06": [
+    "whole milk",
+    "processed cheese"
+  ],
+  "4233_2014-08-18": [
+    "pork",
+    "cleaner"
+  ],
+  "4234_2014-10-27": [
+    "pip fruit",
+    "whole milk"
+  ],
+  "4235_2014-10-18": [
+    "oil",
+    "chocolate",
+    "rolls/buns"
+  ],
+  "4236_2014-05-13": [
+    "skin care",
+    "napkins"
+  ],
+  "4241_2014-09-22": [
+    "popcorn",
+    "cat food"
+  ],
+  "4243_2014-12-29": [
+    "whipped/sour cream",
+    "pot plants"
+  ],
+  "4244_2014-12-16": [
+    "frozen fruits",
+    "pot plants"
+  ],
+  "4245_2014-11-21": [
+    "tropical fruit",
+    "bottled water"
+  ],
+  "4246_2015-01-12": [
+    "whole milk",
+    "sausage"
+  ],
+  "4250_2014-10-25": [
+    "shopping bags",
+    "cake bar"
+  ],
+  "4251_2015-01-17": [
+    "pork",
+    "pastry"
+  ],
+  "4252_2014-12-25": [
+    "newspapers",
+    "ham"
+  ],
+  "4255_2014-09-29": [
+    "brown bread",
+    "yogurt"
+  ],
+  "4256_2014-09-05": [
+    "oil",
+    "whole milk"
+  ],
+  "4257_2014-06-14": [
+    "dessert",
+    "sausage"
+  ],
+  "4258_2014-06-24": [
+    "frozen meals",
+    "sausage"
+  ],
+  "4259_2014-12-20": [
+    "domestic eggs"
+  ],
+  "4261_2014-09-28": [
+    "other vegetables",
+    "napkins"
+  ],
+  "4262_2014-08-17": [
+    "newspapers",
+    "domestic eggs"
+  ],
+  "4264_2014-07-20": [
+    "soft cheese",
+    "spices"
+  ],
+  "4265_2014-10-31": [
+    "other vegetables",
+    "soda"
+  ],
+  "4266_2014-11-29": [
+    "yogurt",
+    "soda",
+    "frozen vegetables"
+  ],
+  "4268_2014-12-07": [
+    "cream cheese ",
+    "margarine"
+  ],
+  "4269_2015-01-04": [
+    "frankfurter",
+    "dishes",
+    "whipped/sour cream",
+    "semi-finished bread",
+    "citrus fruit"
+  ],
+  "4270_2014-03-16": [
+    "brown bread",
+    "napkins"
+  ],
+  "4271_2014-12-19": [
+    "shopping bags",
+    "pasta",
+    "whipped/sour cream"
+  ],
+  "4272_2014-11-25": [
+    "specialty chocolate",
+    "other vegetables",
+    "napkins"
+  ],
+  "4274_2015-01-08": [
+    "whole milk",
+    "bottled beer"
+  ],
+  "4275_2014-10-30": [
+    "canned beer",
+    "sugar",
+    "hygiene articles",
+    "whole milk"
+  ],
+  "4277_2014-04-09": [
+    "brown bread",
+    "rolls/buns",
+    "hygiene articles"
+  ],
+  "4278_2014-05-20": [
+    "white wine",
+    "canned vegetables"
+  ],
+  "4280_2014-06-26": [
+    "soda",
+    "bottled water",
+    "bottled beer",
+    "cat food"
+  ],
+  "4281_2014-09-03": [
+    "hard cheese",
+    "yogurt"
+  ],
+  "4283_2014-11-06": [
+    "liquor (appetizer)",
+    "bottled beer",
+    "coffee"
+  ],
+  "4284_2014-06-18": [
+    "canned beer",
+    "whole milk"
+  ],
+  "4285_2014-08-17": [
+    "mustard",
+    "pastry"
+  ],
+  "4288_2014-09-24": [
+    "canned beer",
+    "soda"
+  ],
+  "4290_2014-06-30": [
+    "dessert",
+    "yogurt"
+  ],
+  "4291_2014-07-08": [
+    "sugar",
+    "bottled water",
+    "coffee"
+  ],
+  "4292_2014-06-04": [
+    "salt",
+    "coffee",
+    "frozen potato products"
+  ],
+  "4293_2014-04-17": [
+    "herbs",
+    "specialty chocolate"
+  ],
+  "4294_2014-12-17": [
+    "butter milk",
+    "flour"
+  ],
+  "4297_2014-12-24": [
+    "curd",
+    "other vegetables",
+    "whole milk"
+  ],
+  "4298_2014-10-20": [
+    "salty snack",
+    "tropical fruit"
+  ],
+  "4299_2014-10-21": [
+    "seasonal products",
+    "rolls/buns"
+  ],
+  "4300_2014-01-28": [
+    "soft cheese",
+    "hamburger meat"
+  ],
+  "4301_2015-01-05": [
+    "yogurt",
+    "whole milk",
+    "chewing gum",
+    "hamburger meat",
+    "soda",
+    "soft cheese",
+    "pork",
+    "sausage"
+  ],
+  "4302_2014-11-26": [
+    "specialty bar",
+    "misc. beverages"
+  ],
+  "4303_2014-11-28": [
+    "specialty bar",
+    "root vegetables"
+  ],
+  "4304_2015-01-02": [
+    "canned beer",
+    "pip fruit",
+    "sugar"
+  ],
+  "4305_2014-12-18": [
+    "newspapers",
+    "soda"
+  ],
+  "4306_2014-05-17": [
+    "napkins",
+    "white bread"
+  ],
+  "4308_2014-11-29": [
+    "soda",
+    "sliced cheese"
+  ],
+  "4310_2014-07-07": [
+    "specialty chocolate",
+    "red/blush wine",
+    "whole milk"
+  ],
+  "4311_2014-06-23": [
+    "newspapers",
+    "frozen meals"
+  ],
+  "4312_2014-07-19": [
+    "margarine",
+    "whole milk",
+    "curd",
+    "pip fruit",
+    "root vegetables"
+  ],
+  "4314_2014-12-02": [
+    "waffles",
+    "other vegetables"
+  ],
+  "4316_2014-08-31": [
+    "detergent",
+    "canned beer",
+    "meat"
+  ],
+  "4317_2014-03-27": [
+    "cream cheese ",
+    "sparkling wine"
+  ],
+  "4318_2014-09-08": [
+    "specialty fat",
+    "domestic eggs"
+  ],
+  "4319_2014-10-03": [
+    "newspapers",
+    "shopping bags"
+  ],
+  "4320_2015-01-13": [
+    "popcorn",
+    "other vegetables",
+    "butter"
+  ],
+  "4321_2014-08-13": [
+    "grapes",
+    "misc. beverages"
+  ],
+  "4322_2014-07-25": [
+    "coffee",
+    "misc. beverages"
+  ],
+  "4324_2014-10-29": [
+    "butter milk",
+    "napkins"
+  ],
+  "4325_2014-11-12": [
+    "brown bread",
+    "oil",
+    "pip fruit"
+  ],
+  "4329_2014-10-23": [
+    "dessert",
+    "tropical fruit"
+  ],
+  "4330_2014-09-24": [
+    "yogurt",
+    "other vegetables",
+    "whipped/sour cream"
+  ],
+  "4331_2014-08-17": [
+    "other vegetables",
+    "coffee"
+  ],
+  "4334_2014-03-16": [
+    "domestic eggs",
+    "margarine",
+    "bottled water",
+    "pickled vegetables"
+  ],
+  "4335_2014-07-17": [
+    "margarine",
+    "rolls/buns"
+  ],
+  "4336_2014-12-10": [
+    "brown bread",
+    "newspapers"
+  ],
+  "4337_2014-08-28": [
+    "cream cheese ",
+    "sausage"
+  ],
+  "4338_2014-10-25": [
+    "pip fruit",
+    "candy"
+  ],
+  "4339_2014-11-20": [
+    "domestic eggs",
+    "whole milk"
+  ],
+  "4340_2014-10-27": [
+    "berries",
+    "soft cheese"
+  ],
+  "4341_2014-12-02": [
+    "chocolate marshmallow",
+    "other vegetables"
+  ],
+  "4342_2014-10-27": [
+    "other vegetables",
+    "whipped/sour cream"
+  ],
+  "4344_2015-01-03": [
+    "frozen meals",
+    "long life bakery product",
+    "soda",
+    "sausage"
+  ],
+  "4345_2014-07-16": [
+    "shopping bags",
+    "citrus fruit"
+  ],
+  "4348_2014-11-02": [
+    "salty snack",
+    "white bread"
+  ],
+  "4349_2014-11-22": [
+    "brown bread",
+    "soda"
+  ],
+  "4351_2015-01-16": [
+    "whole milk",
+    "tropical fruit",
+    "bottled beer",
+    "house keeping products"
+  ],
+  "4353_2014-12-07": [
+    "tropical fruit",
+    "coffee"
+  ],
+  "4354_2015-01-16": [
+    "oil",
+    "beverages"
+  ],
+  "4355_2014-10-09": [
+    "pip fruit",
+    "pet care"
+  ],
+  "4356_2015-01-12": [
+    "tropical fruit",
+    "whole milk",
+    "napkins",
+    "butter"
+  ],
+  "4359_2014-03-07": [
+    "cling film/bags",
+    "fruit/vegetable juice",
+    "citrus fruit"
+  ],
+  "4360_2014-12-14": [
+    "citrus fruit",
+    "domestic eggs"
+  ],
+  "4362_2014-06-14": [
+    "seasonal products",
+    "whipped/sour cream"
+  ],
+  "4363_2015-01-07": [
+    "soda",
+    "whole milk"
+  ],
+  "4364_2015-01-17": [
+    "dessert",
+    "flour"
+  ],
+  "4367_2014-09-28": [
+    "shopping bags",
+    "root vegetables"
+  ],
+  "4368_2014-05-22": [
+    "yogurt",
+    "coffee"
+  ],
+  "4369_2015-01-02": [
+    "yogurt",
+    "soda"
+  ],
+  "4370_2014-12-02": [
+    "domestic eggs",
+    "long life bakery product",
+    "other vegetables"
+  ],
+  "4371_2014-05-24": [
+    "butter",
+    "frozen vegetables"
+  ],
+  "4372_2014-11-09": [
+    "dessert",
+    "waffles",
+    "whole milk"
+  ],
+  "4373_2014-07-07": [
+    "pork",
+    "house keeping products"
+  ],
+  "4374_2014-09-19": [
+    "fruit/vegetable juice",
+    "hamburger meat"
+  ],
+  "4375_2014-10-30": [
+    "female sanitary products",
+    "frozen fish"
+  ],
+  "4376_2014-09-24": [
+    "brown bread",
+    "salty snack",
+    "dog food"
+  ],
+  "4379_2015-01-10": [
+    "turkey",
+    "sugar"
+  ],
+  "4380_2014-12-08": [
+    "red/blush wine",
+    "liquor"
+  ],
+  "4383_2014-03-06": [
+    "whole milk",
+    "whipped/sour cream"
+  ],
+  "4384_2014-10-22": [
+    "bottled water",
+    "whipped/sour cream"
+  ],
+  "4387_2014-12-23": [
+    "whipped/sour cream",
+    "coffee"
+  ],
+  "4388_2014-08-16": [
+    "rolls/buns",
+    "frozen fish"
+  ],
+  "4389_2014-10-31": [
+    "soda",
+    "frankfurter"
+  ],
+  "4390_2015-01-20": [
+    "whole milk",
+    "coffee"
+  ],
+  "4391_2014-10-24": [
+    "pork",
+    "napkins"
+  ],
+  "4392_2014-10-07": [
+    "specialty bar",
+    "whipped/sour cream",
+    "packaged fruit/vegetables"
+  ],
+  "4394_2014-11-13": [
+    "detergent",
+    "curd"
+  ],
+  "4397_2014-12-27": [
+    "dessert",
+    "rolls/buns"
+  ],
+  "4398_2014-12-03": [
+    "specialty chocolate",
+    "long life bakery product"
+  ],
+  "4400_2014-01-31": [
+    "butter milk",
+    "pet care"
+  ],
+  "4401_2014-09-10": [
+    "bottled water",
+    "whipped/sour cream"
+  ],
+  "4402_2014-09-10": [
+    "newspapers",
+    "meat",
+    "cleaner"
+  ],
+  "4403_2014-11-01": [
+    "pastry",
+    "other vegetables",
+    "butter"
+  ],
+  "4404_2014-10-10": [
+    "coffee",
+    "candy"
+  ],
+  "4406_2015-01-02": [
+    "domestic eggs",
+    "whole milk",
+    "artif. sweetener"
+  ],
+  "4407_2014-12-25": [
+    "soda",
+    "bottled water"
+  ],
+  "4408_2014-02-07": [
+    "shopping bags",
+    "misc. beverages"
+  ],
+  "4409_2015-01-15": [
+    "brown bread",
+    "UHT-milk",
+    "whole milk",
+    "ice cream"
+  ],
+  "4410_2014-11-24": [
+    "newspapers",
+    "curd",
+    "whole milk",
+    "bottled beer"
+  ],
+  "4412_2014-11-03": [
+    "napkins",
+    "root vegetables"
+  ],
+  "4414_2014-10-15": [
+    "shopping bags",
+    "bottled water",
+    "whipped/sour cream"
+  ],
+  "4415_2014-08-22": [
+    "other vegetables",
+    "bottled water"
+  ],
+  "4416_2014-07-30": [
+    "newspapers",
+    "brown bread"
+  ],
+  "4418_2015-01-13": [
+    "ham",
+    "processed cheese"
+  ],
+  "4420_2014-10-27": [
+    "coffee",
+    "frozen potato products"
+  ],
+  "4422_2014-10-19": [
+    "pip fruit",
+    "bottled water"
+  ],
+  "4426_2014-10-30": [
+    "UHT-milk",
+    "coffee"
+  ],
+  "4427_2015-01-14": [
+    "tropical fruit",
+    "root vegetables",
+    "sausage",
+    "spread cheese"
+  ],
+  "4430_2014-05-21": [
+    "citrus fruit",
+    "cream cheese "
+  ],
+  "4431_2014-12-06": [
+    "soda",
+    "whole milk"
+  ],
+  "4432_2014-04-12": [
+    "sausage",
+    "candy"
+  ],
+  "4433_2014-10-31": [
+    "margarine",
+    "bottled water"
+  ],
+  "4434_2014-11-29": [
+    "chocolate",
+    "tropical fruit"
+  ],
+  "4435_2014-10-28": [
+    "canned beer",
+    "white bread"
+  ],
+  "4437_2014-11-13": [
+    "other vegetables",
+    "napkins"
+  ],
+  "4440_2015-01-12": [
+    "root vegetables",
+    "sparkling wine"
+  ],
+  "4441_2014-12-12": [
+    "waffles",
+    "fruit/vegetable juice",
+    "newspapers"
+  ],
+  "4442_2014-08-04": [
+    "pastry",
+    "margarine",
+    "pet care"
+  ],
+  "4443_2014-10-19": [
+    "brown bread",
+    "frozen meals",
+    "dishes"
+  ],
+  "4444_2014-09-07": [
+    "canned beer",
+    "bottled water"
+  ],
+  "4445_2015-01-12": [
+    "berries",
+    "other vegetables"
+  ],
+  "4448_2014-11-12": [
+    "herbs",
+    "UHT-milk",
+    "whole milk"
+  ],
+  "4449_2014-11-12": [
+    "salty snack",
+    "curd"
+  ],
+  "4450_2014-10-31": [
+    "rolls/buns",
+    "bottled beer"
+  ],
+  "4453_2014-07-11": [
+    "whole milk"
+  ],
+  "4455_2014-09-10": [
+    "margarine",
+    "rolls/buns"
+  ],
+  "4458_2014-03-21": [
+    "specialty chocolate",
+    "soda",
+    "seasonal products",
+    "white bread"
+  ],
+  "4459_2014-12-08": [
+    "yogurt",
+    "other vegetables"
+  ],
+  "4461_2014-11-16": [
+    "newspapers",
+    "white bread"
+  ],
+  "4462_2014-09-21": [
+    "frankfurter",
+    "pickled vegetables"
+  ],
+  "4463_2014-08-06": [
+    "pip fruit",
+    "bottled beer"
+  ],
+  "4464_2014-11-04": [
+    "hard cheese",
+    "oil"
+  ],
+  "4465_2014-12-29": [
+    "soda",
+    "onions"
+  ],
+  "4467_2014-11-12": [
+    "soda",
+    "meat"
+  ],
+  "4468_2014-12-03": [
+    "bottled water",
+    "sliced cheese",
+    "onions"
+  ],
+  "4469_2014-11-29": [
+    "tropical fruit",
+    "root vegetables"
+  ],
+  "4470_2014-08-02": [
+    "brown bread",
+    "liquor"
+  ],
+  "4471_2014-08-10": [
+    "yogurt",
+    "whole milk",
+    "sliced cheese"
+  ],
+  "4473_2014-12-21": [
+    "specialty bar",
+    "canned beer"
+  ],
+  "4474_2014-07-18": [
+    "yogurt",
+    "bottled water"
+  ],
+  "4479_2014-11-25": [
+    "rolls/buns"
+  ],
+  "4480_2014-12-06": [
+    "chocolate",
+    "misc. beverages"
+  ],
+  "4481_2014-11-08": [
+    "frozen meals",
+    "fruit/vegetable juice"
+  ],
+  "4484_2014-06-06": [
+    "canned fish",
+    "whipped/sour cream"
+  ],
+  "4485_2014-11-13": [
+    "canned beer",
+    "margarine",
+    "beef"
+  ],
+  "4487_2014-08-18": [
+    "whole milk",
+    "spread cheese"
+  ],
+  "4488_2014-12-16": [
+    "specialty fat",
+    "other vegetables"
+  ],
+  "4492_2014-11-25": [
+    "butter milk",
+    "rolls/buns"
+  ],
+  "4493_2014-11-29": [
+    "waffles",
+    "margarine"
+  ],
+  "4494_2014-11-30": [
+    "frozen dessert",
+    "fruit/vegetable juice"
+  ],
+  "4495_2014-10-23": [
+    "hamburger meat",
+    "whole milk"
+  ],
+  "4498_2014-07-22": [
+    "frozen meals",
+    "butter"
+  ],
+  "4499_2014-12-20": [
+    "fruit/vegetable juice",
+    "canned vegetables"
+  ],
+  "4500_2014-11-15": [
+    "cling film/bags",
+    "rolls/buns"
+  ],
+  "4501_2014-08-09": [
+    "dessert",
+    "chicken"
+  ],
+  "4502_2014-09-13": [
+    "shopping bags",
+    "whole milk"
+  ],
+  "4504_2014-09-24": [
+    "bottled beer",
+    "sausage",
+    "hygiene articles"
+  ],
+  "4505_2014-12-30": [
+    "chocolate",
+    "domestic eggs",
+    "root vegetables",
+    "onions"
+  ],
+  "4508_2014-11-29": [
+    "tropical fruit",
+    "white bread"
+  ],
+  "4509_2014-07-30": [
+    "frozen meals",
+    "shopping bags",
+    "rolls/buns",
+    "chocolate"
+  ],
+  "4510_2014-12-03": [
+    "hard cheese",
+    "citrus fruit"
+  ],
+  "4511_2014-09-15": [
+    "soda",
+    "rice"
+  ],
+  "4512_2014-12-08": [
+    "soda",
+    "root vegetables",
+    "hygiene articles"
+  ],
+  "4515_2014-06-23": [
+    "curd",
+    "frankfurter"
+  ],
+  "4520_2014-11-02": [
+    "margarine",
+    "whole milk"
+  ],
+  "4522_2014-05-27": [
+    "soda",
+    "other vegetables"
+  ],
+  "4523_2014-11-07": [
+    "red/blush wine",
+    "ham"
+  ],
+  "4525_2014-11-13": [
+    "whole milk",
+    "bottled beer"
+  ],
+  "4526_2015-01-18": [
+    "other vegetables",
+    "whipped/sour cream"
+  ],
+  "4527_2014-10-14": [
+    "citrus fruit",
+    "rolls/buns",
+    "frozen vegetables"
+  ],
+  "4531_2014-12-17": [
+    "chocolate marshmallow",
+    "flour"
+  ],
+  "4532_2014-11-30": [
+    "other vegetables",
+    "packaged fruit/vegetables"
+  ],
+  "4533_2014-10-17": [
+    "root vegetables",
+    "candy"
+  ],
+  "4534_2014-10-15": [
+    "soda",
+    "pastry"
+  ],
+  "4535_2014-09-07": [
+    "yogurt",
+    "soda"
+  ],
+  "4538_2014-08-19": [
+    "hard cheese",
+    "other vegetables"
+  ],
+  "4539_2014-04-14": [
+    "fruit/vegetable juice",
+    "frankfurter",
+    "other vegetables"
+  ],
+  "4540_2014-12-26": [
+    "coffee",
+    "frozen vegetables"
+  ],
+  "4541_2014-07-10": [
+    "semi-finished bread",
+    "rolls/buns"
+  ],
+  "4542_2015-01-18": [
+    "whipped/sour cream",
+    "coffee"
+  ],
+  "4543_2014-11-05": [
+    "hard cheese",
+    "pastry"
+  ],
+  "4544_2014-10-29": [
+    "cake bar",
+    "canned beer"
+  ],
+  "4546_2014-10-18": [
+    "other vegetables",
+    "pickled vegetables"
+  ],
+  "4547_2015-01-18": [
+    "dishes",
+    "chewing gum",
+    "whole milk",
+    "white bread"
+  ],
+  "4548_2014-10-20": [
+    "pork",
+    "yogurt"
+  ],
+  "4550_2014-11-20": [
+    "yogurt",
+    "sausage"
+  ],
+  "4554_2014-07-20": [
+    "whole milk",
+    "napkins"
+  ],
+  "4556_2014-12-10": [
+    "yogurt",
+    "whipped/sour cream"
+  ],
+  "4557_2014-12-08": [
+    "rum",
+    "yogurt"
+  ],
+  "4561_2014-06-18": [
+    "UHT-milk",
+    "whole milk"
+  ],
+  "4562_2014-06-11": [
+    "newspapers",
+    "rolls/buns"
+  ],
+  "4563_2014-05-20": [
+    "margarine",
+    "root vegetables"
+  ],
+  "4564_2014-11-10": [
+    "brown bread",
+    "yogurt",
+    "hamburger meat",
+    "bottled beer"
+  ],
+  "4566_2014-10-31": [
+    "red/blush wine",
+    "misc. beverages"
+  ],
+  "4567_2014-05-31": [
+    "bottled water",
+    "coffee"
+  ],
+  "4569_2014-12-24": [
+    "abrasive cleaner",
+    "other vegetables",
+    "bottled beer"
+  ],
+  "4572_2014-10-30": [
+    "other vegetables",
+    "rolls/buns"
+  ],
+  "4573_2014-11-03": [
+    "other vegetables",
+    "sliced cheese"
+  ],
+  "4574_2014-11-22": [
+    "specialty fat",
+    "rolls/buns",
+    "bottled beer",
+    "mayonnaise"
+  ],
+  "4575_2014-08-04": [
+    "whole milk"
+  ],
+  "4577_2014-06-22": [
+    "napkins",
+    "mayonnaise"
+  ],
+  "4578_2014-12-08": [
+    "yogurt",
+    "root vegetables"
+  ],
+  "4579_2014-10-05": [
+    "waffles",
+    "butter"
+  ],
+  "4582_2014-06-22": [
+    "newspapers",
+    "pork",
+    "root vegetables"
+  ],
+  "4584_2014-08-29": [
+    "citrus fruit",
+    "whole milk"
+  ],
+  "4585_2015-01-05": [
+    "other vegetables",
+    "tropical fruit",
+    "brown bread",
+    "beef",
+    "cat food"
+  ],
+  "4586_2014-09-26": [
+    "newspapers",
+    "whole milk",
+    "bottled water"
+  ],
+  "4588_2014-07-28": [
+    "ham",
+    "whipped/sour cream",
+    "flour"
+  ],
+  "4589_2014-09-11": [
+    "whole milk",
+    "tropical fruit"
+  ],
+  "4592_2014-06-20": [
+    "newspapers",
+    "herbs"
+  ],
+  "4594_2014-12-24": [
+    "whole milk",
+    "bottled beer",
+    "frozen vegetables"
+  ],
+  "4596_2014-10-28": [
+    "dessert",
+    "hygiene articles"
+  ],
+  "4597_2014-07-17": [
+    "finished products",
+    "whipped/sour cream"
+  ],
+  "4598_2014-12-14": [
+    "curd",
+    "beverages"
+  ],
+  "4599_2014-04-23": [
+    "chocolate",
+    "pastry"
+  ],
+  "4601_2014-12-11": [
+    "long life bakery product",
+    "ketchup"
+  ],
+  "4603_2014-12-02": [
+    "brown bread",
+    "cat food"
+  ],
+  "4606_2014-07-11": [
+    "salt",
+    "fruit/vegetable juice"
+  ],
+  "4613_2014-07-17": [
+    "domestic eggs",
+    "fruit/vegetable juice"
+  ],
+  "4614_2014-12-25": [
+    "salty snack",
+    "sugar"
+  ],
+  "4615_2014-10-29": [
+    "canned fish",
+    "whole milk"
+  ],
+  "4616_2015-01-01": [
+    "canned beer",
+    "hamburger meat"
+  ],
+  "4617_2014-11-24": [
+    "brown bread",
+    "whole milk",
+    "brandy"
+  ],
+  "4618_2014-11-18": [
+    "other vegetables",
+    "pickled vegetables"
+  ],
+  "4620_2014-06-23": [
+    "berries",
+    "bottled beer"
+  ],
+  "4622_2014-12-06": [
+    "chicken",
+    "cream cheese "
+  ],
+  "4623_2014-12-18": [
+    "whole milk",
+    "brandy"
+  ],
+  "4624_2014-12-06": [
+    "soda",
+    "margarine",
+    "napkins",
+    "tropical fruit"
+  ],
+  "4626_2014-03-23": [
+    "canned beer",
+    "potato products"
+  ],
+  "4628_2014-12-15": [
+    "UHT-milk",
+    "ham"
+  ],
+  "4629_2014-11-23": [
+    "yogurt",
+    "fruit/vegetable juice",
+    "sugar",
+    "pickled vegetables"
+  ],
+  "4632_2014-09-18": [
+    "soda",
+    "root vegetables"
+  ],
+  "4635_2014-10-17": [
+    "yogurt",
+    "margarine"
+  ],
+  "4636_2014-07-28": [
+    "salt",
+    "soda"
+  ],
+  "4637_2014-08-28": [
+    "herbs",
+    "rolls/buns"
+  ],
+  "4638_2014-11-10": [
+    "whipped/sour cream",
+    "photo/film"
+  ],
+  "4641_2014-11-05": [
+    "whole milk",
+    "bottled water"
+  ],
+  "4645_2014-12-13": [
+    "brown bread",
+    "other vegetables"
+  ],
+  "4646_2014-12-28": [
+    "other vegetables",
+    "UHT-milk"
+  ],
+  "4649_2014-10-09": [
+    "waffles",
+    "cream cheese ",
+    "chewing gum"
+  ],
+  "4650_2014-12-14": [
+    "shopping bags",
+    "soda",
+    "curd"
+  ],
+  "4651_2014-10-01": [
+    "sugar",
+    "rolls/buns"
+  ],
+  "4652_2014-11-09": [
+    "popcorn",
+    "hamburger meat",
+    "hygiene articles",
+    "other vegetables"
+  ],
+  "4653_2014-09-11": [
+    "yogurt",
+    "ice cream"
+  ],
+  "4654_2014-09-14": [
+    "soda",
+    "whipped/sour cream",
+    "grapes"
+  ],
+  "4656_2015-01-11": [
+    "coffee",
+    "onions"
+  ],
+  "4657_2015-01-14": [
+    "yogurt",
+    "sausage"
+  ],
+  "4658_2014-07-26": [
+    "pip fruit",
+    "other vegetables",
+    "frozen vegetables"
+  ],
+  "4659_2014-12-26": [
+    "pasta",
+    "sliced cheese"
+  ],
+  "4660_2014-10-16": [
+    "yogurt",
+    "soda"
+  ],
+  "4661_2015-01-03": [
+    "condensed milk",
+    "rolls/buns",
+    "organic products"
+  ],
+  "4663_2014-04-18": [
+    "canned beer",
+    "whole milk"
+  ],
+  "4664_2014-03-01": [
+    "rolls/buns",
+    "beef"
+  ],
+  "4665_2014-12-01": [
+    "soda",
+    "rolls/buns"
+  ],
+  "4666_2014-11-26": [
+    "bottled water",
+    "bottled beer"
+  ],
+  "4667_2014-08-31": [
+    "waffles",
+    "soda"
+  ],
+  "4668_2015-01-02": [
+    "other vegetables",
+    "frozen vegetables"
+  ],
+  "4669_2014-05-08": [
+    "specialty chocolate",
+    "domestic eggs"
+  ],
+  "4671_2015-01-08": [
+    "whole milk",
+    "rolls/buns",
+    "sausage"
+  ],
+  "4673_2014-10-12": [
+    "bottled water",
+    "processed cheese"
+  ],
+  "4674_2014-05-31": [
+    "whole milk",
+    "bottled water"
+  ],
+  "4675_2015-01-16": [
+    "yogurt",
+    "rolls/buns"
+  ],
+  "4676_2015-01-15": [
+    "other vegetables",
+    "whole milk",
+    "frankfurter",
+    "hygiene articles",
+    "shopping bags",
+    "sausage"
+  ],
+  "4679_2014-09-18": [
+    "detergent",
+    "whipped/sour cream"
+  ],
+  "4680_2014-06-04": [
+    "waffles",
+    "soda",
+    "grapes"
+  ],
+  "4681_2014-10-31": [
+    "shopping bags",
+    "napkins"
+  ],
+  "4683_2015-01-15": [
+    "frankfurter",
+    "tropical fruit"
+  ],
+  "4684_2014-11-21": [
+    "specialty chocolate",
+    "shopping bags",
+    "white bread"
+  ],
+  "4685_2014-09-29": [
+    "rolls/buns",
+    "pet care"
+  ],
+  "4686_2014-11-24": [
+    "margarine",
+    "whipped/sour cream"
+  ],
+  "4687_2015-01-13": [
+    "fruit/vegetable juice",
+    "bottled water",
+    "cat food"
+  ],
+  "4688_2015-01-08": [
+    "canned beer",
+    "other vegetables",
+    "white bread",
+    "condensed milk",
+    "hard cheese",
+    "frozen vegetables",
+    "root vegetables",
+    "sausage"
+  ],
+  "4690_2014-12-20": [
+    "condensed milk",
+    "salty snack"
+  ],
+  "4692_2014-10-08": [
+    "curd",
+    "cream cheese ",
+    "hygiene articles"
+  ],
+  "4693_2015-01-07": [
+    "whole milk",
+    "bottled beer"
+  ],
+  "4694_2014-05-12": [
+    "yogurt",
+    "rolls/buns",
+    "bottled beer",
+    "onions"
+  ],
+  "4695_2014-12-22": [
+    "beef",
+    "butter"
+  ],
+  "4696_2014-08-09": [
+    "whole milk",
+    "rolls/buns",
+    "root vegetables"
+  ],
+  "4697_2014-07-05": [
+    "semi-finished bread",
+    "bottled water"
+  ],
+  "4698_2014-07-24": [
+    "curd",
+    "cleaner"
+  ],
+  "4699_2015-01-08": [
+    "red/blush wine",
+    "rolls/buns",
+    "frankfurter",
+    "whole milk"
+  ],
+  "4700_2014-10-19": [
+    "other vegetables",
+    "baking powder"
+  ],
+  "4705_2014-12-04": [
+    "female sanitary products",
+    "pot plants"
+  ],
+  "4709_2014-09-03": [
+    "beef",
+    "root vegetables"
+  ],
+  "4710_2014-08-04": [
+    "pork",
+    "domestic eggs"
+  ],
+  "4711_2014-06-21": [
+    "domestic eggs",
+    "whole milk"
+  ],
+  "4712_2014-12-14": [
+    "other vegetables",
+    "whipped/sour cream"
+  ],
+  "4715_2014-11-24": [
+    "newspapers",
+    "chewing gum"
+  ],
+  "4716_2015-01-03": [
+    "sausage",
+    "bottled beer"
+  ],
+  "4717_2014-06-23": [
+    "waffles",
+    "salty snack",
+    "newspapers"
+  ],
+  "4719_2015-01-06": [
+    "pip fruit",
+    "tropical fruit"
+  ],
+  "4720_2014-10-01": [
+    "chocolate",
+    "baking powder"
+  ],
+  "4721_2014-06-24": [
+    "rolls/buns"
+  ],
+  "4722_2014-12-02": [
+    "yogurt",
+    "hamburger meat"
+  ],
+  "4723_2014-08-28": [
+    "rice",
+    "root vegetables"
+  ],
+  "4725_2015-01-09": [
+    "rolls/buns",
+    "cat food"
+  ],
+  "4726_2015-01-03": [
+    "whole milk",
+    "tropical fruit"
+  ],
+  "4729_2014-12-27": [
+    "shopping bags",
+    "fruit/vegetable juice"
+  ],
+  "4730_2014-11-26": [
+    "other vegetables",
+    "sliced cheese"
+  ],
+  "4733_2015-01-19": [
+    "pip fruit",
+    "bottled beer",
+    "nuts/prunes"
+  ],
+  "4735_2015-01-04": [
+    "curd",
+    "whole milk"
+  ],
+  "4736_2014-10-02": [
+    "curd",
+    "other vegetables"
+  ],
+  "4738_2014-08-06": [
+    "dog food",
+    "bottled beer"
+  ],
+  "4739_2014-04-12": [
+    "soda",
+    "onions"
+  ],
+  "4740_2014-10-10": [
+    "dog food",
+    "rolls/buns"
+  ],
+  "4741_2014-10-12": [
+    "fruit/vegetable juice",
+    "chewing gum",
+    "sausage"
+  ],
+  "4743_2014-07-07": [
+    "coffee",
+    "nuts/prunes"
+  ],
+  "4744_2015-01-20": [
+    "hamburger meat"
+  ],
+  "4745_2014-08-20": [
+    "long life bakery product",
+    "soft cheese"
+  ],
+  "4746_2014-12-02": [
+    "bottled water",
+    "hygiene articles"
+  ],
+  "4747_2014-11-05": [
+    "softener",
+    "other vegetables",
+    "root vegetables",
+    "bottled beer"
+  ],
+  "4749_2014-11-09": [
+    "dessert",
+    "root vegetables"
+  ],
+  "4750_2014-11-04": [
+    "pork",
+    "whipped/sour cream"
+  ],
+  "4751_2014-11-29": [
+    "soft cheese",
+    "rolls/buns"
+  ],
+  "4753_2014-11-10": [
+    "meat",
+    "rolls/buns",
+    "frozen potato products"
+  ],
+  "4756_2014-10-12": [
+    "red/blush wine",
+    "tropical fruit",
+    "coffee"
+  ],
+  "4758_2014-11-15": [
+    "fruit/vegetable juice",
+    "spices"
+  ],
+  "4760_2014-12-16": [
+    "other vegetables",
+    "dishes"
+  ],
+  "4761_2015-01-03": [
+    "curd",
+    "other vegetables",
+    "beverages"
+  ],
+  "4762_2014-08-07": [
+    "newspapers",
+    "pastry"
+  ],
+  "4763_2014-09-29": [
+    "other vegetables",
+    "bottled beer"
+  ],
+  "4764_2014-08-28": [
+    "domestic eggs",
+    "tropical fruit",
+    "whipped/sour cream",
+    "vinegar"
+  ],
+  "4765_2015-01-07": [
+    "curd",
+    "frankfurter"
+  ],
+  "4766_2014-09-25": [
+    "oil",
+    "soda"
+  ],
+  "4769_2014-10-07": [
+    "soda",
+    "dishes"
+  ],
+  "4770_2014-05-15": [
+    "soda",
+    "root vegetables",
+    "pastry"
+  ],
+  "4771_2014-12-26": [
+    "newspapers",
+    "other vegetables",
+    "chewing gum"
+  ],
+  "4772_2014-12-19": [
+    "soda",
+    "tropical fruit"
+  ],
+  "4773_2014-12-16": [
+    "curd",
+    "bottled beer"
+  ],
+  "4779_2014-07-05": [
+    "pip fruit",
+    "pastry"
+  ],
+  "4780_2014-09-03": [
+    "newspapers",
+    "chewing gum",
+    "candy"
+  ],
+  "4782_2014-12-10": [
+    "rolls/buns",
+    "whole milk"
+  ],
+  "4783_2015-01-06": [
+    "other vegetables",
+    "chewing gum",
+    "rolls/buns"
+  ],
+  "4785_2014-09-16": [
+    "brown bread",
+    "soda"
+  ],
+  "4786_2014-11-30": [
+    "soda",
+    "dish cleaner"
+  ],
+  "4787_2015-01-08": [
+    "beef",
+    "frozen vegetables"
+  ],
+  "4788_2014-10-02": [
+    "other vegetables",
+    "candy"
+  ],
+  "4789_2014-12-08": [
+    "curd",
+    "margarine"
+  ],
+  "4791_2014-04-02": [
+    "fruit/vegetable juice",
+    "sausage"
+  ],
+  "4793_2014-12-14": [
+    "pork",
+    "pastry"
+  ],
+  "4794_2014-11-11": [
+    "brown bread",
+    "oil",
+    "bottled beer"
+  ],
+  "4796_2014-08-01": [
+    "curd",
+    "soda"
+  ],
+  "4797_2014-11-30": [
+    "canned beer",
+    "napkins",
+    "sparkling wine"
+  ],
+  "4799_2014-08-08": [
+    "frozen meals",
+    "brown bread",
+    "other vegetables",
+    "curd cheese"
+  ],
+  "4800_2014-12-29": [
+    "butter",
+    "berries",
+    "tea"
+  ],
+  "4803_2014-12-30": [
+    "canned beer",
+    "bottled water"
+  ],
+  "4804_2014-11-26": [
+    "butter milk",
+    "bottled beer"
+  ],
+  "4806_2014-09-13": [
+    "brown bread",
+    "citrus fruit",
+    "domestic eggs",
+    "candy"
+  ],
+  "4807_2014-05-21": [
+    "curd",
+    "frozen fish"
+  ],
+  "4809_2014-07-13": [
+    "UHT-milk",
+    "sugar"
+  ],
+  "4812_2014-09-06": [
+    "yogurt",
+    "other vegetables",
+    "baking powder",
+    "candy"
+  ],
+  "4813_2014-11-20": [
+    "beverages",
+    "bottled water",
+    "pastry"
+  ],
+  "4814_2014-08-26": [
+    "long life bakery product",
+    "grapes"
+  ],
+  "4817_2014-10-14": [
+    "margarine",
+    "liquor"
+  ],
+  "4819_2015-01-10": [
+    "rolls/buns",
+    "ice cream"
+  ],
+  "4820_2015-01-18": [
+    "chocolate",
+    "citrus fruit"
+  ],
+  "4821_2014-12-12": [
+    "rolls/buns",
+    "white bread"
+  ],
+  "4822_2014-08-21": [
+    "whole milk",
+    "coffee"
+  ],
+  "4823_2014-09-16": [
+    "kitchen towels",
+    "rolls/buns"
+  ],
+  "4825_2015-01-17": [
+    "brown bread",
+    "ham",
+    "bottled water",
+    "butter"
+  ],
+  "4826_2015-01-17": [
+    "whole milk",
+    "rolls/buns"
+  ],
+  "4828_2014-11-30": [
+    "salty snack",
+    "root vegetables"
+  ],
+  "4830_2014-12-23": [
+    "whole milk",
+    "dish cleaner"
+  ],
+  "4831_2014-08-16": [
+    "root vegetables",
+    "bottled beer"
+  ],
+  "4832_2014-12-18": [
+    "specialty bar",
+    "soda"
+  ],
+  "4833_2014-08-17": [
+    "domestic eggs",
+    "whole milk"
+  ],
+  "4835_2014-05-12": [
+    "shopping bags",
+    "margarine"
+  ],
+  "4836_2014-05-28": [
+    "salty snack",
+    "curd",
+    "chocolate"
+  ],
+  "4837_2014-12-17": [
+    "long life bakery product",
+    "whole milk",
+    "cat food"
+  ],
+  "4838_2014-09-08": [
+    "flower (seeds)",
+    "honey"
+  ],
+  "4839_2014-10-03": [
+    "sweet spreads",
+    "packaged fruit/vegetables"
+  ],
+  "4840_2014-11-22": [
+    "fruit/vegetable juice",
+    "whipped/sour cream"
+  ],
+  "4842_2014-10-19": [
+    "shopping bags",
+    "domestic eggs",
+    "hamburger meat"
+  ],
+  "4846_2014-10-28": [
+    "salty snack",
+    "rolls/buns",
+    "whole milk"
+  ],
+  "4847_2014-10-16": [
+    "whole milk",
+    "frankfurter"
+  ],
+  "4849_2014-04-14": [
+    "shopping bags",
+    "root vegetables",
+    "sliced cheese"
+  ],
+  "4851_2014-08-11": [
+    "whole milk",
+    "grapes"
+  ],
+  "4852_2014-12-23": [
+    "condensed milk",
+    "chewing gum"
+  ],
+  "4853_2014-12-24": [
+    "frozen meals",
+    "other vegetables"
+  ],
+  "4854_2014-12-23": [
+    "root vegetables",
+    "bottled beer"
+  ],
+  "4855_2015-01-05": [
+    "sweet spreads",
+    "liquor"
+  ],
+  "4856_2015-01-18": [
+    "domestic eggs",
+    "root vegetables",
+    "hygiene articles"
+  ],
+  "4858_2014-08-17": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "4860_2014-11-14": [
+    "newspapers",
+    "shopping bags",
+    "rolls/buns"
+  ],
+  "4862_2014-12-10": [
+    "beef",
+    "white bread"
+  ],
+  "4864_2015-01-12": [
+    "oil",
+    "ice cream"
+  ],
+  "4865_2014-11-17": [
+    "berries",
+    "other vegetables",
+    "grapes"
+  ],
+  "4866_2014-09-16": [
+    "other vegetables",
+    "sausage"
+  ],
+  "4867_2014-09-30": [
+    "beef",
+    "butter"
+  ],
+  "4868_2014-12-24": [
+    "soda",
+    "fruit/vegetable juice",
+    "bottled water",
+    "root vegetables"
+  ],
+  "4870_2014-06-30": [
+    "root vegetables",
+    "onions"
+  ],
+  "4872_2014-10-24": [
+    "shopping bags",
+    "baking powder"
+  ],
+  "4875_2014-05-06": [
+    "chocolate",
+    "pip fruit"
+  ],
+  "4876_2014-05-14": [
+    "yogurt",
+    "tidbits"
+  ],
+  "4877_2014-08-27": [
+    "shopping bags",
+    "salty snack",
+    "root vegetables"
+  ],
+  "4879_2014-12-04": [
+    "meat",
+    "root vegetables"
+  ],
+  "4880_2014-11-09": [
+    "baking powder",
+    "whipped/sour cream",
+    "cat food"
+  ],
+  "4883_2015-01-16": [
+    "other vegetables",
+    "frozen fish"
+  ],
+  "4886_2014-09-18": [
+    "sliced cheese"
+  ],
+  "4887_2014-12-11": [
+    "herbs",
+    "chocolate"
+  ],
+  "4890_2014-11-30": [
+    "margarine",
+    "sugar",
+    "whole milk"
+  ],
+  "4893_2015-01-03": [
+    "berries",
+    "napkins"
+  ],
+  "4894_2014-09-23": [
+    "fruit/vegetable juice",
+    "dishes"
+  ],
+  "4896_2014-05-03": [
+    "sweet spreads",
+    "other vegetables",
+    "whipped/sour cream",
+    "root vegetables"
+  ],
+  "4897_2014-11-25": [
+    "canned fish",
+    "coffee"
+  ],
+  "4898_2014-10-09": [
+    "margarine",
+    "bottled beer"
+  ],
+  "4899_2014-10-05": [
+    "rolls/buns",
+    "pot plants"
+  ],
+  "4900_2014-04-05": [
+    "chicken",
+    "pickled vegetables"
+  ],
+  "4901_2014-12-04": [
+    "snack products",
+    "pastry"
+  ],
+  "4902_2014-11-21": [
+    "salty snack",
+    "rolls/buns"
+  ],
+  "4906_2014-11-03": [
+    "sausage",
+    "brandy"
+  ],
+  "4908_2014-11-13": [
+    "kitchen towels",
+    "coffee"
+  ],
+  "4910_2014-11-27": [
+    "soda",
+    "mayonnaise"
+  ],
+  "4911_2014-07-20": [
+    "other vegetables",
+    "domestic eggs"
+  ],
+  "4913_2015-01-08": [
+    "brown bread",
+    "other vegetables",
+    "beverages"
+  ],
+  "4915_2014-11-01": [
+    "yogurt",
+    "rolls/buns"
+  ],
+  "4916_2015-01-03": [
+    "brown bread",
+    "hamburger meat",
+    "detergent",
+    "coffee"
+  ],
+  "4917_2014-05-30": [
+    "rolls/buns",
+    "frankfurter"
+  ],
+  "4922_2014-12-07": [
+    "margarine",
+    "whole milk"
+  ],
+  "4923_2014-12-26": [
+    "domestic eggs",
+    "white bread"
+  ],
+  "4924_2015-01-03": [
+    "chewing gum",
+    "whole milk",
+    "beef"
+  ],
+  "4925_2014-12-18": [
+    "pip fruit",
+    "rolls/buns"
+  ],
+  "4929_2014-08-05": [
+    "waffles",
+    "beef"
+  ],
+  "4931_2014-09-26": [
+    "waffles",
+    "margarine"
+  ],
+  "4932_2014-05-14": [
+    "brown bread",
+    "soda",
+    "pip fruit"
+  ],
+  "4933_2014-11-28": [
+    "domestic eggs",
+    "UHT-milk"
+  ],
+  "4935_2014-03-19": [
+    "cling film/bags",
+    "soda"
+  ],
+  "4937_2014-09-30": [
+    "hard cheese",
+    "liquor"
+  ],
+  "4938_2014-10-13": [
+    "berries",
+    "mayonnaise"
+  ],
+  "4939_2014-09-17": [
+    "brown bread",
+    "margarine"
+  ],
+  "4941_2015-01-15": [
+    "salty snack",
+    "canned beer",
+    "hamburger meat",
+    "domestic eggs",
+    "soda",
+    "rolls/buns",
+    "ham",
+    "pickled vegetables",
+    "bottled beer"
+  ],
+  "4943_2014-10-22": [
+    "brown bread",
+    "rolls/buns"
+  ],
+  "4944_2014-08-26": [
+    "meat",
+    "dishes"
+  ],
+  "4946_2014-06-24": [
+    "other vegetables",
+    "soft cheese"
+  ],
+  "4947_2014-11-24": [
+    "rum",
+    "rolls/buns"
+  ],
+  "4948_2014-05-23": [
+    "curd",
+    "root vegetables"
+  ],
+  "4950_2014-08-30": [
+    "other vegetables",
+    "soft cheese",
+    "chewing gum"
+  ],
+  "4951_2014-10-27": [
+    "cream",
+    "root vegetables"
+  ],
+  "4952_2014-07-15": [
+    "curd",
+    "sugar"
+  ],
+  "4955_2014-10-21": [
+    "other vegetables",
+    "sliced cheese"
+  ],
+  "4956_2014-11-20": [
+    "yogurt",
+    "pot plants"
+  ],
+  "4957_2014-05-19": [
+    "detergent",
+    "butter"
+  ],
+  "4958_2014-10-05": [
+    "specialty chocolate",
+    "instant coffee",
+    "frozen meals"
+  ],
+  "4959_2014-12-30": [
+    "specialty chocolate",
+    "other vegetables",
+    "root vegetables"
+  ],
+  "4960_2014-10-28": [
+    "hamburger meat",
+    "chewing gum"
+  ],
+  "4962_2014-10-17": [
+    "pip fruit",
+    "whole milk"
+  ],
+  "4963_2014-12-29": [
+    "white wine",
+    "whole milk"
+  ],
+  "4967_2014-09-16": [
+    "chocolate",
+    "sausage"
+  ],
+  "4968_2014-05-11": [
+    "margarine",
+    "canned vegetables"
+  ],
+  "4969_2014-10-27": [
+    "other vegetables",
+    "sausage"
+  ],
+  "4972_2014-12-21": [
+    "citrus fruit",
+    "frozen vegetables"
+  ],
+  "4974_2014-07-18": [
+    "seasonal products",
+    "rolls/buns"
+  ],
+  "4975_2014-10-02": [
+    "curd",
+    "artif. sweetener"
+  ],
+  "4979_2014-11-18": [
+    "brown bread",
+    "whole milk"
+  ],
+  "4983_2014-12-13": [
+    "yogurt",
+    "baking powder"
+  ],
+  "4984_2014-07-06": [
+    "domestic eggs",
+    "pastry"
+  ],
+  "4985_2014-12-03": [
+    "shopping bags",
+    "pickled vegetables"
+  ],
+  "4986_2015-01-02": [
+    "other vegetables",
+    "whole milk"
+  ],
+  "4987_2014-12-04": [
+    "cream cheese ",
+    "other vegetables"
+  ],
+  "4988_2014-12-13": [
+    "misc. beverages",
+    "frozen vegetables"
+  ],
+  "4991_2014-12-22": [
+    "other vegetables",
+    "root vegetables"
+  ],
+  "4992_2015-01-03": [
+    "pip fruit",
+    "frankfurter"
+  ],
+  "4993_2014-08-19": [
+    "detergent",
+    "tropical fruit"
+  ],
+  "4995_2014-03-16": [
+    "rice",
+    "dish cleaner"
+  ],
+  "4999_2014-09-04": [
+    "newspapers",
+    "semi-finished bread"
+  ],
+  "5000_2014-11-16": [
+    "other vegetables",
+    "bottled beer"
+  ]
+}
