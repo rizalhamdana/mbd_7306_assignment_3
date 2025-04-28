@@ -1,0 +1,48 @@
+{
+  "dev": [
+    {
+      "model": "Rule",
+      "variant": "FP-Growth",
+      "precision": 0.07742461287693561,
+      "recall": 0.334863714570316,
+      "map": 0.14113751762590396
+    },
+    {
+      "model": "CF",
+      "variant": "FP-Growth",
+      "precision": 0.024898125509372454,
+      "recall": 0.10609274136169002,
+      "map": 0.033557721331763705
+    },
+    {
+      "model": "Hybrid",
+      "variant": "FP-Growth",
+      "precision": 0.043235533822330884,
+      "recall": 0.18461905408726925,
+      "map": 0.06954123599090999
+    }
+  ],
+  "test": [
+    {
+      "model": "Rule",
+      "precision": 0.09103145795523292,
+      "recall": 0.3253701183034214,
+      "map": 0.15278560528533522,
+      "variant": "FP-Growth"
+    },
+    {
+      "model": "CF",
+      "precision": 0.05066545674531155,
+      "recall": 0.17956895351405333,
+      "map": 0.07707293847722146,
+      "variant": "CF-only"
+    },
+    {
+      "model": "Hybrid",
+      "precision": 0.07174833635813672,
+      "recall": 0.2549271286453682,
+      "map": 0.10316666070794117,
+      "variant": "Hybrid"
+    }
+  ]
+}
